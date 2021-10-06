@@ -28,9 +28,9 @@ sections:
         implications are augmented by the socio-economic forces which are
         constantly reshaping our env
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Reason
+      description: The ASEAN Social Security Association (ASSA) was formed to provide
+        a forum for member institutions to exchange views and experiences on
+        social security issues.
+      image: /images/slider2020_indonesia.jpg
 ---
