@@ -2,6 +2,7 @@
 title: FAQ
 permalink: /faq/
 ---
+
 ## Frequently Asked Questions
 
 **1. What does ASSA mean?**
