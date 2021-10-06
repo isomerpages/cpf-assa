@@ -6,11 +6,11 @@ description: As a non-government organisation, ASSA seeks to promote the
   aspirations, laws and regulations of the member countries.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: ASEAN Social Security Association (ASSA)
-      background: /images/hero-banner.png
+      background: /images/slider7.jpg
       key_highlights:
         - title: ASSA board Meeting 2021
           description: Indonesia
