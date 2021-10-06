@@ -36,5 +36,3 @@ All social security organisations in ASEAN can send their applications to the AS
 **7. Who can answer my queries?**
 
 For queries pertaining specifically to the member institutions, please contact them directly. For queries relating to ASSA, you may direct them to the [ASSA Secretariat](https://www.asean-ssa.org/Contact-Us-ASSA.aspx).
-
-
