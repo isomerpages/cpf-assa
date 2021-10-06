@@ -20,13 +20,9 @@ sections:
           description: Malaysia
           url: HTTPS://google.com
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
+      title: Asdf adsf asdf asdf asdf asdf asdf asdf asf asdf asdf asd af
+      subtitle: Infobar Subtitle sfdsfsdfsdfsd
+      description: Asdfa asdf asdf asdf asdf asdf asdf asdf asdf. Af asdf asdf fade
+        asdf asdf asdf asdf asdf asdf asdf asdfa sdfasdf asdf asdf asdf asdf
+        asdf deaf asdf asdf asdf a
 ---
