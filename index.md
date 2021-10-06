@@ -41,8 +41,4 @@ sections:
         Vietnam.
       image: /images/slider2020_malaysia.jpg
       alt: Collaboration
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
