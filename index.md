@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: ASEAN Social Security Association
+description: As a non-government organisation, ASSA seeks to promote the
+  development of social security in the region in consonance with the
+  aspirations, laws and regulations of the member countries.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
