@@ -10,15 +10,15 @@ sections:
       title: ASEAN Social Security Association (ASSA)
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: ASSA board Meeting 2021
+          description: Indonesia
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: ASSA Board Meeting 2022
+          description: Lao
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: ASSA board meeting 2023
+          description: Malaysia
+          url: HTTPS://google.com
   - infobar:
       title: Infobar title
       subtitle: Subtitle
