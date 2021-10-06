@@ -24,9 +24,9 @@ sections:
   - infobar:
       title: ASEAN Social Security Association (ASSA)
       subtitle: Welcome to
-      description: Social security has far-reaching implications in our lives. These
-        implications are augmented by the socio-economic forces which are
-        constantly reshaping our env
+      description: Social security has far-reaching implications in our lives that are
+        augmented by the socio-economic forces which are constantly reshaping
+        our environment.
   - infopic:
       title: Reason
       description: The ASEAN Social Security Association (ASSA) was formed to provide
