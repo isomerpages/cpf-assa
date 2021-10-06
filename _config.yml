@@ -1,4 +1,4 @@
-title: Title
+title: ASEAN Social Security Association
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
@@ -16,7 +16,9 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: Resource
-description: An Isomer site of the Singapore Government
+description: As a non-government organisation, ASSA seeks to promote the
+  development of social security in the region in consonance with the
+  aspirations, laws and regulations of the member countries.
 permalink: none
 baseurl: ""
 exclude:
