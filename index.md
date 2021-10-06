@@ -22,8 +22,8 @@ sections:
           description: Malaysia
           url: HTTPS://google.com
   - infobar:
-      title: Welcome to the ASEAN Social Security Association (ASSA)
-      subtitle: ASEAN Social Security Associat
+      title: ASEAN Social Security Association (ASSA)
+      subtitle: Welcome to
       description: Social security has far-reaching implications in our lives. These
         implications are augmented by the socio-economic forces which are
         constantly reshaping our env
