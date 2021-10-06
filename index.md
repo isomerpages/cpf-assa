@@ -33,4 +33,10 @@ sections:
         a forum for member institutions to exchange views and experiences on
         social security issues.
       image: /images/slider2020_indonesia.jpg
+  - infopic:
+      title: Collaboration
+      description: Comprise of the ASSA countries namely, Brunei, Cambodia, Indonesia,
+        Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand and
+        Vietnam.
+      image: /images/slider2020_malaysia.jpg
 ---
