@@ -20,9 +20,15 @@ sections:
           description: Malaysia
           url: HTTPS://google.com
   - infobar:
-      title: Asdf adsf asdf asdf asdf asdf asdf asdf asf asdf asdf asd af
-      subtitle: Infobar Subtitle sfdsfsdfsdfsd
-      description: Asdfa asdf asdf asdf asdf asdf asdf asdf asdf. Af asdf asdf fade
-        asdf asdf asdf asdf asdf asdf asdf asdfa sdfasdf asdf asdf asdf asdf
-        asdf deaf asdf asdf asdf a
+      title: Welcome to the ASEAN Social Security Association (ASSA)
+      subtitle: ASEAN Social Security Associat
+      description: Social security has far-reaching implications in our lives. These
+        implications are augmented by the socio-economic forces which are
+        constantly reshaping our env
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
