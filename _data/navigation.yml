@@ -11,3 +11,10 @@ links:
         url: /The-Board-ASSA
   - title: Member Institutions
     url: /Member-Institutions-ASSA
+  - title: Events
+    url: /Events-ASSA
+    sublinks:
+      - title: ASSA Board Meeting
+        url: /Events-ASSA
+      - title: Seminar & Conferences
+        url: /Seminar-ASSA
