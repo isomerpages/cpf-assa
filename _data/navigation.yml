@@ -18,3 +18,5 @@ links:
         url: /Events-ASSA
       - title: Seminar & Conferences
         url: /Seminar-ASSA
+  - title: Menu Title
+    collection: Collection
