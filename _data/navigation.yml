@@ -20,3 +20,5 @@ links:
         url: /Seminar-ASSA
   - title: Menu Title
     collection: Collection
+  - title: Publications
+    collection: publications
