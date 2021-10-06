@@ -28,15 +28,17 @@ sections:
         augmented by the socio-economic forces which are constantly reshaping
         our environment.
   - infopic:
-      title: Reason
+      title: Cause
       description: The ASEAN Social Security Association (ASSA) was formed to provide
         a forum for member institutions to exchange views and experiences on
         social security issues.
       image: /images/slider2020_indonesia.jpg
+      alt: Cause
   - infopic:
       title: Collaboration
       description: Comprise of the ASSA countries namely, Brunei, Cambodia, Indonesia,
         Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand and
         Vietnam.
       image: /images/slider2020_malaysia.jpg
+      alt: Collaboration
 ---
