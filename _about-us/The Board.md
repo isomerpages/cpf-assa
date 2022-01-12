@@ -8,19 +8,42 @@ description: ""
 
 ### Chairman, ASSA
 
+<style type="text/css">
+.bioButton2 {
+  /* padding: 15px; */
+  background: #00578f;
+  text-align: center;
+  cursor: pointer;
+  -webkit-border-bottom-left-radius: 10px;
+  -webkit-border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  width: 230px;
+  height: 50px;
+  margin: 0 auto;
+  display: block;
+  display: block;
+  margin-right: 1px;
+}
+</style>
+
 <table>
 	<tr>
-			<td width="140px" ><img src="/images/ANGGORO%20EKO%20CAHYO.jpg" /></td>
+			<td width="160px" ><img src="/images/ANGGORO%20EKO%20CAHYO.jpg" /></td>
 			<td colspan="3" style="text-align:center">
-					<p><strong>MR ANGGORO EKO CAHYO</strong></p>
-					<p>President Director</p>
-					<p>BPJS Ketenagakerjaan</p>
-					<p>Indonesia</p>
+					<p><strong>MR ANGGORO EKO CAHYO</strong> <br/>
+						President Director <br/>
+						BPJS Ketenagakerjaan<br/>
+						Indonesia</p>
 			</td>
 	 </tr>
 	 <tr>
 			<td></td>
 			<td></td>
-			<td colspan="2">3</td>
+			<td colspan="2">
+				<a class="bioButton2" href="Upload/director/pdf/39.pdf" target="_blank">
+					<div class="imgtext">BIOGRAPHY</div>
+				</a>
+		 </td>
 	 </tr>
 </table>
