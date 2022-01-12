@@ -7,6 +7,18 @@ description: ""
 
 
 ### Chairman, ASSA
+<style>
+.directorDetails {
+  width: 489px;
+  background-image: url(../images/topBg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 170px;
+  /* margin: 0 auto; */
+  display: block;
+  margin: 0 auto;
+}
+</style>
 
 <table>
 	<tr>
