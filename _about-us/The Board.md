@@ -10,12 +10,17 @@ description: ""
 
 <table>
 	<tr>
-			<td background="/images/ANGGORO%20EKO%20CAHYO.jpg"></td>
-			<td colspan="3">BIO</td>
+			<td width="140px" ><img src="/images/ANGGORO%20EKO%20CAHYO.jpg" /></td>
+			<td colspan="3" style="text-align:center">
+					<p><strong>MR ANGGORO EKO CAHYO</strong></p>
+					<p>President Director</p>
+					<p>BPJS Ketenagakerjaan</p>
+					<p>Indonesia</p>
+			</td>
 	 </tr>
 	 <tr>
-			<td>1</td>
-			<td>2</td>
+			<td></td>
+			<td></td>
 			<td colspan="2">3</td>
 	 </tr>
 </table>
