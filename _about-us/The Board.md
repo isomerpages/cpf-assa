@@ -10,7 +10,7 @@ description: ""
 
 <table>
 	<tr>
-			<td>picture</td>
+			<td background="/images/ANGGORO%20EKO%20CAHYO.jpg"></td>
 			<td colspan="3">BIO</td>
 	 </tr>
 	 <tr>
