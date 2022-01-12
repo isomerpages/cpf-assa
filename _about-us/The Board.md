@@ -8,33 +8,6 @@ description: ""
 
 ### Chairman, ASSA
 
-<style type="text/css">
-.bioButton {
-  /* padding: 15px; */
-  background: #00578f;
-  text-align: center;
-  cursor: pointer;
-  -webkit-border-bottom-left-radius: 10px;
-  -webkit-border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  width: 230px;
-  height: 50px;
-  margin: 0 auto;
-  display: block;
-  display: block;
-  margin-right: 1px;
-}
-.bioButton2 .imgtext {
-  font-size: 14px;
-  font-family: 'Open Sans';
-  text-align: center;
-  font-weight: bold;
-  text-transform: uppercase;
-  color: white;
-  padding-top: 13px;
-}
-</style>
 
 <table>
 	<tr>
@@ -44,15 +17,9 @@ description: ""
 						President Director <br/>
 						BPJS Ketenagakerjaan<br/>
 						Indonesia</p>
-			</td>
-	 </tr>
-	 <tr>
-			<td></td>
-			<td></td>
-			<td colspan="2">
 				<a class="bioButton" href="/Upload/director/pdf/39.pdf" target="_blank">
-					<div class="imgtext">BIOGRAPHY</div>
+					BIOGRAPHY
 				</a>
-		 </td>
+			</td>
 	 </tr>
 </table>
