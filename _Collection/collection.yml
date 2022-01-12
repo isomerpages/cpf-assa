@@ -1,5 +1,0 @@
-collections:
-  Collection:
-    output: true
-    order:
-      - Page.md
