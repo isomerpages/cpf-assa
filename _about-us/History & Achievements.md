@@ -5,7 +5,7 @@ date: 2022-01-12
 layout: post
 description: ""
 ---
-# History - A Peek at Our Past
+## History - A Peek at Our Past
 
 ### The Proposal (September, 1995)
 The proposal to form an association, to be known as the ASEAN Social Security Association or ASSA, was put forward by the Indonesian National Social Security Association sometime in September 1995. The rationale for the proposal was to establish a regional body representing all social security organisations of ASEAN member countries. In view of the similarity of the objectives, programmes and activities of ASEAN social security organisations, ASSA would provide a forum for senior officials to meet regularly. Through the establishment of the ASSA, meaningful regional co-operation is fostered among the social security organisations, especially in the area of training, research and development.
@@ -29,3 +29,5 @@ On February 13, 1998, a meeting was held at the Social Security Office in Bangko
 On February 13, 1998, in Bangkok, Thailand, the Memorandum of Agreement (MOA) establishing the ASEAN Social Security Association (ASSA) was formally signed by the heads of the social security organisations: Prof. Dr. Awaloedin Djamin (Indonesian National Social Security Association), Tan Sri Sallehuddin bin Mohamed (Employees Provident Fund, Malaysia), Mr Wan Abdul Wahab Abdullah (Social Security Organisation, Malaysia), Mr Renato C. Valencia (Social Security System, Philippines), Mr Cesar N. Sarino (Government Service Insurance System, Philippines), Mr Leong Lick Tien (Central Provident Fund Board, Singapore) and Mr Chamlong Sriprasart (Social Security Office, Thailand). The signing ceremony was witnessed by the Minister of Labor and Social Security of Thailand. Representatives from Lao PDR and Vietnam also attended the signing ceremony as observers.
 
 The signing of MOA marked the birth of ASSA as the premier Social Security Association for regional co-operation in the ASEAN region.
+
+## Founder Members
