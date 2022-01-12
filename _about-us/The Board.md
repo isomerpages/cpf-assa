@@ -19,11 +19,11 @@ description: ""
   margin: 0 auto;
 }
 </style>
-<div class="directorDetails">
+
 <table>
 	<tr>
 			<td width="200px" ><img src="/images/ANGGORO%20EKO%20CAHYO.jpg" /></td>
-			<td colspan="3" style="text-align:center">
+			<td colspan="3" style="text-align:center" class="directorDetails">
 					<p><strong>MR ANGGORO EKO CAHYO</strong> <br/>
 						President Director <br/>
 						BPJS Ketenagakerjaan<br/>
