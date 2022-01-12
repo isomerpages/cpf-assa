@@ -41,4 +41,3 @@ In 1995, the heads of several social security institutions in ASEAN took the fir
 |  |  |  |
 | -------- | -------- | -------- |
 | Compilation of the Social Security Profiles in ASEAN Countries     | Compilation of Social Security Schemes of ASSA Member Countries     | Compilation of the Good Practices of ASSA Member Institutions     |
-
