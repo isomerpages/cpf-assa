@@ -9,7 +9,7 @@ description: ""
 ### Chairman, ASSA
 
 <style type="text/css">
-.bioButton2 {
+.bioButton {
   /* padding: 15px; */
   background: #00578f;
   text-align: center;
@@ -24,6 +24,15 @@ description: ""
   display: block;
   display: block;
   margin-right: 1px;
+}
+.bioButton2 .imgtext {
+  font-size: 14px;
+  font-family: 'Open Sans';
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+  padding-top: 13px;
 }
 </style>
 
@@ -41,7 +50,7 @@ description: ""
 			<td></td>
 			<td></td>
 			<td colspan="2">
-				<a class="bioButton2" href="Upload/director/pdf/39.pdf" target="_blank">
+				<a class="bioButton" href="/Upload/director/pdf/39.pdf" target="_blank">
 					<div class="imgtext">BIOGRAPHY</div>
 				</a>
 		 </td>
