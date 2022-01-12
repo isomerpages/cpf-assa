@@ -10,7 +10,7 @@ description: ""
 <style>
 .directorDetails {
   width: 489px;
-  background-image: url(../images/topBg.png);
+  background-image: url(/images/topBg.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 170px;
@@ -23,7 +23,7 @@ description: ""
 <table>
 	<tr>
 			<td width="200px" ><img src="/images/ANGGORO%20EKO%20CAHYO.jpg" /></td>
-			<td colspan="3" style="text-align:center">
+			<td colspan="3" style="text-align:center" class="directorDetails">
 					<p><strong>MR ANGGORO EKO CAHYO</strong> <br/>
 						President Director <br/>
 						BPJS Ketenagakerjaan<br/>
