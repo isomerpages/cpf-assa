@@ -25,3 +25,7 @@ On February 13, 1998, a meeting was held at the Social Security Office in Bangko
 * Laos and Vietnam would attend the MOA signing ceremony as witnesses, being not yet ready to become members of ASSA; and
 * The ASSA logo design proposed by Thailand was accepted, with minor modifications.
 
+### Signing Ceremony of ASSA MOA, Bangkok, Thailand (February 13, 1998)
+On February 13, 1998, in Bangkok, Thailand, the Memorandum of Agreement (MOA) establishing the ASEAN Social Security Association (ASSA) was formally signed by the heads of the social security organisations: Prof. Dr. Awaloedin Djamin (Indonesian National Social Security Association), Tan Sri Sallehuddin bin Mohamed (Employees Provident Fund, Malaysia), Mr Wan Abdul Wahab Abdullah (Social Security Organisation, Malaysia), Mr Renato C. Valencia (Social Security System, Philippines), Mr Cesar N. Sarino (Government Service Insurance System, Philippines), Mr Leong Lick Tien (Central Provident Fund Board, Singapore) and Mr Chamlong Sriprasart (Social Security Office, Thailand). The signing ceremony was witnessed by the Minister of Labor and Social Security of Thailand. Representatives from Lao PDR and Vietnam also attended the signing ceremony as observers.
+
+The signing of MOA marked the birth of ASSA as the premier Social Security Association for regional co-operation in the ASEAN region.
