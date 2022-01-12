@@ -8,7 +8,6 @@ description: ""
 
 ### Chairman, ASSA
 
-
 <table>
 	<tr>
 			<td width="200px" ><img src="/images/ANGGORO%20EKO%20CAHYO.jpg" /></td>
