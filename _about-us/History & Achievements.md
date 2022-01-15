@@ -163,9 +163,22 @@ The signing of MOA marked the birth of ASSA as the premier Social Security Assoc
 ## Achievements
 In 1995, the heads of several social security institutions in ASEAN took the first bold step of putting their minds together, with the aim of maximising all efforts towards the achievement of progressive and sustainable social security protection within the region. The launch of the ASSA website in September 2000 marked another milestone that would foster greater and closer exchange of experiences and promote mutual co-operation among ASSA member countries and institutions. Today, ASSA continues to move with even greater strides and higher aspirations.
 
-### Some of the major achievements of ASSA
+<div class="row">
+	<div class="col has-text-centered content is-medium">
+	Some of the major achievements of ASSA
+	</div>
+</div>
+
+<div class="row">
+    <div class="col is-4 has-text-centered content is-medium">
+        Compilation of the Social Security Profiles in ASEAN Countries 
+    </div>
+    <div class="col is-4 has-text-centered content is-medium">
+        Compilation of Social Security Schemes of ASSA Member Countries
+    </div>
+    <div class="col is-4 has-text-centered content is-medium">
+        Compilation of the Good Practicesof ASSA Member Institutions
+    </div>
+</div>
 
 
-|  |  |  |
-| -------- | -------- | -------- |
-| Compilation of the Social Security Profiles in ASEAN Countries     | Compilation of Social Security Schemes of ASSA Member Countries     | Compilation of the Good Practices of ASSA Member Institutions     |
