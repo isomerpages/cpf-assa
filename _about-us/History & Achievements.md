@@ -55,7 +55,7 @@ The signing of MOA marked the birth of ASSA as the premier Social Security Assoc
 
 <div class="row">
 	<div class="col is-3">
-		<img class="imgFounder" src="images/Founder-1.jpg" alt="" style="background-size:contain;" />
+		<img class="imgFounder" src="/images/founder/1.jpg" alt="" style="background-size:contain;" />
 		<div class="name">
 			Prof. Dr. Awaloedin Djamin
 		</div>
@@ -67,7 +67,7 @@ The signing of MOA marked the birth of ASSA as the premier Social Security Assoc
 		</div>
 	</div>
 	<div class="col is-3">
-		<img class="imgFounder" src="images/Founder-2.jpg" alt="" style="background-size:contain;" />
+		<img class="imgFounder" src="/images/founder/2.jpg" alt="" style="background-size:contain;" />
 		<div class="name">
 			Tan Sri. Sallehuddin bin Mohamed
 		</div>
@@ -80,7 +80,7 @@ The signing of MOA marked the birth of ASSA as the premier Social Security Assoc
 		</div>
 	</div>
 	<div class="col is-3">
-		<img class="imgFounder" src="images/Founder-3.jpg" alt="" style="background-size:contain;" />
+		<img class="imgFounder" src="/images/founder/3.jpg" alt="" style="background-size:contain;" />
 		<div class="name">
 			Dato Wan Abdul Wahab Abdullah
 		</div>
@@ -93,7 +93,7 @@ The signing of MOA marked the birth of ASSA as the premier Social Security Assoc
 		</div>
 	</div>
 	<div class="col is-3">
-		<img class="imgFounder" src="images/Founder-4.jpg" alt="" style="background-size:contain;" />
+		<img class="imgFounder" src="/images/founder/4.jpg" alt="" style="background-size:contain;" />
 		<div class="name">
 			Mr Cesar N.Sarino
 		</div>
@@ -108,7 +108,7 @@ The signing of MOA marked the birth of ASSA as the premier Social Security Assoc
 </div>
 <div class="row">
 	<div class="col is-3">
-		<img class="imgFounder" src="images/Founder-5.jpg" alt="" style="background-size:contain;" />
+		<img class="imgFounder" src="/images/founder/5.jpg" alt="" style="background-size:contain;" />
 		<div class="name">
 			Mr Renato C. Valencia
 		</div>
@@ -121,7 +121,7 @@ The signing of MOA marked the birth of ASSA as the premier Social Security Assoc
 		</div>
 	</div>
 	<div class="col is-3">
-		<img class="imgFounder" src="images/Founder-6.jpg" alt="" style="background-size:contain;" />
+		<img class="imgFounder" src="/images/founder/6.jpg" alt="" style="background-size:contain;" />
 		<div class="name">
 			Mr Lim Han Soon
 		</div>
@@ -134,7 +134,7 @@ The signing of MOA marked the birth of ASSA as the premier Social Security Assoc
 		</div>
 	</div>
 	<div class="col is-3">
-		<img class="imgFounder" src="images/Founder-7.jpg" alt="" style="background-size:contain;" />
+		<img class="imgFounder" src="/images/founder/7.jpg" alt="" style="background-size:contain;" />
 		<div class="name">
 			Mr Chamlong Sriprasart
 		</div>
@@ -147,7 +147,7 @@ The signing of MOA marked the birth of ASSA as the premier Social Security Assoc
 		</div>
 	</div>
 	<div class="col is-3">
-		<img class="imgFounder" src="images/Founder-8.jpg" alt="" style="background-size:contain;" />
+		<img class="imgFounder" src="/images/founder/8.jpg" alt="" style="background-size:contain;" />
 		<div class="name">
 			Mr Sentanoe Kertonegoro
 		</div>
