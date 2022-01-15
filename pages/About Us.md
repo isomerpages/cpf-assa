@@ -22,7 +22,6 @@ description: ""
 	<li>The colours: Gold symbolises prosperity of ASEAN countries; Light blue represents stability, freedom and peace; and Dark blue represents stability and strength.</li>
 </ul>
 </div>
-	
 <div style="float:right">
 <img src="/images/assa-about-logo.png"></img>
 </div>
