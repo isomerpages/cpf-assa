@@ -14,7 +14,7 @@ description: ""
 * To co-operate in the defence, promotion and development of social security schemes through training, seminars, consultations and dialogues, among others.
 
 # THE LOGO CONCEPT
-<div style="float:left; width:612px">
+<div style="float:left; max-width:612px">
 <ul>
 	<li>ASSA is the abbreviation of ASEAN SOCIAL SECURITY ASSOCIATION.</li>
 	<li>The cross alphabet 3 A(ASEAN) represents traditional relationship and also represents development from agricultural society to industrial society and the move into globalization era</li>
