@@ -31,6 +31,112 @@ On February 13, 1998, in Bangkok, Thailand, the Memorandum of Agreement (MOA) es
 The signing of MOA marked the birth of ASSA as the premier Social Security Association for regional co-operation in the ASEAN region.
 
 ## Founder Members
+<div class="row">
+	<div class="col is-3">
+		<img class="imgFounder" src="images/Founder-1.jpg" alt="" style="background-size:contain;" />
+		<div class="name">
+			Prof. Dr. Awaloedin Djamin
+		</div>
+		<div class="position">
+			Chairman
+		</div>
+		<div class="company">
+			Indonesian National Social Security Association
+		</div>
+	</div>
+	<div class="col is-3">
+		<img class="imgFounder" src="images/Founder-2.jpg" alt="" style="background-size:contain;" />
+		<div class="name">
+			Tan Sri. Sallehuddin bin Mohamed
+		</div>
+		<div class="position">
+			Executive Chairman
+		</div>
+		<div class="company">
+			Employees Provident Fund<br />
+			Malaysia
+		</div>
+	</div>
+	<div class="col is-3">
+		<img class="imgFounder" src="images/Founder-3.jpg" alt="" style="background-size:contain;" />
+		<div class="name">
+			Dato Wan Abdul Wahab Abdullah
+		</div>
+		<div class="position">
+			Director-General
+		</div>
+		<div class="company">
+			Social Security Organisation<br />
+			Malaysia
+		</div>
+	</div>
+	<div class="col is-3">
+		<img class="imgFounder" src="images/Founder-4.jpg" alt="" style="background-size:contain;" />
+		<div class="name">
+			Mr Cesar N.Sarino
+		</div>
+		<div class="position">
+			Chairman of the Board
+		</div>
+		<div class="company">
+			Government Service Insurance System<br />
+			Philippines
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col is-3">
+		<img class="imgFounder" src="images/Founder-5.jpg" alt="" style="background-size:contain;" />
+		<div class="name">
+			Mr Renato C. Valencia
+		</div>
+		<div class="position">
+			Administrator
+		</div>
+		<div class="company">
+			Social Security System<br />
+			Philippines
+		</div>
+	</div>
+	<div class="col is-3">
+		<img class="imgFounder" src="images/Founder-6.jpg" alt="" style="background-size:contain;" />
+		<div class="name">
+			Mr Lim Han Soon
+		</div>
+		<div class="position">
+			General Manager
+		</div>
+		<div class="company">
+			Central Provident Fund Board<br />
+			Singapore
+		</div>
+	</div>
+	<div class="col is-3">
+		<img class="imgFounder" src="images/Founder-7.jpg" alt="" style="background-size:contain;" />
+		<div class="name">
+			Mr Chamlong Sriprasart
+		</div>
+		<div class="position">
+			Secretary-General
+		</div>
+		<div class="company">
+			Social Security Office<br />
+			Thailand
+		</div>
+	</div>
+	<div class="col is-3">
+		<img class="imgFounder" src="images/Founder-8.jpg" alt="" style="background-size:contain;" />
+		<div class="name">
+			Mr Sentanoe Kertonegoro
+		</div>
+		<div class="position">
+			Secretary-General
+		</div>
+		<div class="company">
+			Indonesian National Social Security Association
+		</div>
+	</div>
+</div>
 
 ## Achievements
 In 1995, the heads of several social security institutions in ASEAN took the first bold step of putting their minds together, with the aim of maximising all efforts towards the achievement of progressive and sustainable social security protection within the region. The launch of the ASSA website in September 2000 marked another milestone that would foster greater and closer exchange of experiences and promote mutual co-operation among ASSA member countries and institutions. Today, ASSA continues to move with even greater strides and higher aspirations.
