@@ -31,6 +31,28 @@ On February 13, 1998, in Bangkok, Thailand, the Memorandum of Agreement (MOA) es
 The signing of MOA marked the birth of ASSA as the premier Social Security Association for regional co-operation in the ASEAN region.
 
 ## Founder Members
+
+<style type="text/css">
+    .name {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+}    
+.position {
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    font-style: italic;
+}
+.company {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+</style>
+
+
 <div class="row">
 	<div class="col is-3">
 		<img class="imgFounder" src="images/Founder-1.jpg" alt="" style="background-size:contain;" />
