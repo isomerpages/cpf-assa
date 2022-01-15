@@ -23,5 +23,5 @@ description: ""
 </ul>
 </div>
 <div style="float:right; display:block">
-<img src="/images/assa-about-logo.png"></img>
+<img src="/images/assa-about-logo.png"/>
 </div>
