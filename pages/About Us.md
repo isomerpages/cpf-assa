@@ -14,8 +14,15 @@ description: ""
 * To co-operate in the defence, promotion and development of social security schemes through training, seminars, consultations and dialogues, among others.
 
 # THE LOGO CONCEPT
-![ASSA Logo](/images/assa-about-logo.png)
-* ASSA is the abbreviation of ASEAN SOCIAL SECURITY ASSOCIATION.
-* The cross alphabet 3 A(ASEAN) represents traditional relationship and also represents development from agricultural society to industrial society and the move into globalization era
-* The frame lines represent two embracing arms supporting member institutions independently without any concern on political matter
-* The colours: Gold symbolises prosperity of ASEAN countries; Light blue represents stability, freedom and peace; and Dark blue represents stability and strength.
+<div style="float:left; width:612px">
+<ul>
+	<li>ASSA is the abbreviation of ASEAN SOCIAL SECURITY ASSOCIATION.</li>
+	<li>The cross alphabet 3 A(ASEAN) represents traditional relationship and also represents development from agricultural society to industrial society and the move into globalization era</li>
+	<li>The frame lines represent two embracing arms supporting member institutions independently without any concern on political matter</li>
+	<li>The colours: Gold symbolises prosperity of ASEAN countries; Light blue represents stability, freedom and peace; and Dark blue represents stability and strength.</li>
+</ul>
+</div>
+	
+<div style="float:right">
+<img src="/images/assa-about-logo.png"></img>
+</div>
