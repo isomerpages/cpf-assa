@@ -171,12 +171,12 @@ In 1995, the heads of several social security institutions in ASEAN took the fir
 
 <div class="row">
     <div class="col is-4 has-text-centered content is-medium">
-        <a href="https://www.asean-ssa.org/Organization-Profiles-ASSA">Compilation of the Social Security Profiles in ASEAN Countries </a>
+        <a class="has-text-link" href="https://www.asean-ssa.org/Organization-Profiles-ASSA">Compilation of the Social Security Profiles in ASEAN Countries </a>
     </div>
     <div class="col is-4 has-text-centered content is-medium">
-        <a href="https://www.asean-ssa.org/Member-Institutions-ASSA">Compilation of Social Security Schemes of ASSA Member Countries</a>
+        <a class="has-text-link" href="https://www.asean-ssa.org/Member-Institutions-ASSA">Compilation of Social Security Schemes of ASSA Member Countries</a>
     </div>
     <div class="col is-4 has-text-centered content is-medium">
-        <a href="https://www.asean-ssa.org/Events-ASSA">Compilation of the Good Practicesof ASSA Member Institutions</a>
+        <a class="has-text-link" href="https://www.asean-ssa.org/Events-ASSA">Compilation of the Good Practicesof ASSA Member Institutions</a>
     </div>
 </div>
