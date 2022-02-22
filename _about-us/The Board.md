@@ -111,12 +111,12 @@ Indonesia</p>
 	</div>
 	<div class="col is-4">
 						<p>
-					<img src="/images/Board/HENG SOPHANNARITH.jpg" />
-					<strong>H.E. MR HENG SOPHANNARITH, PH.D</strong> <br/>
-Acting Director General <br/>
-National Social Security Fund <br/>
-Cambodia</p>
-		<a href="/files/Biography/HENG SOPHANNARITH.pdf" target="_blank">
+					<img src="/images/Board/AMIR HAMZAH.jpg" />
+					<strong>DATUK SERI AMIR HAMZAH</strong> <br/>
+Chief Executive Officer <br/>
+Employees Provident Fund <br/>
+Malaysia</p>
+		<a href="/files/Biography/AMIR HAMZAH.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
