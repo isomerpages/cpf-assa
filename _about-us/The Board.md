@@ -53,12 +53,12 @@ Lao</p>
 <div class="row has-text-centered">
 	<div class="col is-4">
 				<p>
-					<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
-					<strong>MRS KEO CHANTHAVIXAY</strong> <br/>
-Director General <br/>
-Lao Social Security Organization <br/>
-Lao</p>
-		<a href="/files/Biography/Keo Chanthavixay.pdf" target="_blank">
+					<img src="/images/Board/OMAR BIN MOHD DALI.jpg" />
+					<strong>MR OMAR BIN MOHD DALI</strong> <br/>
+Managing Director <br/>
+Employees Trust Fund<br/>
+Brunei</p>
+		<a href="/files/Biography/OMAR BIN MOHD DALI.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
