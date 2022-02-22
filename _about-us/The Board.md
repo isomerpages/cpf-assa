@@ -121,3 +121,39 @@ Malaysia</p>
 		</a>
 	</div>
 </div>
+
+<div class="row has-text-centered">
+	<div class="col is-4">
+				<p>
+					<img src="/images/Board/AZMAN AZIZ.jpg" />
+					<strong>DR MOHAMMED AZMAN AZIZ MOHAMMED</strong> <br/>
+Chief Executive Officer <br/>
+Social Security Organisation<br/>
+Malaysia </p>
+		<a href="/files/Biography/AZMAN AZIZ.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+	<div class="col is-4">
+				<p>
+					<img src="/images/Board/MAUNG MAUNG AYE.jpg" />
+					<strong>MR MAUNG MAUNG AYE</strong> <br/>
+Director General <br/>
+Social Security Board <br/>
+					Myanmar </p>
+		<a href="/files/Biography/MAUNG MAUNG AYE.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+	<div class="col is-4">
+						<p>
+					<img src="/images/Board/STELLA ZIPAGAN-BANAWIS.jpg" />
+					<strong>MS STELLA ZIPAGAN-BANAWIS</strong> <br/>
+Executive Director <br/>
+Employees' Compensation Commission <br/>
+Philippines</p>
+		<a href="/files/Biography/STELLA ZIPAGAN-BANAWIS.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+</div>
