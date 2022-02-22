@@ -19,7 +19,7 @@ description: ""
 ### Chairman, ASSA
 <div class="row">
 	<div class="col is-4">
-		<img src="/images/ANGGORO%20EKO%20CAHYO.jpg" />
+		<img src="/images/board/ANGGORO%20EKO%20CAHYO.jpg" />
 	</div>
 	<div class="col is-8 has-text-centered">
 		<p><strong>MR ANGGORO EKO CAHYO</strong> <br/>
