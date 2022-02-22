@@ -52,9 +52,36 @@ Lao</p>
 ### Members 
 <div class="row has-text-centered">
 	<div class="col is-4">
+				<p>
+					<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
+					<strong>MRS KEO CHANTHAVIXAY</strong> <br/>
+Director General <br/>
+Lao Social Security Organization <br/>
+Lao</p>
+		<a href="/files/Biography/Keo Chanthavixay.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
 	</div>
 	<div class="col is-4">
+				<p>
+					<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
+					<strong>MRS KEO CHANTHAVIXAY</strong> <br/>
+Director General <br/>
+Lao Social Security Organization <br/>
+Lao</p>
+		<a href="/files/Biography/Keo Chanthavixay.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
 	</div>
 	<div class="col is-4">
+						<p>
+					<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
+					<strong>MRS KEO CHANTHAVIXAY</strong> <br/>
+Director General <br/>
+Lao Social Security Organization <br/>
+Lao</p>
+		<a href="/files/Biography/Keo Chanthavixay.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
 	</div>
 </div>
