@@ -89,23 +89,23 @@ Cambodia</p>
 <div class="row has-text-centered">
 	<div class="col is-4">
 				<p>
-					<img src="/images/Board/MR OMAR BIN MOHD DALI.jpg" />
-					<strong>MR OMAR BIN MOHD DALI</strong> <br/>
-Managing Director <br/>
-Employees Trust Fund<br/>
-Brunei</p>
-		<a href="/files/Biography/MR OMAR BIN MOHD DALI.pdf" target="_blank">
+					<img src="/images/Board/KIM SOVANDY.jpg" />
+					<strong>MR KIM SOVANDY</strong> <br/>
+Executive Director <br/>
+National Social Security Fund for Civil Servants<br/>
+Cambodia</p>
+		<a href="/files/Biography/KIM SOVANDY.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
 	<div class="col is-4">
 				<p>
-					<img src="/images/Board/MR HONG HEAN.jpg" />
-					<strong>MR HONG HEAN</strong> <br/>
-Executive Director <br/>
-National Fund for Veterans<br/>
-Cambodia</p>
-		<a href="/files/Biography/MR HONG HEAN.pdf" target="_blank">
+					<img src="/images/Board/FACHMI IDRIS.jpg" />
+					<strong>PROF. DR. DR. FACHMI IDRIS, M. KES.</strong> <br/>
+Chief Executive Officer <br/>
+BPJS Kesehatan<br/>
+Indonesia</p>
+		<a href="/files/Biography/FACHMI IDRIS.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
