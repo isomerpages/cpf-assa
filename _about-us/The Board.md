@@ -49,3 +49,12 @@ Lao</p>
 	</div>
 </div>
 
+### Members 
+<div class="row has-text-centered">
+	<div class="col is-4">
+	</div>
+	<div class="col is-4">
+	</div>
+	<div class="col is-4">
+	</div>
+</div>
