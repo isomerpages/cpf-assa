@@ -163,7 +163,7 @@ Philippines</p>
 	<div class="col is-4">
 				<p>
 					<img src="/images/Board/ROLANDO LEDESMA MACASAET.jpg" />
-					<strong>DMR ROLANDO LEDESMA MACASAET</strong> <br/>
+					<strong>MR ROLANDO LEDESMA MACASAET</strong> <br/>
 President and General Manager <br/>
 Government Service Insurance System <br/>
 Philippines </p>
@@ -193,4 +193,111 @@ Philippines</p>
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
+</div>
+
+
+<div class="row has-text-centered">
+	<div class="col is-4">
+				<p>
+					<img src="/images/Board/AURORA CRUZ IGNACIO.jpg" />
+					<strong>MRS AURORA CRUZ IGNACIO
+</strong> <br/>
+President and Chief Executive Officer<br/>
+Social Security System<br/>
+Philippines
+ </p>
+		<a href="/files/Biography/AURORA CRUZ IGNACIO.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+	<div class="col is-4">
+				<p>
+					<img src="/images/Board/AUGUSTIN LEE.jpg" />
+					<strong>MR AUGUSTIN LEE</strong> <br/>
+Chief Executive Officer <br/>
+Central Provident Fund Board <br/>
+Singapore </p>
+		<a href="/files/Biography/AUGUSTIN LEE.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+	<div class="col is-4">
+						<p>
+					<img src="/images/Board/SOMBAT NARAWUTTHICHAI.jpg" />
+					<strong>MR SOMBAT NARAWUTTHICHAI</strong> <br/>
+Secretary General <br/>
+Government Pension Fund <br/>
+Thailand</p>
+		<a href="/files/Biography/SOMBAT NARAWUTTHICHAI.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+</div>
+
+
+<div class="row has-text-centered">
+	<div class="col is-4">
+				<p>
+					<img src="/images/Board/JADEJ THAMMATACH-AREE.jpg" />
+					<strong>DR JADEJ THAMMATACH-AREE
+</strong> <br/>
+Secretary General<br/>
+National Health Security Office<br/>
+Thailand
+ </p>
+		<a href="/files/Biography/JADEJ THAMMATACH-AREE.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+	<div class="col is-4">
+				<p>
+					<img src="/images/Board/CHARULUCK RUANGSUWAN.jpg" />
+					<strong>MS CHARULUCK RUANGSUWAN</strong> <br/>
+Secretary General <br/>
+National Savings Fund <br/>
+Thailand </p>
+		<a href="/files/Biography/CHARULUCK RUANGSUWAN.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+	<div class="col is-4">
+						<p>
+					<img src="/images/Board/BOONSONG THAPCHAIYUTH.jpg" />
+					<strong>MR BOONSONG THAPCHAIYUTH</strong> <br/>
+Secretary-General<br/>
+Social Security Office<br/>
+Thailand</p>
+		<a href="/files/Biography/BOONSONG THAPCHAIYUTH.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+</div>
+
+<div class="row has-text-centered">
+	<div class="col is-4">
+				<p>
+					<img src="/images/Board/NGUYEN THE MANH.jpg" />
+					<strong>MR NGUYEN THE MANH
+</strong> <br/>
+Director General<br/>
+Vietnam Social Security<br/>
+Vietnam
+ </p>
+		<a href="/files/Biography/NGUYEN THE MANH.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+	<div class="col is-4">
+				<p>
+					<img src="/images/Board/INDRAJID NURMUKTI.jpg" />
+					<strong>MR INDRAJID NURMUKTI</strong> <br/>
+Secretary General, ASSA<br/>
+Head of Inter-Institutional Relations <br/>
+BPJS Ketenagakerjaan <br/>
+Indonesia </p>
+		<a href="/files/Biography/INDRAJID NURMUKTI.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+
 </div>
