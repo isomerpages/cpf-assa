@@ -10,9 +10,6 @@ description: ""
 <style>
 .directorDetails {
   width: 489px;
-  background-image: url(/images/topbg.png);
-  background-repeat: no-repeat;
-  background-size: cover;
   height: 170px;
   /* margin: 0 auto; */
   display: block;
