@@ -26,7 +26,7 @@ description: ""
 						President Director <br/>
 						BPJS Ketenagakerjaan<br/>
 						Indonesia</p>
-		<a href="/Upload/director/pdf/Anggoro Eko Cahyo.pdf" target="_blank">
+		<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
@@ -40,7 +40,7 @@ description: ""
 						Director General <br/>
 Lao Social Security Organization <br/>
 Lao</p>
-		<a href="/Upload/director/pdf/39.pdf" target="_blank">
+		<a href="/files/Biography/Keo Chanthavixay.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
@@ -48,3 +48,4 @@ Lao</p>
 		<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
 	</div>
 </div>
+
