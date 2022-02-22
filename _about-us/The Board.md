@@ -157,3 +157,40 @@ Philippines</p>
 		</a>
 	</div>
 </div>
+
+
+<div class="row has-text-centered">
+	<div class="col is-4">
+				<p>
+					<img src="/images/Board/ROLANDO LEDESMA MACASAET.jpg" />
+					<strong>DMR ROLANDO LEDESMA MACASAET</strong> <br/>
+President and General Manager <br/>
+Government Service Insurance System <br/>
+Philippines </p>
+		<a href="/files/Biography/ROLANDO LEDESMA MACASAET.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+	<div class="col is-4">
+				<p>
+					<img src="/images/Board/ACMAD RIZALDY.jpg" />
+					<strong>MR ACMAD RIZALDY P. MOTI</strong> <br/>
+Chief Executive Officer <br/>
+Home Development Mutual Fund <br/>
+Philippines </p>
+		<a href="/files/Biography/ACMAD RIZALDY.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+	<div class="col is-4">
+						<p>
+					<img src="/images/Board/RICARDO C MORALES.jpg" />
+					<strong>BGEN. RICARDO C. MORALES, AFP (RET) FICD</strong> <br/>
+President and Chief Executive Officer <br/>
+Philippine Health Insurance Corporation <br/>
+Philippines</p>
+		<a href="/files/Biography/RICARDO C MORALES.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+</div>
