@@ -6,7 +6,6 @@ description: ""
 ## CURRENT BOARD MEMBERS OF ASSA
 
 
-### Chairman, ASSA
 <style>
 .directorDetails {
   width: 489px;
@@ -17,17 +16,35 @@ description: ""
 }
 </style>
 
-<table>
-	<tr>
-			<td width="200px" ><img src="/images/ANGGORO%20EKO%20CAHYO.jpg" /></td>
-			<td colspan="3" style="text-align:center" class="directorDetails">
-					<p><strong>MR ANGGORO EKO CAHYO</strong> <br/>
+### Chairman, ASSA
+<div class="row">
+	<div class="col is-4">
+		<img src="/images/ANGGORO%20EKO%20CAHYO.jpg" />
+	</div>
+	<div class="col is-8 has-text-centered">
+		<p><strong>MR ANGGORO EKO CAHYO</strong> <br/>
 						President Director <br/>
 						BPJS Ketenagakerjaan<br/>
 						Indonesia</p>
-				<a href="/Upload/director/pdf/39.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
-				</a>
-			</td>
-	 </tr>
-</table>
+		<a href="/Upload/director/pdf/39.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+</div>
+
+### VICE-CHAIRMAN, ASSA
+
+<div class="row">
+	<div class="col is-8 has-text-centered">
+		<p><strong>MRS KEO CHANTHAVIXAY</strong> <br/>
+						Director General <br/>
+Lao Social Security Organization <br/>
+Lao</p>
+		<a href="/Upload/director/pdf/39.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+	<div class="col is-4">
+		<img src="/images/ANGGORO%20EKO%20CAHYO.jpg" />
+	</div>
+</div>
