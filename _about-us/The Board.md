@@ -19,14 +19,14 @@ description: ""
 ### Chairman, ASSA
 <div class="row">
 	<div class="col is-4">
-		<img src="/images/board/ANGGORO%20EKO%20CAHYO.jpg" />
+		<img src="/images/Board/ANGGORO%20EKO%20CAHYO.jpg" />
 	</div>
 	<div class="col is-8 has-text-centered">
 		<p><strong>MR ANGGORO EKO CAHYO</strong> <br/>
 						President Director <br/>
 						BPJS Ketenagakerjaan<br/>
 						Indonesia</p>
-		<a href="/Upload/director/pdf/39.pdf" target="_blank">
+		<a href="/Upload/director/pdf/Anggoro Eko Cahyo.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
@@ -45,6 +45,6 @@ Lao</p>
 		</a>
 	</div>
 	<div class="col is-4">
-		<img src="/images/ANGGORO%20EKO%20CAHYO.jpg" />
+		<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
 	</div>
 </div>
