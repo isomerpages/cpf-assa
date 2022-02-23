@@ -18,10 +18,6 @@ links:
         url: /Events-ASSA
       - title: Seminar & Conferences
         url: /Seminar-ASSA
-  - title: FAQ
-    url: /FAQ
-  - title: Contact Us
-    url: /Contact-Us-ASSA
   - title: Publications
     url: /
     sublinks:
@@ -31,3 +27,7 @@ links:
         url: /Organization-Profiles-ASSA
       - title: ASSA RECOGNITION AWARD
         url: /Recognition-Awards-ASSA
+  - title: FAQ
+    url: /FAQ
+  - title: Contact Us
+    url: /Contact-Us-ASSA
