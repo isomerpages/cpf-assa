@@ -2,5 +2,5 @@ collections:
   publications:
     output: true
     order:
-      - Organisations' Profiles.md
       - ASSA News.md
+      - Organisations' Profiles.md
