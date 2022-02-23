@@ -22,3 +22,12 @@ links:
     url: /FAQ
   - title: Contact Us
     url: /Contact-Us-ASSA
+  - title: Publications
+    url: /
+    sublinks:
+      - title: ASSA News
+        url: /News-ASSA
+      - title: ORGANISATIONS’ PROFILES
+        url: /Organization-Profiles-ASSA
+      - title: ASSA RECOGNITION AWARD
+        url: /Recognition-Awards-ASSA
