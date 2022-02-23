@@ -28,6 +28,6 @@ description: ""
 		<a href="/files/Organisation%20Profiles/Brunei_Profile.pdf">INDONESIA | BPJS KESEHATAN</a>
 	</div>
 	<div class="col is-6 has-text-centered bp-card">
-		<a href="/files/Organisation%20Profiles/Profile of NFV.pdf">Indonesia | BPJS Ketenagakerjaan</a>
+		<a href="/files/Organisation%20Profiles/Profile of NFV.pdf">Indonesia | BPJS Ketenagakerjaan</a><br/>&nbsp;
 	</div>
 </div>
