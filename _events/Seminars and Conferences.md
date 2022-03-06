@@ -6,7 +6,7 @@ description: ""
 ## INTERNATIONAL SOCIAL WELL-BEING CONFERENCE 2019
 ###### EMPLOYEES PROVIDENT FUND, MALAYSIA
 ###### VENUE: GRAND HYATT KUALA LUMPUR, MALAYSIA
-###### DATE: 21-22 NOVEMBER 2019
+###### 21-22 NOVEMBER 2019
 
 #### INTERNATIONAL SOCIAL WELL-BEING CONFERENCE 2019
 
@@ -58,6 +58,7 @@ For more information click [here](https://www.asean-ssa.org/PDF/International_So
 
 #### INTERNATIONAL SOCIAL SECURITY CONFERENCE 2018
 ![](/images/Seminar%20and%20Conferences/ISSC_2018_Banner.jpg)
+
 Greetings from the EPF!
 
 We are pleased to inform you that the International Social Security Conference (ISSC) 2018, themed ‘A Better Tomorrow’, will be held at Hilton Hotel, KL Sentral, Kuala Lumpur on the 8 and 9 August 2018. In collaboration with Nomura and Citi Malaysia, this two-day conference aspires to spark conversations and empower communities with thought-provoking ideas and solutions to catalyse change across communities globally. The conference, which will be officiated by Dato’ Seri Dr. Wan Azizah Dr. Wan Ismail, the Deputy Prime Minister of Malaysia, aspires to animate new conversations in the realm of social security and a holistic concept of well-being and living a meaningful life.
@@ -67,3 +68,39 @@ Around 500 participants will partake in this event including delegates from Inte
 For further information on the topics, speakers and to register, kindly go to our event website at www.issc2018.com.
 
 Should you have any enquiries, please do not hesitate to contact the ISSC 2018 team at ISSC2018@epf.gov.my
+
+
+
+## INTERNATIONAL SEMINAR ON "EXPANDING SOCIAL SECURITY COVERAGE IN THE DISRUPTIVE ECONOMY ERA"
+###### BPJS KETENAGAKERJAAN, INDONESIA
+###### 17 OCTOBER – 18 OCTOBER 2017
+
+#### INTERNATIONAL SEMINAR ON "EXPANDING SOCIAL SECURITY COVERAGE IN THE DISRUPTIVE ECONOMY ERA"
+##### Overview  About
+#### VENUE
+#### ACCOMMODATION
+#### PROGRAMME
+#### REGISTRATION INFORMATION
+#### ADDITIONAL INFORMATION
+
+
+
+
+## THE 3RD INTERNATIONAL TRAINING COURSE ON COMPREHENSIVE REHABILITATION FOR WORKERS WITH DISABILITIES
+###### SOCIAL SECURITY OFFICE, THAILAND
+###### 27 AUGUST - 9 SEPTEMBER 2017
+
+#### VENUE: THE INDUSTRIAL REHABILITATION CENTRE REGION 1 (1RC) 97 MOO 3, BANGPOON, MUANG DISTRICT PATHUMTHANI 12000, THAILAND
+
+#### THE 3RD INTERNATIONAL TRAINING COURSE ON COMPREHENSIVE REHABILITATION FOR WORKERS WITH DISABILITIES
+##### Application Form
+
+
+## INTERNATIONAL SOCIAL SECURITY CONFERENCE 2017
+###### EMPLOYEES PROVIDENT FUND, MALAYSIA
+###### 2 - 3 AUGUST 2017
+###### VENUE: ALOFT KUALA LUMPUR SENTRAL, MALAYSIA
+
+#### INTERNATIONAL SOCIAL SECURITY CONFERENCE 2017
+![](/images/Seminar%20and%20Conferences/epf.jpg)
+##### Register Now  Registration Form
