@@ -45,7 +45,7 @@ For more information click [here](/files/Seminar%20and%20Conferences/Internation
 
 ###### 17 JULY 2019
 
-##### For more information
+##### [For more information](/files/Seminar%20and%20Conferences/Workshop%20talks%20good%20governance.pdf)
 
 
 
