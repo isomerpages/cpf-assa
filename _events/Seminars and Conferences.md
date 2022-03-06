@@ -67,7 +67,7 @@ Around 500 participants will partake in this event including delegates from Inte
 
 For further information on the topics, speakers and to register, kindly go to our event website at www.issc2018.com.
 
-Should you have any enquiries, please do not hesitate to contact the ISSC 2018 team at ISSC2018@epf.gov.my
+Should you have any enquiries, please do not hesitate to contact the ISSC 2018 team at [ISSC2018@epf.gov.my](mailto:ISSC2018@epf.gov.my)
 
 
 
