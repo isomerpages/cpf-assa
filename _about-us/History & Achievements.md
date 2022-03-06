@@ -181,6 +181,3 @@ In 1995, the heads of several social security institutions in ASEAN took the fir
     </div>
 </div>
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UkQW8Q8rcEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
