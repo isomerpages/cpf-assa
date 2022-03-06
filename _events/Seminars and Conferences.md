@@ -24,7 +24,7 @@ For further information on topics and speakers, go to our event website at https
 You can also catch up with the highlights of last year’s conference here:
 ##### [ISSC 2018 Day 1](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.youtube.com_watch-3Fv-3D6cO-5FkPP87-5FY&d=DwMGaQ&c=Ftw_YSVcGmqQBvrGwAZugGylNRkk-uER0-5bY94tjsc&r=EdVwsXYJSc_ovJvtsCjLj3deNx1K6JxxjF8QrwsZbE4&m=uoaZgzn19SCf30Cxf91h93yFCY-0q4iexnNLS5cc8ZE&s=npNcbCPQ8HyQjCxwiz2BVJF7n38jzxUsvT3wvx88Ffc&e=)
 ##### [SSC 2018 Day 2](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.youtube.com_watch-3Fv-3DITmyfeR7IcA&d=DwMGaQ&c=Ftw_YSVcGmqQBvrGwAZugGylNRkk-uER0-5bY94tjsc&r=EdVwsXYJSc_ovJvtsCjLj3deNx1K6JxxjF8QrwsZbE4&m=uoaZgzn19SCf30Cxf91h93yFCY-0q4iexnNLS5cc8ZE&s=x0_x7wRhGc9i6_nZ93v-ZVg2-ueiPQNxT9y2tO8ENcY&e=)
-For more information click [](/files/Seminar%20and%20Conferences/International_Social_Well-Being_Conference.pdf)
+For more information click [here](/files/Seminar%20and%20Conferences/International_Social_Well-Being_Conference.pdf)
 
 
 
