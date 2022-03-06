@@ -65,7 +65,7 @@ We are pleased to inform you that the International Social Security Conference (
 
 Around 500 participants will partake in this event including delegates from International Social Security Association (ISSA), ASEAN Social Security Association (ASSA) as well as local policy makers, private sector organizations, employer associations, employee unions, human resource practitioners, researchers, academicians and the public.
 
-For further information on the topics, speakers and to register, kindly go to our event website at www.issc2018.com.
+For further information on the topics, speakers and to register, kindly go to our event website at [www.issc2018.com](www.issc2018.com).
 
 Should you have any enquiries, please do not hesitate to contact the ISSC 2018 team at [ISSC2018@epf.gov.my](mailto:ISSC2018@epf.gov.my)
 
