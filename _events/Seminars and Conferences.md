@@ -96,7 +96,7 @@ Should you have any enquiries, please do not hesitate to contact the ISSC 2018 t
 #### VENUE: THE INDUSTRIAL REHABILITATION CENTRE REGION 1 (1RC) 97 MOO 3, BANGPOON, MUANG DISTRICT PATHUMTHANI 12000, THAILAND
 
 #### THE 3RD INTERNATIONAL TRAINING COURSE ON COMPREHENSIVE REHABILITATION FOR WORKERS WITH DISABILITIES
-##### Application Form
+##### [Overview](/files/Seminar%20and%20Conferences/The%203rd%20International%20Training%20Course.pdf) [Application Form](/files/Seminar%20and%20Conferences/Application%20form.pdf)
 
 
 ## INTERNATIONAL SOCIAL SECURITY CONFERENCE 2017
@@ -106,4 +106,4 @@ Should you have any enquiries, please do not hesitate to contact the ISSC 2018 t
 
 #### INTERNATIONAL SOCIAL SECURITY CONFERENCE 2017
 ![](/images/Seminar%20and%20Conferences/epf.jpg)
-##### Register Now  Registration Form
+##### [Register Now](/files/Seminar%20and%20Conferences/Register%20Now%20-%20International%20Social%20Security%20Conference.pdf)  [Registration Form](/files/Seminar%20and%20Conferences/EPF%20ISSC%202017-REGISTRATION%20FORM.pdf)
