@@ -112,3 +112,56 @@ Social Security Office, Thailand
 
 Government Service Insurance System, Philippines
 
+
+
+## ASSA RECOGNITION AWARD, 2019CLOSE
+
+ASSA Chairman presented the Award to the following Member Organisations:
+
+#### (A) CONTINUOUS IMPROVEMENT RECOGNITION AWARD
+
+National Social Security Fund, Lao PDR
+
+Employees’ Compensation Commission, Philippines
+
+National Health Security Office, Thailand
+
+#### (B) INFORMATION TECHNOLOGY RECOGNITION AWARD
+
+Social Security Board, Myanmar
+
+Government Service Insurance System, Philippines
+
+Philippine Health Insurance Corporation, Philippines
+
+Central Provident Fund Board, Singapore
+
+#### (C) INNOVATION RECOGNITION AWARD
+
+National fund for Veterans, Cambodia
+
+BPJS Ketenagakerjaan, Indonesia
+
+Employees Provident Fund, Malaysia
+
+Social Security Organisation, Malaysia
+
+Viet Nam Social Security, Viet Nam
+
+#### (D) INSURANCE COVERAGE RECOGNITION AWARD
+
+National Social Security Fund, Cambodia
+
+National Social Security Fund for Civil Servants, Cambodia
+
+Social Security System, Philippines
+
+Social Security Office, Thailand
+
+#### (E) FINANCIAL LITERACY RECOGNITION AWARD
+
+Employees Trust Fund, Brunei
+
+#### (F) STRATEGIC COMMUNICATION RECOGNITION AWARD
+
+Home Development Mutual Fund, Philippines
