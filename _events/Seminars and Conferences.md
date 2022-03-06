@@ -35,8 +35,7 @@ For more information click [here](/files/Seminar%20and%20Conferences/Internation
 #### 5TH INTERNATIONAL TRAINING COURSE
 ![5TH INTERNATIONAL TRAINING COURSE](/images/Seminar%20and%20Conferences/ITC_2019_Banner.jpg)
 #### COMPREHENSIVE REHABILITATION FOR WORKS WITH PHYSICAL DISABILITIES 2019
-##### [Application Form](https://www.asean-ssa.org/PDF/ITC2019Application_Form.pdf)
-
+##### [Application Form](/files/Seminar%20and%20Conferences/ITC2019Application_Form.pdf)
 
 
 
