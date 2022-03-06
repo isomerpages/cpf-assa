@@ -3,31 +3,54 @@ title: Organisations' Profiles
 permalink: /Organization-Profiles-ASSA
 description: ""
 ---
-### PROFILES OF ASSA MEMBER ORGANISATIONS
+## PROFILES OF ASSA MEMBER ORGANISATIONS
 
-<div class="row">
-	<div class="col is-6 has-text-centered bp-card">
-		<a href="/files/Organisation%20Profiles/Brunei_Profile.pdf">Brunei | Employees Trust Fund</a>
-	</div>
-	<div class="col is-6 has-text-centered bp-card">
-		<a href="/files/Organisation%20Profiles/Profile of NFV.pdf">Cambodia | National Fund For Veterans</a>
-	</div>
-</div>
+BRUNEI | EMPLOYEES TRUST FUND
 
-<div class="row">
-	<div class="col is-6 has-text-centered bp-card">
-		<a href="/files/Organisation%20Profiles/NSSF Profile Update 2015.pdf">Cambodia | National Social Security Fund</a>
-	</div>
-	<div class="col is-6 has-text-centered bp-card">
-		<a href="/files/Organisation%20Profiles/NSSFC.pdf">Cambodia | National Social Security Fund for Civil Servants</a>
-	</div>
-</div>
+CAMBODIA | NATIONAL FUND FOR VETERANS
 
-<div class="row">
-	<div class="col is-6 has-text-centered bp-card">
-		<a href="/files/Organisation%20Profiles/INSSA Profile 2014.pdf">INDONESIA | BPJS KESEHATAN</a>
-	</div>
-	<div class="col is-6 has-text-centered bp-card">
-		<a href="/files/Organisation%20Profiles/INSSA Profile 2014.pdf">Indonesia | BPJS Ketenagakerjaan</a><br/>&nbsp;
-	</div>
-</div>
+CAMBODIA | NATIONAL SOCIAL SECURITY FUND
+
+CAMBODIA | NATIONAL SOCIAL SECURITY FUND FOR CIVIL SERVANTS
+
+INDONESIA | BPJS KESEHATAN
+
+INDONESIA | BPJS KETENAGAKERJAAN
+
+LAO PDR | LAO SOCIAL SECURITY ORGANISATION
+
+MALAYSIA | EMPLOYEES PROVIDENT FUND
+
+MALAYSIA | SOCIAL SECURITY ORGANISATION
+
+MYANMAR | SOCIAL SECURITY BOARD
+
+PHILIPPINES | EMPLOYEES' COMPENSATION COMMISSION
+
+PHILIPPINES | GOVERNMENT SERVICE INSURANCE SYSTEM
+
+PHILIPPINES | HOME DEVELOPMENT MUTUAL FUND
+
+PHILIPPINES | PHILIPPINE HEALTH INSURANCE CORPORATION
+
+PHILIPPINES | SOCIAL SECURITY SYSTEM
+
+SINGAPORE | CENTRAL PROVIDENT FUND BOARD
+
+THAILAND | NATIONAL HEALTH SECURITY OFFICE
+
+THAILAND | NATIONAL SAVINGS FUND
+
+THAILAND - SOCIAL SECURITY OFFICE
+
+VIETNAM - VIETNAM SOCIAL SECURITY
+
+
+
+## SOCIAL SECURITY PROFILES OF ASEAN COUNTRIES
+
+FIRST EDITION
+
+THIRD EDITION
+
+SOCIAL SECURITY SCHEMES OF ASSA MEMBER COUNTRIES
