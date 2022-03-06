@@ -5,436 +5,145 @@ date: 2022-01-15
 layout: post
 description: ""
 ---
-<div class="row ">
-		<div class="col is-2">
-			<strong>Nov 2021</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 34<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
 
-<div class="row ">
-		<div class="col is-2">
-			<strong>Dec 2020</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 33<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Sep 2019</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 32<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a> <br>
-						<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Sep 2018</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 31<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Aug 2017</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 30<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Sep 2016</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 29<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Sep 2015</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 28<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Sep 2014</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 27<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Oct 2013</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 26<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Sep 2012</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 25<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Oct 2011</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 24<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
+#### NOV 2021 ASSA News Vol 34
 
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Mar 2011</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 23<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Sep 2010</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 22<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Mar 2010</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 21<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
+Download
 
-<div class="row ">
-		<div class="col is-2">
-			<strong>Oct 2009</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 20<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Mar 2009</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 19<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Oct 2008</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 18<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Apr 2008</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 17<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Oct 2007</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 16<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Apr 2007</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 15<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Aug 2006</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 14<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Feb 2006</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 13<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Sep 2005</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 12<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Mar 2005</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 11<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Aug 2004</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 10<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Mar 2004</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 9<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Aug 2003</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 8<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Mar 2003</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 7<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Aug 2002</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 6<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Mar 2002</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 5<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Jul 2001</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 4<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Jan 2001</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 3<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Jun 2000</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 2<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Dec 1999</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Vol 1<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
-			
-<div class="row ">
-		<div class="col is-2">
-			<strong>Sep 1999</strong>
-		</div>
-		<div class="col is-6">
-			<strong>ASSA News Special Edition<strong>
-		</div>
-		<div class="col">
-			<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">Download</a>
-		</div>
-</div>
+#### DEC 2020 ASSA News Vol 33
+
+Download
+
+#### SEP 2019 ASSA News Vol 32
+
+Download
+
+Download
+
+#### SEP 2018 ASSA News Vol 31
+
+Download
+
+#### AUG 2017 ASSA News Vol 30
+
+Download
+
+#### SEP 2016 ASSA News Vol 29
+
+Download
+
+#### SEP 2015 ASSA News Vol 28
+
+Download
+
+#### SEP 2014 ASSA News Vol 27
+
+Download
+
+#### OCT 2013 ASSA News Vol 26
+
+Download
+
+#### SEP 2012 ASSA News Vol 25
+
+Download
+
+#### OCT 2011 ASSA News Vol 24
+
+Download
+
+#### MAR 2011 ASSA News Vol 23
+
+Download
+
+#### SEP 2010 ASSA News Vol 22
+
+Download
+
+#### MAR 2010 ASSA News Vol 21
+
+Download
+
+#### OCT 2009 ASSA News Vol 20
+
+Download
+
+#### MAR 2009 ASSA News Vol 19
+
+Download
+
+#### OCT 2008 ASSA News Vol 18
+
+Download
+
+#### APR 2008 ASSA News Vol 17
+
+Download
+
+#### OCT 2007 ASSA News Vol 16
+
+Download
+
+#### APR 2007 ASSA News Vol 15
+
+Download
+
+#### AUG 2006 ASSA News Vol 14
+
+Download
+
+#### FEB 2006 ASSA News Vol 13
+
+Download
+
+#### SEP 2005 ASSA News Vol 12
+
+Download
+
+#### MAR 2005 ASSA News Vol 11
+
+Download
+
+#### AUG 2004 ASSA News Vol 10
+
+Download
+
+#### MAR 2004 ASSA News Vol 9
+
+Download
+
+#### AUG 2003 ASSA News Vol 8
+
+Download
+
+#### MAR 2003 ASSA News Vol 7
+
+Download
+
+#### AUG 2002 ASSA News Vol 6
+
+Download
+
+#### MAR 2002 ASSA News Vol 5
+
+Download
+
+#### JUL 2001 ASSA News Vol 4
+
+Download
+
+#### JAN 2001 ASSA News Vol 3
+
+Download
+
+#### JUN 2000 ASSA News Vol 2
+
+Download
+
+#### DEC 1999 ASSA News Vol 1
+
+Download
+
+#### SEP 1999 ASSA News Special Edition
+
+Download
