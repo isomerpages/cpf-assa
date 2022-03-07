@@ -5,6 +5,11 @@ description: ""
 ---
 ## CURRENT BOARD MEMBERS OF ASSA
 
+<style>
+	.col img {
+	 style="width:auto; height:280px; object-fit:cover;"
+	}
+</style>
 
 #### Chairman, ASSA
 <div class="row">
