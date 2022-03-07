@@ -31,7 +31,7 @@ The launch of the ASSA website in September 2000 was an important step taken tow
 
 **6. How can my institution join ASSA?**
 
-All social security organisations in ASEAN can send their applications to the ASSA Secretariat for approval by the ASSA Board. Click [here](https://www.asean-ssa.org/PDF/FAQ/ASSA.pdf) to download application form; view the [guidelines](https://www.asean-ssa.org/PDF/FAQ/wcm001085.pdf) for ASSA observers.
+All social security organisations in ASEAN can send their applications to the ASSA Secretariat for approval by the ASSA Board. Click [here](/files/FAQ/ASSA.pdf) to download application form; view the [guidelines](/files/FAQ/wcm001085.pdf) for ASSA observers.
 
 **7. Who can answer my queries?**
 
