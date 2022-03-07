@@ -43,11 +43,11 @@ description: ""
 | **Email** | [contactus@pagibigfund.gov.ph](mailto:contactus@pagibigfund.gov.ph) | 
 | **Website** | [http://www.pagibigfund.gov.ph/](http://www.pagibigfund.gov.ph/) | 
 | **RETIREMENT/OLD AGE** | ✔ | 
-| **HEALTHCARE** | ✔ | 
+| **HEALTHCARE** |  | 
 | **HOUSING** | ✔ | 
-| **WORKERS' COMPENSATION** | ✔  | 
-| **DISABILITY** | ✔ | 
+| **WORKERS' COMPENSATION** |  | 
+| **DISABILITY** |  | 
 | **DEATH** | ✔ | 
-| **OTHERS*** | ✔ |
+| **OTHERS*** |  |
 
 > ###### \* Other Social Security Benefits include life insurance, social assistance, unemployment, maternity, occupational disease, sickness, invalidity, rehabilitation & funeral benefits.
