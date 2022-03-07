@@ -2,9 +2,9 @@ collections:
   member-institutions:
     output: true
     order:
-      - Myanmar.md
       - Brunei.md
       - Cambodia.md
       - Indonesia.md
       - Lao DPR.md
       - Malaysia.md
+      - Myanmar.md
