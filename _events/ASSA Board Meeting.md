@@ -5,10 +5,10 @@ description: ""
 ---
 ## INDONESIA
 NOV 25-26, 2021
-### MESSAGE FROM ASSA CHAIRMAN
+#### MESSAGE FROM ASSA CHAIRMAN
 Delegates from the 19 ASSA member institutions attended the Virtual 38th ASSA Board Meeting hosted by BPJS Ketenagakerjaan, Indoneisa
 
-### HIGHLIGHT
+> ### HIGHLIGHT
 #### SEVEN SPEAKERS SHARED ON THE FOLLOWING TOPICS:
 
 ##### The Impact of COVID-19 on South-East Asia
