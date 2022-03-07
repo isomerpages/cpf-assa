@@ -233,39 +233,39 @@ ASSA Chairman presented the Award to the following Member Organisations:
 
 #### (A) CUSTOMER SERVICE EXCELLENCE AWARD
 
-Central Provident Fund Board, Singapore
+[Central Provident Fund Board, Singapore](/files/ASSA%20Recognition%20Award/2017/Central%20Provident%20Fund%20Board,%20Singapore.pdf)
 
-Employees Compensation Commission, Philippines
+[Employees Compensation Commission, Philippines](/files/ASSA%20Recognition%20Award/2017/Employees%20Compensation%20Commission,%20Philippines%201.pdf)
 
-Employees Compensation Commission, Philippines
+[Employees Compensation Commission, Philippines](/files/ASSA%20Recognition%20Award/2017/Employees%20Compensation%20Commission,%20Philippines%202.pdf)
 
-Employees Compensation Commission, Philippines
+[Employees Compensation Commission, Philippines](/files/ASSA%20Recognition%20Award/2017/Employees%20Compensation%20Commission,%20Philippines%203.pdf)
 
-Employees Trust Fund, Brunei
+[Employees Trust Fund, Brunei](/files/ASSA%20Recognition%20Award/2017/Employees%20Trust%20Fund,%20Brunei.pdf)
 
-Government Service Insurance System, Philippines
+[Government Service Insurance System, Philippines](/files/ASSA%20Recognition%20Award/2017/Government%20Service%20Insurance%20System,%20Philippines.pdf)
 
-Home Development Mutual Fund, Philippines
+[Home Development Mutual Fund, Philippines](/files/ASSA%20Recognition%20Award/2017/Home%20Development%20Mutual%20Fund,%20Philippines.pdf)
 
-National Fund for Veterans, Cambodia
+[National Fund for Veterans, Cambodia](/files/ASSA%20Recognition%20Award/2017/National%20Fund%20for%20Veterans,%20Cambodia.pdf)
 
-Philippine Health Insurance Corporation, Philippines
+[Philippine Health Insurance Corporation, Philippines](/files/ASSA%20Recognition%20Award/2017/Philippine%20Health%20Insurance%20Corporation,%20Philippines%201.pdf)
 
-Philippine Health Insurance Corporation, Philippines
+[Philippine Health Insurance Corporation, Philippines](/files/ASSA%20Recognition%20Award/2017/Philippine%20Health%20Insurance%20Corporation,%20Philippines%202.pdf)
 
-Social Security Office, Thailand
+[Social Security Office, Thailand](/files/ASSA%20Recognition%20Award/2017/Social%20Security%20Office,%20Thailand.pdf)
 
-Social Security Organisation, Malaysia
+[Social Security Organisation, Malaysia](/files/ASSA%20Recognition%20Award/2017/Social%20Security%20Organisation,%20Malaysia.pdf)
 
-Social Security System, Philippines
+[Social Security System, Philippines](/files/ASSA%20Recognition%20Award/2017/Social%20Security%20System,%20Philippines.pdf)
 
 #### (B) FINANCIAL LITERACY EXCELLENCE AWARD
 
-Employees Trust Fund, Brunei
+[Employees Trust Fund, Brunei](/files/ASSA%20Recognition%20Award/2017/Employees%20Trust%20Fund,%20Brunei%202.pdf)
 
-Home Development Mutual Fund, Philippines
+[Home Development Mutual Fund, Philippines](/files/ASSA%20Recognition%20Award/2017/Home%20Development%20Mutual%20Fund,%20Philippines%202.pdf)
 
-Social Security Board, Myanmar
+[Social Security Board, Myanmar](/files/ASSA%20Recognition%20Award/2017/Social%20Security%20Board,%20Myanmar.pdf)
 
 #### (C) GOOD GOVERNANCE EXCELLENCE AWARD
 
