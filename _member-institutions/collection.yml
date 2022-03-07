@@ -1,0 +1,4 @@
+collections:
+  member-institutions:
+    output: true
+    order: []
