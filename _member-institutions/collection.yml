@@ -2,6 +2,7 @@ collections:
   member-institutions:
     output: true
     order:
+      - Singapore.md
       - Brunei.md
       - Cambodia.md
       - Indonesia.md
