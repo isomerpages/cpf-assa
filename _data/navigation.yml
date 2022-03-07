@@ -14,6 +14,24 @@ links:
     sublinks:
       - title: Brunei
         url: /member-institutions/brunei
+      - title: Cambodia
+        url: /member-institutions/cambodia
+      - title: Indonesia
+        url: /member-institutions/Indonesia
+      - title: Lao DPR
+        url: /member-institutions/lao
+      - title: Malaysia
+        url: /member-institutions/malaysia
+      - title: Myanmar
+        url: /member-institutions/myanmar
+      - title: Philippines
+        url: /member-institutions/philippines
+      - title: Singapore
+        url: /member-institutions/singapore
+      - title: Thailand
+        url: /member-institutions/thailand
+      - title: Vietnam
+        url: /member-institutions/vietnam
   - title: Events
     url: /
     sublinks:
