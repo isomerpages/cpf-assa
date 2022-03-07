@@ -62,53 +62,53 @@ ASSA Chairman presented the Award to the following Member Organisations:
 
 #### (A) CONTINUOUS IMPROVEMENT RECOGNITION AWARD
 
-Employees Trust Fund, Brunei
+[Employees Trust Fund, Brunei](/files/ASSA%20Recognition%20Award/2020/Employees%20Trust%20Fund%20-%20Brunei.pdf)
 
-National Fund for Veterans, Cambodia
+[National Fund for Veterans, Cambodia](/files/ASSA%20Recognition%20Award/2020/National%20Fund%20for%20Veterans%20-%20Cambodia.pdf)
 
-National Social Security Fund for Civil Servants, Cambodia
+[National Social Security Fund for Civil Servants, Cambodia](/files/ASSA%20Recognition%20Award/2020/National%20Social%20Security%20Fund%20for%20Civil%20Servants%20-%20Cambodia.pdf)
 
-BPJS Kesehatan, Indonesia
+[BPJS Kesehatan, Indonesia](/files/ASSA%20Recognition%20Award/2020/BPJS%20Kesehatan%20-%20Indonesia.pdf)
 
-Social Security Board, Myanmar
+[Social Security Board, Myanmar](/files/ASSA%20Recognition%20Award/2020/Social%20Security%20Board%20-%20Myanmar.pdf)
 
-Home Development Mutual Fund, Philippines
+[Home Development Mutual Fund, Philippines](/files/ASSA%20Recognition%20Award/2020/Home%20Development%20Mutual%20Fund%20-%20Philippines.pdf)
 
-Philippines Health Insurance Corporation, Philippines
+[Philippines Health Insurance Corporation, Philippines](/files/ASSA%20Recognition%20Award/2020/Philippines%20Health%20Insurance%20Corporation%20-%20Philippines.pdf)
 
-National Health Security Office, Thailand
+[National Health Security Office, Thailand](/files/ASSA%20Recognition%20Award/2020/National%20Health%20Security%20Office%20-%20Thailand.pdf)
 
-Vietnam Social Security, Vietnam
+[Vietnam Social Security, Vietnam](/files/ASSA%20Recognition%20Award/2020/Vietnam%20Social%20Security%20-%20Vietnam.pdf)
 
 #### (B) CUSTOMER SERVICE RECOGNITION AWARD
 
-National Social Security Fund – Cambodia
+[National Social Security Fund – Cambodia](/files/ASSA%20Recognition%20Award/2020/National%20Social%20Security%20Fund%20–%20Cambodia.pdf)
 
-Employees' Compensation Commission, Philippines
+[Employees' Compensation Commission, Philippines](/files/ASSA%20Recognition%20Award/2020/Employees’%20Compensation%20Commission%20-%20Phillipines.pdf)
 
 #### (C) INFORMATION TECHNOLOGY RECOGNITION AWARD
 
-Central Provident Fund Board, Singapore
+[Central Provident Fund Board, Singapore](/files/ASSA%20Recognition%20Award/2020/Central%20Provident%20Fund%20Board%20-%20Singapore.pdf)
 
 #### (D) INNOVATION RECOGNITION AWARD
 
-Lao Social Security Organisation, Lao
+[Lao Social Security Organisation, Lao](/files/ASSA%20Recognition%20Award/2020/Lao%20Social%20Security%20-%20Organisation%20-%20Lao.pdf)
 
-Employees Provident Fund, Malaysia
+[Employees Provident Fund, Malaysia](/files/ASSA%20Recognition%20Award/2020/Employees%20Provident%20Fund%20-%20Malaysia.pdf)
 
-Social Security Organisation, Malaysia
+[Social Security Organisation, Malaysia](/files/ASSA%20Recognition%20Award/2020/Social%20Security%20Organization%20-%20Malaysia.pdf)
 
 #### (E) INVESTMENT GOVERNANCE RECOGNITION AWARD
 
-BPJS Ketenagakerjaan, Indonesia
+[BPJS Ketenagakerjaan, Indonesia](/files/ASSA%20Recognition%20Award/2020/BPJS%20Ketenagakerjaan%20-%20Indonesia.pdf)
 
 #### (F) STRATEGIC COMMUNICATION RECOGNITION AWARD
 
-Social Security Office, Thailand
+[Social Security Office, Thailand](/files/ASSA%20Recognition%20Award/2020/Social%20Security%20Office%20-%20Thailand.pdf)
 
 #### (G) TRANSFORMATION RECOGNITION AWARD
 
-Government Service Insurance System, Philippines
+[Government Service Insurance System, Philippines](/files/ASSA%20Recognition%20Award/2020/Government%20Service%20Insurance%20System%20-%20Philippines.pdf)
 
 
 
