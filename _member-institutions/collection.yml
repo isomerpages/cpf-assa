@@ -1,5 +1,4 @@
 collections:
   member-institutions:
     output: true
-    order:
-      - Member Institutions.md
+    order: []
