@@ -6,26 +6,16 @@ description: ""
 ## CURRENT BOARD MEMBERS OF ASSA
 
 
-<style>
-.directorDetails {
-  width: 489px;
-  height: 170px;
-  /* margin: 0 auto; */
-  display: block;
-  margin: 0 auto;
-}
-</style>
-
 ### Chairman, ASSA
 <div class="row">
 	<div class="col is-4">
 		<img src="/images/Board/ANGGORO%20EKO%20CAHYO.jpg" />
 	</div>
 	<div class="col is-8 has-text-centered">
-		<p><strong>MR ANGGORO EKO CAHYO</strong> <br/>
+		<p class="title is-4">MR ANGGORO EKO CAHYO</p>
 						President Director <br/>
 						BPJS Ketenagakerjaan<br/>
-						Indonesia</p>
+						Indonesia <br/>
 		<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
@@ -36,10 +26,10 @@ description: ""
 
 <div class="row">
 	<div class="col is-8 has-text-centered">
-		<p><strong>MRS KEO CHANTHAVIXAY</strong> <br/>
+		<p class="title is-4"><strong>MRS KEO CHANTHAVIXAY</strong> </p>
 						Director General <br/>
 Lao Social Security Organization <br/>
-Lao</p>
+Lao <br />
 		<a href="/files/Biography/Keo Chanthavixay.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
