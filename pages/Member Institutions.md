@@ -5,5 +5,5 @@ description: ""
 ---
 | | | | | |
 |---|---|---|---|---|
-| ![Brunei](/images/Flags/brunei.jpg) **Brunei** | ![Cambodia](/images/Flags/cambodia.jpg) **Cambodia** | ![Indonesia](/images/Flags/indonesia.jpg) **Indonesia** | ![Lao PDR](/images/Flags/lao.jpg) **Lao PDR** | ![Malaysia](/images/Flags/malaysia.jpg) **Malaysia** |
-| ![Myanmar](/images/Flags/myanmar.jpg) **Myanmar** | ![Philippines](/images/Flags/philippines.jpg) **Philippines** | ![Singapore](/images/Flags/singapore.jpg) **Singapore** | ![Thailand](/images/Flags/thailand.jpg) **Thailand** | ![Vietnam](/images/Flags/vietnam.jpg) **Vietnam** |
+| [![Brunei](/images/Flags/brunei.jpg) **Brunei**](/member-institutions/brunei) | [![Cambodia](/images/Flags/cambodia.jpg) **Cambodia**](/member-institutions/cambodia) | [![Indonesia](/images/Flags/indonesia.jpg) **Indonesia**](/member-institutions/indonesia) | [![Lao PDR](/images/Flags/lao.jpg) **Lao PDR**](/member-institutions/lao) | [![Malaysia](/images/Flags/malaysia.jpg) **Malaysia**](/member-institutions/malaysia) |
+| [![Myanmar](/images/Flags/myanmar.jpg) **Myanmar**](/member-institutions/myanmar) | [![Philippines](/images/Flags/philippines.jpg) **Philippines**](/member-institutions/philippines) | [![Singapore](/images/Flags/singapore.jpg) **Singapore**](/member-institutions/singapore) | [![Thailand](/images/Flags/thailand.jpg) **Thailand**](/member-institutions/thailand) | [![Vietnam](/images/Flags/vietnam.jpg) **Vietnam**](/member-institutions/vietnam) |
