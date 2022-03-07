@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - Seminar and Conferences/.keep
       - ASSA Board Meeting.md
       - Seminars and Conferences.md
