@@ -356,7 +356,7 @@ ASSA Chairman presented the Award to the following Member Organisations:
 
 [Home Development Mutual Fund, Philippines](/files/ASSA%20Recognition%20Award/2016/C%20Home%20Development%20Mutual%20Fund,%20Philippines.pdf)
 
-#### (D)INFORMATION TECHNOLOGY EXCELLENCE AWARD
+#### (D) INFORMATION TECHNOLOGY EXCELLENCE AWARD
 
 [Vietnam Social Security, Vietnam](/files/ASSA%20Recognition%20Award/2016/D%20Vietnam%20Social%20Security,%20Vietnam.pdf)
 
@@ -376,7 +376,7 @@ ASSA Chairman presented the Award to the following Member Organisations:
 
 [National Health Security Office, Thailand](/files/ASSA%20Recognition%20Award/2016/F%20National%20Health%20Security%20Office,%20Thailand.pdf)
 
-#### (G)STRATEGIC COMMUNICATION EXCELLENCE AWARD
+#### (G) STRATEGIC COMMUNICATION EXCELLENCE AWARD
 
 [Central Provident Fund Board, Singapore](/files/ASSA%20Recognition%20Award/2016/G%20Central%20Provident%20Fund%20Board,%20Singapore.pdf)
 
@@ -403,24 +403,24 @@ ASSA Chairman presented the Award to the following Member Organisations:
 
 #### (A) CUSTOMER SERVICE EXCELLENCE AWARD
 
-Vietnam Social Security, Vietnam
+[Vietnam Social Security, Vietnam](/files/ASSA%20Recognition%20Award/2015/A%20Vietnam%20Social%20Security,%20Vietnam.pdf)
 
 #### (B) INNOVATION EXCELLENCE AWARD
 
-National Social Security Fund, Cambodia
+[National Social Security Fund, Cambodia](/files/ASSA%20Recognition%20Award/2015/B%20National%20Social%20Security%20Fund,%20Cambodia.pdf)
 
-Social Security System, Phillipines
+[Social Security System, Phillipines](/files/ASSA%20Recognition%20Award/2015/B%20Social%20Security%20System,%20Phillipines.pdf)
 
 #### (C) INSURANCE COVERAGE AWARD
 
-National Health Security Office, Thailand
+[National Health Security Office, Thailand](/files/ASSA%20Recognition%20Award/2015/C%20National%20Health%20Security%20Office,%20Thailand.pdf)
 
 #### (D) TRANSFORMATION EXCELLENCE AWARD
 
-BPJS Ketenagakerjaan, Indonesia
+[BPJS Ketenagakerjaan, Indonesia](/files/ASSA%20Recognition%20Award/2015/D%20BPJS%20Ketenagakerjaan,%20Indonesia.pdf)
 
-Employees Provident Fund, Malaysia
+[Employees Provident Fund, Malaysia](/files/ASSA%20Recognition%20Award/2015/D%20Employees%20Provident%20Fund,%20Malaysia.pdf)
 
-Social Security Organisation, Malaysia
+[Social Security Organisation, Malaysia](/files/ASSA%20Recognition%20Award/2015/D%20Social%20Security%20Organisation,%20Malaysia.pdf)
 
-Central Provident Fund Board, Singapore
+[Central Provident Fund Board, Singapore](/files/ASSA%20Recognition%20Award/2015/D%20Central%20Provident%20Fund%20Board,%20Singapore.pdf)
