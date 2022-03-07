@@ -28,14 +28,3 @@ You can also catch up with the highlights of last year’s conference here:
 For more information click [here](/files/Seminar%20and%20Conferences/International_Social_Well-Being_Conference.pdf)
 
 
-
-## 5TH INTERNATIONAL TRAINING COURSE
-###### SOCIAL SECURITY OFFICE, THAILAND
-###### VENUE: ACROSS PATHUM-THANI AND BANGKOK INCLUDING THE INDUSTIAL REHABILITATION CENTER REGION 1
-###### 25 AUGUST – 7 SEPTEMBER 2019
-#### 5TH INTERNATIONAL TRAINING COURSE
-![5TH INTERNATIONAL TRAINING COURSE](/images/Seminar%20and%20Conferences/ITC_2019_Banner.jpg)
-#### COMPREHENSIVE REHABILITATION FOR WORKS WITH PHYSICAL DISABILITIES 2019
-##### [Application Form](/files/Seminar%20and%20Conferences/ITC2019Application_Form.pdf)
-
-
