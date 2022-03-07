@@ -49,7 +49,7 @@ description: ""
 
 [THAILAND - SOCIAL SECURITY OFFICE](/files/Organisation%20Profiles/Social%20Security%20Office-Thailand%20Profile.pdf)
 
-[VIETNAM - VIETNAM SOCIAL SECURITY](file.go.gov.sg/cz1f0x.pdf)
+[VIETNAM - VIETNAM SOCIAL SECURITY](https://file.go.gov.sg/cz1f0x.pdf)
 
 
 
