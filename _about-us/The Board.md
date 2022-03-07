@@ -6,7 +6,7 @@ description: ""
 ## CURRENT BOARD MEMBERS OF ASSA
 
 
-### Chairman, ASSA
+#### Chairman, ASSA
 <div class="row">
 	<div class="col is-4">
 		<img src="/images/Board/ANGGORO%20EKO%20CAHYO.jpg" />
@@ -22,7 +22,7 @@ description: ""
 	</div>
 </div>
 
-### VICE-CHAIRMAN, ASSA
+#### VICE-CHAIRMAN, ASSA
 
 <div class="row">
 	<div class="col is-8 has-text-centered">
@@ -39,7 +39,7 @@ Lao <br />
 	</div>
 </div>
 
-### Members 
+#### Members 
 <div class="row has-text-centered">
 	<div class="col is-4">
 				<p>
