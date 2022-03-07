@@ -118,51 +118,51 @@ ASSA Chairman presented the Award to the following Member Organisations:
 
 #### (A) CONTINUOUS IMPROVEMENT RECOGNITION AWARD
 
-National Social Security Fund, Lao PDR
+[National Social Security Fund, Lao PDR](/files/ASSA%20Recognition%20Award/2019/National%20Social%20Security%20Fund,%20Lao%20PDR.pdf)
 
-Employees’ Compensation Commission, Philippines
+[Employees’ Compensation Commission, Philippines](/files/ASSA%20Recognition%20Award/2019/Employees’%20Compensation%20Commission,%20Philippines.pdf)
 
-National Health Security Office, Thailand
+[National Health Security Office, Thailand](/files/ASSA%20Recognition%20Award/2019/National%20Health%20Security%20Office,%20Thailand.pdf)
 
 #### (B) INFORMATION TECHNOLOGY RECOGNITION AWARD
 
-Social Security Board, Myanmar
+[Social Security Board, Myanmar](/files/ASSA%20Recognition%20Award/2019/Social%20Security%20Board,%20Myanmar.pdf)
 
-Government Service Insurance System, Philippines
+[Government Service Insurance System, Philippines](/files/ASSA%20Recognition%20Award/2019/Government%20Service%20Insurance%20System,%20Philippines.pdf)
 
-Philippine Health Insurance Corporation, Philippines
+[Philippine Health Insurance Corporation, Philippines](/files/ASSA%20Recognition%20Award/2019/Philippine%20Health%20Insurance%20Corporation,%20Philippines.pdf)
 
-Central Provident Fund Board, Singapore
+[Central Provident Fund Board, Singapore](/files/ASSA%20Recognition%20Award/2019/Central%20Provident%20Fund%20Board,%20Singapore.pdf)
 
 #### (C) INNOVATION RECOGNITION AWARD
 
-National fund for Veterans, Cambodia
+[National fund for Veterans, Cambodia](/files/ASSA%20Recognition%20Award/2019/National%20fund%20for%20Veterans,%20Cambodia.pdf)
 
-BPJS Ketenagakerjaan, Indonesia
+[BPJS Ketenagakerjaan, Indonesia](/files/ASSA%20Recognition%20Award/2019/BPJS%20Ketenagakerjaan,%20Indonesia.pdf)
 
-Employees Provident Fund, Malaysia
+[Employees Provident Fund, Malaysia](/files/ASSA%20Recognition%20Award/2019/Employees%20Provident%20Fund,%20Malaysia.pdf)
 
-Social Security Organisation, Malaysia
+[Social Security Organisation, Malaysia](/files/ASSA%20Recognition%20Award/2019/Social%20Security%20Organisation,%20Malaysia.pdf)
 
-Viet Nam Social Security, Viet Nam
+[Viet Nam Social Security, Viet Nam](/files/ASSA%20Recognition%20Award/2019/Viet%20Nam%20Social%20Security,%20Viet%20Nam.pdf)
 
 #### (D) INSURANCE COVERAGE RECOGNITION AWARD
 
-National Social Security Fund, Cambodia
+[National Social Security Fund, Cambodia](/files/ASSA%20Recognition%20Award/2019/National%20Social%20Security%20Fund,%20Cambodia.pdf)
 
-National Social Security Fund for Civil Servants, Cambodia
+[National Social Security Fund for Civil Servants, Cambodia](/files/ASSA%20Recognition%20Award/2019/National%20Social%20Security%20Fund%20for%20Civil%20Servants,%20Cambodia.pdf)
 
-Social Security System, Philippines
+[Social Security System, Philippines](/files/ASSA%20Recognition%20Award/2019/Social%20Security%20System,%20Philippines.pdf)
 
-Social Security Office, Thailand
+[Social Security Office, Thailand](/files/ASSA%20Recognition%20Award/2019/Social%20Security%20Office,%20Thailand.pdf)
 
 #### (E) FINANCIAL LITERACY RECOGNITION AWARD
 
-Employees Trust Fund, Brunei
+[Employees Trust Fund, Brunei](/files/ASSA%20Recognition%20Award/2019/Employees%20Trust%20Fund,%20Brunei.pdf)
 
 #### (F) STRATEGIC COMMUNICATION RECOGNITION AWARD
 
-Home Development Mutual Fund, Philippines
+[Home Development Mutual Fund, Philippines](/files/ASSA%20Recognition%20Award/2019/Home%20Development%20Mutual%20Fund,%20Philippines.pdf)
 
 
 
