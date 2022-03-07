@@ -7,54 +7,52 @@ description: ""
 ASSA Chairman presented the Award to the following Member Organisations:
 
 #### (A) CONTINUOUS IMPROVEMENT RECOGNITION AWARD
-BPJS Kesehatan, Indonesia
-
+[BPJS Kesehatan, Indonesia](/files/ASSA%20Recognition%20Award/2021/BPJS%20Kesehatan%20-%20Indonesia.pdf)
 
 #### B) CUSTOMER SERVICE RECOGNITION AWARD
-Employees’ Compensation Commission, Philippines
+[Employees’ Compensation Commission, Philippines](/files/ASSA%20Recognition%20Award/2021/Employees%20Compensation%20Commission%20-%20Philippines.pdf)
 
-Social Security Board, Myanmar
+[Social Security Board, Myanmar](/files/ASSA%20Recognition%20Award/2021/Social%20Security%20Board%20-%20Myanmar.pdf)
 
-Social Security Office, Thailand
-
+[Social Security Office, Thailand](/files/ASSA%20Recognition%20Award/2021/Social%20Security%20Office%20-%20Thailand.pdf)
 
 
 
 #### (C) INFORMATION TECHNOLOGY RECOGNITION AWARD
 
-Philippines Health Insurance Corporation, Philippines
+[Philippines Health Insurance Corporation, Philippines](/files/ASSA%20Recognition%20Award/2021/Philippines%20Health%20Insurance%20Corporation%20-%20Philippines.pdf)
 
-Vietnam Social Security, Vietnam
+[Vietnam Social Security, Vietnam](/files/ASSA%20Recognition%20Award/2021/Vietnam%20Social%20Security%20-%20Vietnam.pdf)
 
 #### (D) INNOVATION RECOGNITION AWARD
 
-Lao Social Security Organisation, LSSO
+[Lao Social Security Organisation, LSSO](/files/ASSA%20Recognition%20Award/2021/Lao%20Social%20Security%20-%20Organisation%20-%20Lao.pdf)
 
-Employees Provident Fund, Malaysia
+[Employees Provident Fund, Malaysia](/files/ASSA%20Recognition%20Award/2021/Employees%20Provident%20Fund%20-%20Malaysia.pdf)
 
-Employees Trust Fund, Brunei
+[Employees Trust Fund, Brunei](/files/ASSA%20Recognition%20Award/2021/Employees%20Trust%20Fund%20-%20Brunei.pdf)
 
-Social Security System, Philippines
+[Social Security System, Philippines](/files/ASSA%20Recognition%20Award/2021/Social%20Security%20System%20-%20Philippines.pdf)
 
 
 
 #### (E) INSURANCE COVERAGE RECOGNITION AWARD
 
-Central Provident Fund Board, Singapore
+[Central Provident Fund Board, Singapore](/files/ASSA%20Recognition%20Award/2021/Central%20Provident%20Fund%20Board%20-%20Singapore.pdf)
 
-National Health Security Office, Thailand
+[National Health Security Office, Thailand](/files/ASSA%20Recognition%20Award/2021/National%20Health%20Security%20Office%20(NHSO).pdf)
 
 #### (F) STRATEGIC COMMUNICATION RECOGNITION AWARD
 
-Government Service Insurance System, Philippines
+[Government Service Insurance System, Philippines](/files/ASSA%20Recognition%20Award/2021/Government%20Service%20Insurance%20System%20-%20Philippines.pdf)
 
-Home Development Mutual Fund, Philippines
+[Home Development Mutual Fund, Philippines](/files/ASSA%20Recognition%20Award/2021/Home%20Development%20Mutual%20Fund%20-%20Philippines.pdf)
 
 #### (G) TRANSFORMATION RECOGNITION AWARD
 
-National Fund for Veterans, Cambodia
+[National Fund for Veterans, Cambodia](/files/ASSA%20Recognition%20Award/2021/National%20Fund%20for%20Veterans%20(NFV)%20-%20Cambodia.pdf)
 
-Social Security Organisation, Malaysia
+[Social Security Organisation, Malaysia](/files/ASSA%20Recognition%20Award/2021/Social%20Security%20Organisation%20-%20Malaysia.pdf)
 
 
 
