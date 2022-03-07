@@ -2,5 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - History & Achievements.md
       - The Board.md
