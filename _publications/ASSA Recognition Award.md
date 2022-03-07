@@ -172,57 +172,57 @@ ASSA Chairman presented the Award to the following Member Organisations:
 
 #### (A) CUSTOMER SERVICE EXCELLENCE AWARD
 
-National Social Security Fund, Cambodia
+[National Social Security Fund, Cambodia](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20NSSF-Cambodia.pdf)
 
-National Social Security Fund, Laos
+[National Social Security Fund, Laos](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20NSSF-Laos.pdf)
 
-Social Security Office, Thailand
+[Social Security Office, Thailand](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20SSO-Thailand.pdf)
 
 #### (B) CUSTOMER SERVICE EXCELLENCE AWARD & FINANCIAL LITERACY EXCELLENCE AWARD
 
-Government Service Insurance System, Philippines
+[Government Service Insurance System, Philippines](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20GSIS-Philippines.pdf)
 
 #### (C) GOOD GOVERNANCE EXCELLENCE AWARD
 
-BPJS Kesehatan, Indonesia
+[BPJS Kesehatan, Indonesia](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20BPJS%20Kesehatan-Indonesia.pdf)
 
-National Social Security Fund for Civil Servants, Cambodia
+[National Social Security Fund for Civil Servants, Cambodia](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20NSSFC-Cambodia.pdf)
 
 #### (D) INFORMATION TECHNOLOGY EXCELLENCE AWARD
 
-BPJS Ketenagakerjaan, Indonesia
+[BPJS Ketenagakerjaan, Indonesia](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20BPJS%20Ketenagakerjaan-Indonesia.pdf)
 
-Employees Provident Fund, Malaysia
+[Employees Provident Fund, Malaysia](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20EPF-Malaysia.pdf)
 
-Vietnam Social Security, Vietnam
+[Vietnam Social Security, Vietnam](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20VSS-Vietnam.pdf)
 
 #### (E) INFORMATION VISIONARY
 
-Philippine Health Insurance Corporation, Philippines
+[Philippine Health Insurance Corporation, Philippines](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20Philhealth-Philippines.pdf)
 
 #### (F) INNOVATION EXCELLENCE AWARD
 
-Central Provident Fund Board, Singapore
+[Central Provident Fund Board, Singapore](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20CPF-Singapore.pdf)
 
-Social Security System, Philippines
+[Social Security System, Philippines](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20SSS-Philipines.pdf)
 
 #### (G) INNOVATION RECOGNITION AWARD / CUSTOMER SERVICE RECOGNITION AWARD
 
-Social Security Organisation, Malaysia
+[Social Security Organisation, Malaysia](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20SSO-Malaysia.pdf)
 
 #### (H) INSURANCE COVERAGE RECOGNITION AWARD
 
-National Health Security Office, Thailand
+[National Health Security Office, Thailand](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20NHSO-Thailand.pdf)
 
 #### (I) STRATEGIC COMMUNICATION RECOGNITION AWARD
 
-Employees Compensation Commission, Philippines
+[Employees Compensation Commission, Philippines](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20ECC-Philippines.pdf)
 
-Employees Trust Fund, Brunei
+[Employees Trust Fund, Brunei](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20ETC-Brunei.pdf)
 
 #### (J) TRANSFORMATION RECOGNITION AWARD
 
-National Fund for Veterans, Cambodia
+[National Fund for Veterans, Cambodia](/files/ASSA%20Recognition%20Award/2018/ASSA%20Innovation%20Recognition%20Award%202018%20-%20NFV-Cambodia.pdf)
 
 
 
