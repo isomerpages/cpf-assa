@@ -7,7 +7,7 @@ description: ""
 
 <style>
 	.col img {
-	 style="width:auto; height:280px; object-fit:cover;"
+	 width:auto; height:280px; object-fit:cover;
 	}
 </style>
 
