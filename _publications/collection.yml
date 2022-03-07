@@ -2,7 +2,7 @@ collections:
   publications:
     output: true
     order:
-      - ASSA Recognition Award/.keep
       - ASSA News.md
       - Organisations' Profiles.md
       - ASSA Recognition Award.md
+      - ASSA Recognition Award/.keep
