@@ -11,6 +11,9 @@ links:
         url: /The-Board-ASSA
   - title: Member Institutions
     url: /Member-Institutions-ASSA
+    sublinks:
+      - title: Brunei
+        url: /member-institutions/brunei
   - title: Events
     url: /
     sublinks:
@@ -31,8 +34,3 @@ links:
     url: /FAQ
   - title: Contact Us
     url: /Contact-Us-ASSA
-  - title: Member Institutions
-    url: /Member-Institutions-ASSA
-    sublinks:
-      - title: Brunei
-        url: /member-institutions/brunei
