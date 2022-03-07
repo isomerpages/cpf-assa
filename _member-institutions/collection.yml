@@ -2,7 +2,6 @@ collections:
   member-institutions:
     output: true
     order:
-      - Vietnam.md
       - Brunei.md
       - Cambodia.md
       - Indonesia.md
@@ -10,3 +9,4 @@ collections:
       - Malaysia.md
       - Myanmar.md
       - Singapore.md
+      - Vietnam.md
