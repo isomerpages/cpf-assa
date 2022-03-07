@@ -3,20 +3,6 @@ title: Member Institutions
 permalink: /Member-Institutions-ASSA
 description: ""
 ---
-<div class="row">
-	<div class="col">
-		a
-	</div>
-	<div class="col">
-		a
-	</div>
-	<div class="col">
-		a
-	</div>
-	<div class="col">
-		a
-	</div>
-	<div class="col">
-		a
-	</div>
-</div>
+| | | | | |
+|---|---|---|---|---|
+| ![Brunei](/images/Flags/brunei.jpg) | ![Cambodia](/images/Flags/cambodia.jpg) | ![Indonesia](/images/Flags/indonesia.jpg)| ![Lao PDR](/images/Flags/lao.jpg) | ![Malaysia](/images/Flags/malaysia.jpg) |
