@@ -340,11 +340,11 @@ ASSA Chairman presented the Award to the following Member Organisations:
 
 #### (A)CUSTOMER SERVICE AND TRANSFORMATION EXCELLENCE AWARD
 
-Philippine Health Insurance Corporation, Philippines
+[Philippine Health Insurance Corporation, Philippines](/files/ASSA%20Recognition%20Award/2016/A%20Philippine%20Health%20Insurance%20Corporation,%20Philippines.pdf)
 
 #### (B) CUSTOMER SERVICE EXCELLENCE AWARD
 
-BPJS Ketenagakerjaan, Indonesia
+[Philippine Health Insurance Corporation, Philippines](/files/ASSA%20Recognition%20Award/2016/A%20Philippine%20Health%20Insurance%20Corporation,%20Philippines.pdf)
 
 Home Development Mutual Fund, Philippines
 
