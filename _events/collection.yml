@@ -2,8 +2,8 @@ collections:
   events:
     output: true
     order:
-      - Seminar and Conferences/5th International Training Course 2019.md
-      - Seminar and Conferences/International Social Wellbeing Conference 2019.md
       - Seminar and Conferences/.keep
+      - Seminar and Conferences/International Social Wellbeing Conference 2019.md
+      - Seminar and Conferences/5th International Training Course 2019.md
       - ASSA Board Meeting.md
       - Seminars and Conferences.md
