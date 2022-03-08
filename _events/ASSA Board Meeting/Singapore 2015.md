@@ -23,13 +23,11 @@ by Associate Professor Chia Ngee Choon, Department of Economics, Faculty of Arts
 
 
 #### EIGHT "GOOD PRACTICES" ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
-* Enhancing Financial Literacy in Brunei Darussalam, Employees Trust Fund, Brunei
-* Informal Sector - Coverage Extension, BPJS Ketenagakerjaan, Indonesia
-* Social Security Re-engineering in the Lao PDR, National Social Security Office, Lao PDR
-* Financial Literacy Transformation, Employees Provident Fund, Malaysia
-* Securing Our Retirement, Central Provident Fund Board, Singapore
-* The Road to Customer Service Excellence: A Journey of Transformation, Government Service
-* Insurance System, Philippines
-* The SSS Self-Employed Program: Towards Inclusive Growth and Universal Coverage, Social Security
-* System, Philippines
-* Ageing and Long Term Care in Thailand under Universal Health Coverage, National Health Security Office, Thailand
+* [Enhancing Financial Literacy in Brunei Darussalam, Employees Trust Fund, Brunei](/files/ASSA%20Board%20Meeting/Singapore%202015/Enhancing%20Financial%20Literacy%20in%20Brunei%20Darussalam,%20Employees%20Trust%20Fund,%20Brunei.pdf)
+* [Informal Sector - Coverage Extension, BPJS Ketenagakerjaan, Indonesia](/files/ASSA%20Board%20Meeting/Singapore%202015/Informal%20Sector%20-%20Coverage%20Extension,%20BPJS%20Ketenagakerjaan,%20Indonesia.pdf)
+* [Social Security Re-engineering in the Lao PDR, National Social Security Office, Lao PDR](/files/ASSA%20Board%20Meeting/Singapore%202015/Social%20Security%20Re-engineering%20in%20the%20Lao%20PDR,%20National%20Social%20Security%20Office,%20Lao%20PDR.pdf)
+* [Financial Literacy Transformation, Employees Provident Fund, Malaysia](/files/ASSA%20Board%20Meeting/Singapore%202015/Financial%20Literacy%20Transformation,%20Employees%20Provident%20Fund,%20Malaysia.pdf)
+* [Securing Our Retirement, Central Provident Fund Board, Singapore](/files/ASSA%20Board%20Meeting/Singapore%202015/Securing%20Our%20Retirement,%20Central%20Provident%20Fund%20Board,%20Singapore.pdf)
+* [The Road to Customer Service Excellence: A Journey of Transformation, Government Service Insurance System, Philippines](/files/ASSA%20Board%20Meeting/Singapore%202015/The%20Road%20to%20Customer%20Service%20Excellence%20A%20Journey%20of%20Transformation,%20Government%20Service.pdf)
+* [The SSS Self-Employed Program: Towards Inclusive Growth and Universal Coverage, Social Security System, Philippines](/files/ASSA%20Board%20Meeting/Singapore%202015/The%20SSS%20Self-Employed%20Program%20Towards%20Inclusive%20Growth%20and%20Universal%20Coverage,%20Social%20Security.pdf)
+* [Ageing and Long Term Care in Thailand under Universal Health Coverage, National Health Security Office, Thailand](/files/ASSA%20Board%20Meeting/Singapore%202015/Ageing%20Population%20Challenges%20Faces%20by%20Social%20Security%20Schemes%20in%20Asia.pdf)
