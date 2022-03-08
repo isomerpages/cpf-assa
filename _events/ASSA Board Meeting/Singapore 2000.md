@@ -1,0 +1,6 @@
+---
+title: Singapore 2000
+permalink: /events/ASSA-Board-Meeting/singapore-2000
+description: ""
+third_nav_title: ASSA Board Meeting
+---
