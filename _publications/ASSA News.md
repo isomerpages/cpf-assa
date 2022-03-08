@@ -27,11 +27,11 @@ Download
 
 #### SEP 2016 ASSA News Vol 29
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2029.pdf)
 
 #### SEP 2015 ASSA News Vol 28
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2028.pdf)
 
 #### SEP 2014 ASSA News Vol 27
 
