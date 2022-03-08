@@ -14,3 +14,4 @@ Date: Sep 10, 1999
 * [Global Pension Outlook (Wellington Management Company)](/files/ASSA%20Board%20Meeting/Philippines%201999/Global%20Pension%20Outlook%20(Wellington%20Management%20Company).pdf)
 
 
+![](/images/Board%20Meeting/Philippines%201999/Philippines-1999-1.jpg)![](/images/Board%20Meeting/Philippines%201999/Philippines-1999-2.jpg)![](/images/Board%20Meeting/Philippines%201999/Philippines-1999-3.jpg)![](/images/Board%20Meeting/Philippines%201999/Philippines-1999-4.jpg)
