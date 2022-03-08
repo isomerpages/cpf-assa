@@ -29,3 +29,6 @@ by Ms Margaret Lim, Senior Deputy Director (Healthcare Schemes), Central Provide
 * [The Return to Work Program, SOCSO, Malaysia](/files/ASSA%20Board%20Meeting/Singapore%202011/The%20Return%20to%20Work%20Program,%20SOCSO,%20Malaysia.pdf)
 * [Risk Management for Social Security Provider in Indonesia, INSSA, Indonesia](/files/ASSA%20Board%20Meeting/Singapore%202011/Risk%20Management%20for%20Social%20Security%20Provider%20in%20Indonesia,%20INSSA,%20Indonesia.pdf)
 * [Philippine Social Insurance System, SSS, Philippines](/files/ASSA%20Board%20Meeting/Singapore%202011/Philippine%20Social%20Insurance%20System,%20SSS,%20Philippines.pdf)
+
+
+![](/images/Board%20Meeting/Singapore%202011/Singapore-2011-1.jpg)
