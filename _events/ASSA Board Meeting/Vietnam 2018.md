@@ -42,7 +42,7 @@ by Assoc. Prof. Dr. Trần Đình Thiên, Vietnam Institute of Economics, Vietna
 
 
 ##### HEALTH INSURANCE
-* PhilHealth Data-Driven Transformation by Philippine Health Insurance Corporation, Philippines
-* Electric Medical Claim Review System by Vietnam Social Security, Vietnam
-* Thailand's Effort to Achieve a People-Centered Health Information System in Universal Health Coverage Scheme by National Health Security Office, Thailand
-* Extension of Social Health Protection Coverage in Cambodia by National Social Security Fund, Cambodia
+* [PhilHealth Data-Driven Transformation by Philippine Health Insurance Corporation, Philippines](/files/ASSA%20Board%20Meeting/Vietnam%202018/PhilHealth%20Data-Driven%20Transformation%20by%20Philippine%20Health%20Insurance%20Corporation-Philippines.pdf)
+* [Electric Medical Claim Review System by Vietnam Social Security, Vietnam](/files/ASSA%20Board%20Meeting/Vietnam%202018/Electric%20Medical%20Claim%20Review%20System%20by%20Vietnam%20Social%20Security-Vietnam.pdf)
+* [Thailand's Effort to Achieve a People-Centered Health Information System in Universal Health Coverage Scheme by National Health Security Office, Thailand](/files/ASSA%20Board%20Meeting/Vietnam%202018/Thailands%20Effort%20to%20Achieve%20a%20People-Centered%20Health%20Information%20System.pdf)
+* [Extension of Social Health Protection Coverage in Cambodia by National Social Security Fund, Cambodia](/files/ASSA%20Board%20Meeting/Vietnam%202018/Extension%20of%20Social%20Health%20Protection%20Coverage%20in%20Cambodia%20by%20National%20Social%20Security%20Fund.pdf)
