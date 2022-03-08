@@ -5,7 +5,7 @@ description: ""
 third_nav_title: ASSA Board Meeting
 ---
 ## UDON THANI, THAILAND
-AUG 23 – 24, 2017
+Date: Aug 23 – 24, 2017
 
 Delegates from the 17 ASSA member institutions attended the 34th ASSA Board Meeting hosted by the Social Security Office, Thailand.
 ### HIGHLIGHT
