@@ -10,13 +10,13 @@ Date: Aug 23 – 24, 2017
 Delegates from the 17 ASSA member institutions attended the 34th ASSA Board Meeting hosted by the Social Security Office, Thailand.
 ### HIGHLIGHT
 #### THREE SPEAKERS SHARED ON THE FOLLOWING TOPICS:
-##### Smart Senior Society with Smart Social Security: Global Experience
+##### [Smart Senior Society with Smart Social Security: Global Experience](/files/ASSA%20Board%20Meeting/Thailand%202017/Smart%20Senior%20Society%20with%20Smart%20Social%20Security%20Global%20Experience.pdf)
 by Dr. Joachim Breuer, The ISSA President
 
-##### Ageing Society and Sustainability of Social Security System in ASEAN: ILO’s Perspective
+##### [Ageing Society and Sustainability of Social Security System in ASEAN: ILO’s Perspective](/files/ASSA%20Board%20Meeting/Thailand%202017/Ageing%20Society%20and%20Sustainability%20of%20Social%20Security%20System%20in%20ASEAN%20ILOs%20Perspective.pdf)
 by Mr.Nuno Meira Simoes da Cunha, Senior Technical Specialist on Social Protection, ILO
 
-##### Adapting to New Challenges – Japanese Case
+##### [Adapting to New Challenges - Japanese Case](/files/ASSA%20Board%20Meeting/Thailand%202017/Adapting%20to%20New%20Challenges%20-%20Japanese%20Case.pdf)
 by Mr. Akira Morita, Professor of Department of Policy Studies, Tsuda University and Mr. Itaru Sato, Senior Researcher, National Institute of Population and Social Security Research
 
 #### SEVEN “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
