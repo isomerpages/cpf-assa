@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - ASSA Board Meeting/Thailand 1998.md
       - ASSA Board Meeting/Malaysia 1998.md
       - ASSA Board Meeting/Vietnam 1999.md
       - ASSA Board Meeting/.keep
