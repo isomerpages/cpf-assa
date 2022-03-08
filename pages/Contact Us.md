@@ -7,9 +7,11 @@ description: ""
 
 
 ##### Mr Indrajid Nurmukti
-###### +6221-50911333
-###### [indrajid.nurmukti@bpjsketenagakerjaan.go.id](mailto:indrajid.nurmukti@bpjsketenagakerjaan.go.id)
++6221-50911333
 
+[indrajid.nurmukti@bpjsketenagakerjaan.go.id](mailto:indrajid.nurmukti@bpjsketenagakerjaan.go.id)
+
+<br/>
 
 ##### For queries pertaining specifically to the respective member institutions, please contact them directly.
 
