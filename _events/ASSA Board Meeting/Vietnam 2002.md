@@ -5,6 +5,8 @@ description: ""
 third_nav_title: ASSA Board Meeting
 ---
 ## Ho Chi Minh City, Vietnam
+Date: Aug 02, 2002
+
 
 Delegates from the ASSA member institutions of the ASEAN countries attended the pre-ASSA Board Meeting Seminar (Theme: Investment Strategy and Customer Satisfaction Strategy) and the 10th ASSA Board Meeting hosted by Vietnam Social Security. At the 10th ASSA Board Meeting, member institutions shared about their "Good Practices" articles on "Customer-focused Service Delivery". Dr Nguyen Huy Ban, Director General of VSS, was confirmed as Chairman of ASSA for the next term, after Mr Somchai Wattana, Secretary General of Social Security Office, Thailand had successfully completed his tenure as ASSA Chairman. In addition, the Philippine Health Insurance Corporation from the Philippines was officially admitted as a member of ASSA at this meeting.
 
