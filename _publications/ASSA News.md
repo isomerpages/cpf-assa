@@ -67,39 +67,39 @@ description: ""
 
 #### MAR 2009 ASSA News Vol 19
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2019.pdf)
 
 #### OCT 2008 ASSA News Vol 18
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2018.pdf)
 
 #### APR 2008 ASSA News Vol 17
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2017.pdf)
 
 #### OCT 2007 ASSA News Vol 16
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2016.pdf)
 
 #### APR 2007 ASSA News Vol 15
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2015.pdf)
 
 #### AUG 2006 ASSA News Vol 14
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2014.pdf)
 
 #### FEB 2006 ASSA News Vol 13
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2013.pdf)
 
 #### SEP 2005 ASSA News Vol 12
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2012.pdf)
 
 #### MAR 2005 ASSA News Vol 11
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2011.pdf)
 
 #### AUG 2004 ASSA News Vol 10
 
