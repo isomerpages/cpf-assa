@@ -33,5 +33,3 @@ by Associate Professor Chia Ngee Choon, Department of Economics, Faculty of Arts
 * The SSS Self-Employed Program: Towards Inclusive Growth and Universal Coverage, Social Security
 * System, Philippines
 * Ageing and Long Term Care in Thailand under Universal Health Coverage, National Health Security Office, Thailand
-
-
