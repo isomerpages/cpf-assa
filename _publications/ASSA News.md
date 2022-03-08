@@ -19,11 +19,11 @@ description: ""
 
 #### SEP 2018 ASSA News Vol 31
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2031.pdf)
 
 #### AUG 2017 ASSA News Vol 30
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2030.pdf)
 
 #### SEP 2016 ASSA News Vol 29
 
