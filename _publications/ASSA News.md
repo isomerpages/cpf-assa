@@ -103,27 +103,27 @@ description: ""
 
 #### AUG 2004 ASSA News Vol 10
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2010.pdf)
 
 #### MAR 2004 ASSA News Vol 9
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%209.pdf)
 
 #### AUG 2003 ASSA News Vol 8
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%208.pdf)
 
 #### MAR 2003 ASSA News Vol 7
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%207.pdf)
 
 #### AUG 2002 ASSA News Vol 6
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%206.pdf)
 
 #### MAR 2002 ASSA News Vol 5
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%205.pdf)
 
 #### JUL 2001 ASSA News Vol 4
 
@@ -135,12 +135,12 @@ Download
 
 #### JUN 2000 ASSA News Vol 2
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%202.pdf)
 
 #### DEC 1999 ASSA News Vol 1
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%201.pdf)
 
 #### SEP 1999 ASSA News Special Edition
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%20Special.pdf)
