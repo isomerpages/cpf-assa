@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - ASSA Board Meeting/Indonesia 2007.md
       - ASSA Board Meeting/.keep
       - ASSA Board Meeting/Indonesia 2021.md
       - ASSA Board Meeting/Cambodia 2020.md
@@ -23,6 +22,7 @@ collections:
       - ASSA Board Meeting/Singapore 2008.md
       - ASSA Board Meeting/Lao PDR 2008.md
       - ASSA Board Meeting/Philippines 2007.md
+      - ASSA Board Meeting/Indonesia 2007.md
       - ASSA Board Meeting.md
       - Seminar and Conferences/.keep
       - Seminar and Conferences/International Social Wellbeing Conference 2019.md
