@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - ASSA Board Meeting/.keep
       - ASSA Board Meeting.md
       - Seminar and Conferences/.keep
       - Seminar and Conferences/International Social Wellbeing Conference 2019.md
