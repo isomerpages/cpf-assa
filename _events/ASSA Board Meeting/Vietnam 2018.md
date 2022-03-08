@@ -4,3 +4,45 @@ permalink: /events/ASSA-Board-Meeting/vietnam-2018
 description: ""
 third_nav_title: ASSA Board Meeting
 ---
+
+## NHATRANG CAM RANH, VIETNAM
+Date: Sep 18 – 21, 2018
+
+### MESSAGE FROM ASSA CHAIRMAN
+Delegates from the 17 ASSA member institutions attended the 35th ASSA Board Meeting hosted by the Vietnam Social Security, Vietnam
+
+> ### HIGHLIGHT
+#### SEVEN SPEAKERS SHARED ON THE FOLLOWING TOPICS:
+##### Challenges and Opportunities for social security globally
+by Jens Schremmer, The ISSA President
+
+##### Meeting the Challenge of the Fourth Industrial Revolution
+by Robert Palacios, Global Lead Pensions and Social insurance, World Bank
+
+##### New Zealand’s experience: Education and Training approaches and solutions in the context of the fourth industrial revolution
+by Professor Neil Quigley, Vice-Chancellor and President, The University of Waikato
+
+##### Challenges in expanding the social security base in Vietnam
+by Ban Thu – Vietnam Social Security, Vietnam
+
+##### Social Protection & Migration in ASEAN
+by Nuno Meira Simoes da Cunha, Senior Specialist, Social Protection, ILO
+
+##### Social Security Agreement & Global Service of NPS
+by Kim, Young Eil, Director, Center for International Affairs, National Pension Services’ Representative, South Korea
+
+##### Industrial Revolution 4.0 The Issues Posed to Vietnam
+by Assoc. Prof. Dr. Trần Đình Thiên, Vietnam Institute of Economics, Vietnam
+
+#### EIGHT “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
+##### SOCIAL INSURANCE
+* e-Services: Adapting Digital Transformation "Sharing Experience BPJS Ketenagakerjaan Indonesia" by BPJS Ketenagakerjaan, Indonesia
+* Improving Contribution Payment Channel for Voluntary Insured Persons by National Social Security Fund, Laos
+* Social Security Reforms in Myanmar by Social Security Board, Myanmar
+* SSO Connect Mobile by Social Security Office, Thailand
+##### HEALTH INSURANCE
+* PhilHealth Data-Driven Transformation by Philippine Health Insurance Corporation, Philippines
+* Electric Medical Claim Review System by Vietnam Social Security, Vietnam
+* ’s Effort to Achieve a People-Centered Health Information System in Universal Health Coverage Scheme by National Health Security Office, Thailand
+* Extension of Social Health Protection Coverage in Cambodia by National Social Security Fund, Cambodia
+* 
