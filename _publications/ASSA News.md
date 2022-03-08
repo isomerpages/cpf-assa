@@ -127,11 +127,11 @@ description: ""
 
 #### JUL 2001 ASSA News Vol 4
 
-Download
+[Download](https://file.go.gov.sg/lh2px2.pdf)
 
 #### JAN 2001 ASSA News Vol 3
 
-Download
+[Download](https://file.go.gov.sg/6ldcmz.pdf)
 
 #### JUN 2000 ASSA News Vol 2
 
