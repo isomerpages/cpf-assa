@@ -35,13 +35,14 @@ by Assoc. Prof. Dr. Trần Đình Thiên, Vietnam Institute of Economics, Vietna
 
 #### EIGHT “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
 ##### SOCIAL INSURANCE
-* e-Services: Adapting Digital Transformation "Sharing Experience BPJS Ketenagakerjaan Indonesia" by BPJS Ketenagakerjaan, Indonesia
-* Improving Contribution Payment Channel for Voluntary Insured Persons by National Social Security Fund, Laos
-* Social Security Reforms in Myanmar by Social Security Board, Myanmar
-* SSO Connect Mobile by Social Security Office, Thailand
+* [e-Services: Adapting Digital Transformation "Sharing Experience BPJS Ketenagakerjaan Indonesia" by BPJS Ketenagakerjaan, Indonesia](/files/ASSA%20Board%20Meeting/Vietnam%202018/e-Services-Adapting%20Digital%20Transformation%20by%20BPJS%20Ketenagakerjaan-Indonesia.pdf)
+* [Improving Contribution Payment Channel for Voluntary Insured Persons by National Social Security Fund, Laos](/files/ASSA%20Board%20Meeting/Vietnam%202018/Improving%20Contribution%20Payment%20Channel%20for%20Voluntary%20Insured%20Persons%20by%20National%20Social%20Security.pdf)
+* [Social Security Reforms in Myanmar by Social Security Board, Myanmar](/files/ASSA%20Board%20Meeting/Vietnam%202018/Social%20Security%20Reforms%20in%20Myanmar%20by%20Social%20Security%20Board-Myanmar.pdf)
+* [SSO Connect Mobile by Social Security Office, Thailand](/files/ASSA%20Board%20Meeting/Vietnam%202018/SSO%20Connect%20Mobile%20by%20Social%20Security%20Office-Thailand.pdf)
+
+
 ##### HEALTH INSURANCE
 * PhilHealth Data-Driven Transformation by Philippine Health Insurance Corporation, Philippines
 * Electric Medical Claim Review System by Vietnam Social Security, Vietnam
 * Thailand's Effort to Achieve a People-Centered Health Information System in Universal Health Coverage Scheme by National Health Security Office, Thailand
 * Extension of Social Health Protection Coverage in Cambodia by National Social Security Fund, Cambodia
-*
