@@ -7,21 +7,21 @@ third_nav_title: ASSA Board Meeting
 ## BRUNEI
 Date: Sep 17 – 18, 2019
 
-### MESSAGE FROM ASSA CHAIRMAN
+### [MESSAGE FROM ASSA CHAIRMAN](/files/ASSA%20Board%20Meeting/Brunei%202019/MESSAGE%20FROM%20ASSA%20CHAIRMAN.pdf)
 Delegates from the 17 ASSA member institutions attended the 36th ASSA Board Meeting hosted by Employees Trust Fund, Brunei
 > ### HIGHLIGHT
 
 #### FOUR SPEAKERS SHARED ON THE FOLLOWING TOPICS:
-##### The Future of Work and Social Protection
+##### [The Future of Work and Social Protection](/files/ASSA%20Board%20Meeting/Brunei%202019/The%20Future%20of%20Work%20and%20Social%20Protection.pdf)
 by Mr Markus Ruck, International Labour Organisation
 
-##### Emerging Technologies in Social Security International Trends and Perspective
+##### [Emerging Technologies in Social Security International Trends and Perspective](/files/ASSA%20Board%20Meeting/Brunei%202019/Emerging%20Technologies%20in%20Social%20Security%20International%20Trends%20and%20Perspective.pdf)
 by Mr Raul Ruggia-Frick, International Social Security Association
 
-##### Harnessing Big Data for Social Security
+##### [Harnessing Big Data for Social Security](/files/ASSA%20Board%20Meeting/Brunei%202019/Harnessing%20Big%20Data%20for%20Social%20Security.pdf)
 by Mr Chandana N. Athauda, Dynamik Technologies
 
-##### Re-Imagineering Social Security in the Cognitive Era
+##### [Re-Imagineering Social Security in the Cognitive Era](/files/ASSA%20Board%20Meeting/Brunei%202019/Re-Imagineering%20Social%20Security%20in%20the%20Cognitive%20Era.pdf)
 by Mr Tan Soo Eng, Silverlake Sistem Sdn Bhd
 
 NINE “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
