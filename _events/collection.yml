@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - ASSA Board Meeting/Philippines 2010.md
       - ASSA Board Meeting/.keep
       - ASSA Board Meeting/Indonesia 2021.md
       - ASSA Board Meeting/Cambodia 2020.md
