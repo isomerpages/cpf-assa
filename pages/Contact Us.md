@@ -3,15 +3,15 @@ title: Contact Us
 permalink: /Contact-Us-ASSA
 description: ""
 ---
-###### For queries relating to ASSA matters, you may direct them to the ASSA Secretariat:
+##### For queries relating to ASSA matters, you may direct them to the ASSA Secretariat:
 
 
-Mr Indrajid Nurmukti
-+6221-50911333
-[indrajid.nurmukti@bpjsketenagakerjaan.go.id](mailto:indrajid.nurmukti@bpjsketenagakerjaan.go.id)
+##### Mr Indrajid Nurmukti
+###### +6221-50911333
+###### [indrajid.nurmukti@bpjsketenagakerjaan.go.id](mailto:indrajid.nurmukti@bpjsketenagakerjaan.go.id)
 
 
-###### For queries pertaining specifically to the respective member institutions, please contact them directly.
+##### For queries pertaining specifically to the respective member institutions, please contact them directly.
 
 ##### Member Institutions
 [Employees Trust Fund, Brunei](/member-institutions/brunei)
