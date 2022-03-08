@@ -5,7 +5,7 @@ description: ""
 third_nav_title: ASSA Board Meeting
 ---
 ## INDONESIA
-NOV 25-26, 2021
+Date: Nov 25-26, 2021
 #### MESSAGE FROM ASSA CHAIRMAN
 Delegates from the 19 ASSA member institutions attended the Virtual 38th ASSA Board Meeting hosted by BPJS Ketenagakerjaan, Indoneisa
 
