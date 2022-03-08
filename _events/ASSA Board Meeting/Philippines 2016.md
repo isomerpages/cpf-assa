@@ -5,6 +5,7 @@ description: ""
 third_nav_title: ASSA Board Meeting
 ---
 ## MANILA, PHILIPPINES
+Date: Sep 22-23, 2016
 
 Delegates from the 19 ASSA member institutions attended the 33rd ASSA Board Meeting hosted by the Philippine Social Security Association (PhilSSA), Philippines.
 
