@@ -16,3 +16,6 @@ Delegates from the 11 ASSA member institutions attended the 18th ASSA Board Meet
 * [National Health Financing Mechanism](/files/ASSA%20Board%20Meeting/Malaysia%202006/National%20Health%20Financing%20Mechanism.pdf)
 * [An Overview of Global Social Security Reforms](/files/ASSA%20Board%20Meeting/Malaysia%202006/An%20Overview%20of%20Global%20Social%20Security%20Reforms.pdf)
 * [Lessons from ASEAN Countries](/files/ASSA%20Board%20Meeting/Malaysia%202006/Lessons%20from%20ASEAN%20Countries.pdf)
+
+
+![](/images/Board%20Meeting/Malaysia%202006/Malaysia-2006-1.jpg)
