@@ -9,8 +9,11 @@ Date: Dec 09, 2020
 
 ### [MESSAGE FROM ASSA CHAIRMAN](/files/ASSA%20Board%20Meeting/Cambodia%202020/MESSAGE%20FROM%20ASSA%20CHAIRMAN.pdf)
 Delegates from the 18 ASSA member institutions attended the Virtual 37th ASSA Board Meeting hosted by National Social Security Fund, Cambodia
-### HIGHLIGHT
+
+> ### HIGHLIGHT
+
 #### TWO SPEAKERS SHARED ON THE FOLLOWING TOPICS:
+
 ##### [Covid-19: Temporary Crisis or Turning Point for Social Security Coverage?](/files/ASSA%20Board%20Meeting/Cambodia%202020/Covid-19:%20Temporary%20Crisis%20or%20Turning%20Point%20for%20Social%20Security%20Coverage.pdf)
 by Jens Schremmer, Head of Office of the Secretiary-General, International Social Security Association
 
