@@ -33,8 +33,8 @@ by Mr Tan Soo Eng, Silverlake Sistem Sdn Bhd
 
 
 ##### SOCIAL SECURITY
-Retirement Planning Services by Employees Trust Fund, Brunei
-i–Suri (Special Government Incentive for Housewives who are Registered in the National Database on Poverty (eKasih) – EPF Voluntary Contribution by Employees Provident Fund, Malaysia
-Strengthening Social Insurance by Government Service Insurance System, Philippines
-Health Promotion and Disease Prevention in Social Security System by Social Security Office, Thailand
-Thailand Poison Control Center to Regional Preparedness of Poisoning Management by National Health Security Office, Thailand
+* [Retirement Planning Services by Employees Trust Fund, Brunei](/files/ASSA%20Board%20Meeting/Brunei%202019/Retirement%20Planning%20Services%20-%20Employees%20Trust%20Fund.pdf)
+* [i–Suri (Special Government Incentive for Housewives who are Registered in the National Database on Poverty (eKasih) – EPF Voluntary Contribution by Employees Provident Fund, Malaysia](/files/ASSA%20Board%20Meeting/Brunei%202019/i-Suri%20-%20EPF%20Voluntary%20Contribution%20-%20Employees%20Provident%20Fund.pdf)
+* [Strengthening Social Insurance by Government Service Insurance System, Philippines](/files/ASSA%20Board%20Meeting/Brunei%202019/Strengthening%20Social%20Insurance%20-%20Government%20Service%20Insurance%20System.pdf)
+* [Health Promotion and Disease Prevention in Social Security System by Social Security Office, Thailand](/files/ASSA%20Board%20Meeting/Brunei%202019/Health%20Promotion%20and%20Disease%20Prevention%20-%20Social%20Security%20Office%20%20Thailand.pdf)
+* [Thailand Poison Control Center to Regional Preparedness of Poisoning Management by National Health Security Office, Thailand](/files/ASSA%20Board%20Meeting/Brunei%202019/Thailand%20%20Poison%20Control%20Center%20to%20Regional%20Preparednes%20of%20Poison%20Management%20-%20National%20Health.pdf)
