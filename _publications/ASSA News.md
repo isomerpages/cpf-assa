@@ -5,17 +5,17 @@ description: ""
 ---
 #### NOV 2021 ASSA News Vol 34
 
-Download
+[Download](/files/ASSA%20News/ASSA%20News%20Vol%2034%20Nov%202021.pdf)
 
 #### DEC 2020 ASSA News Vol 33
 
-Download
+[Download](/files/ASSA%20News/ASSA%20News%20Vol%2033%20Dec%202020.pdf)
 
 #### SEP 2019 ASSA News Vol 32
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2033.pdf)
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2032.pdf)
 
 #### SEP 2018 ASSA News Vol 31
 
