@@ -35,19 +35,19 @@ description: ""
 
 #### SEP 2014 ASSA News Vol 27
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2027.pdf)
 
 #### OCT 2013 ASSA News Vol 26
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2026.pdf)
 
 #### SEP 2012 ASSA News Vol 25
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2025.pdf)
 
 #### OCT 2011 ASSA News Vol 24
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2024.pdf)
 
 #### MAR 2011 ASSA News Vol 23
 
