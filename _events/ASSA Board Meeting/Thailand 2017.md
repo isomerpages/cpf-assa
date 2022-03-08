@@ -20,12 +20,14 @@ by Mr.Nuno Meira Simoes da Cunha, Senior Technical Specialist on Social Protecti
 by Mr. Akira Morita, Professor of Department of Policy Studies, Tsuda University and Mr. Itaru Sato, Senior Researcher, National Institute of Population and Social Security Research
 
 #### SEVEN “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
-###### Array Ageing Population through Social Security Expansion Innovation by BPJS Ketenagakerjaan, Indonesia
-###### After 3 years BPJS- Kesehatan Facing & Challenges 2014 – 2016 by BPJS Kesehatan, Indonesia
-###### "Perkeso Prihatin" Squad by Social Security Organisation, Malaysia
-###### Finance Sustainment of Social Security Funds and Retirement Security by Social Security Board, Myanmar
-###### Guaranteed Health Benefits and Priority Settings to Maximize Health Outcomes by Philippine Health Insurance Corporation, Philippines
-###### Long Term Care Model by National Health Security Office, Thailand
-###### Increasing Efficiency for More Accessible Health Care and Services (Dental Health Care) by Social Security Office, Thailand
+* Array Ageing Population through Social Security Expansion Innovation by BPJS Ketenagakerjaan, Indonesia
+* After 3 years BPJS- Kesehatan Facing & Challenges 2014 – 2016 by BPJS Kesehatan, Indonesia
+* "Perkeso Prihatin" Squad by Social Security Organisation, Malaysia
+* Finance Sustainment of Social Security Funds and Retirement Security by Social Security Board, Myanmar
+* Guaranteed Health Benefits and Priority Settings to Maximize Health Outcomes by Philippine Health Insurance Corporation, Philippines
+* Long Term Care Model by National Health Security Office, Thailand
+* Increasing Efficiency for More Accessible Health Care and Services (Dental Health Care) by Social Security Office, Thailand
+
+
 #### PARTNER’S SUPPORTED EVENTS
-###### International Labour Organisation
+* [International Labour Organisation](/files/ASSA%20Board%20Meeting/Thailand%202017/International%20Labour%20Organisation.pdf)
