@@ -4,22 +4,21 @@ permalink: /events/ASSA-Board-Meeting/vietnam-2018
 description: ""
 third_nav_title: ASSA Board Meeting
 ---
-
 ## NHATRANG CAM RANH, VIETNAM
 Date: Sep 18 – 21, 2018
 
-### MESSAGE FROM ASSA CHAIRMAN
+### [MESSAGE FROM ASSA CHAIRMAN](/files/ASSA%20Board%20Meeting/Vietnam%202018/Message%20from%20ASSA%20Chairman.pdf)
 Delegates from the 17 ASSA member institutions attended the 35th ASSA Board Meeting hosted by the Vietnam Social Security, Vietnam
 
 > ### HIGHLIGHT
 #### SEVEN SPEAKERS SHARED ON THE FOLLOWING TOPICS:
-##### Challenges and Opportunities for social security globally
+##### [Challenges and Opportunities for social security globally](/files/ASSA%20Board%20Meeting/Vietnam%202018/Challenges%20and%20Opportunities%20for%20social%20security%20globally.pdf)
 by Jens Schremmer, The ISSA President
 
-##### Meeting the Challenge of the Fourth Industrial Revolution
+##### [Meeting the Challenge of the Fourth Industrial Revolution](/files/ASSA%20Board%20Meeting/Vietnam%202018/Meeting%20the%20Challenge%20of%20the%20Fourth%20Industrial%20Revolution.pdf)
 by Robert Palacios, Global Lead Pensions and Social insurance, World Bank
 
-##### New Zealand’s experience: Education and Training approaches and solutions in the context of the fourth industrial revolution
+##### [New Zealand’s experience: Education and Training approaches and solutions in the context of the fourth industrial revolution](/files/ASSA%20Board%20Meeting/Vietnam%202018/New%20Zealand’s%20experience_%20Education%20and%20Training.pdf)
 by Professor Neil Quigley, Vice-Chancellor and President, The University of Waikato
 
 ##### Challenges in expanding the social security base in Vietnam
@@ -43,6 +42,6 @@ by Assoc. Prof. Dr. Trần Đình Thiên, Vietnam Institute of Economics, Vietna
 ##### HEALTH INSURANCE
 * PhilHealth Data-Driven Transformation by Philippine Health Insurance Corporation, Philippines
 * Electric Medical Claim Review System by Vietnam Social Security, Vietnam
-* ’s Effort to Achieve a People-Centered Health Information System in Universal Health Coverage Scheme by National Health Security Office, Thailand
+* Thailand's Effort to Achieve a People-Centered Health Information System in Universal Health Coverage Scheme by National Health Security Office, Thailand
 * Extension of Social Health Protection Coverage in Cambodia by National Social Security Fund, Cambodia
-* 
+*
