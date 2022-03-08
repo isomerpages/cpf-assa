@@ -24,13 +24,15 @@ by Mr Chandana N. Athauda, Dynamik Technologies
 ##### [Re-Imagineering Social Security in the Cognitive Era](/files/ASSA%20Board%20Meeting/Brunei%202019/Re-Imagineering%20Social%20Security%20in%20the%20Cognitive%20Era.pdf)
 by Mr Tan Soo Eng, Silverlake Sistem Sdn Bhd
 
-NINE “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
-ICT INNOVATIONS
-MPOS; Biometric Benefit Claim Procedure Through Nation’s Single Identity Number Policy by BPJS Ketenagakerjaan, Indonesia
-Social Synergy Program by Social Security Organisation, Malaysia
-Information System Implementation by Social Security Board, Myanmar
-Viet Nam Social Security Implements A Multimedia Interactive System With People and Businesses by Viet Nam Social Security, Viet Nam
-SOCIAL SECURITY
+#### NINE “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
+##### ICT INNOVATIONS
+* [MPOS; Biometric Benefit Claim Procedure Through Nation’s Single Identity Number Policy by BPJS Ketenagakerjaan, Indonesia](/files/ASSA%20Board%20Meeting/Brunei%202019/MPOS%20Biometric%20Benefit%20Claim%20-%20BPJS%20Ketenagakerjaan.pdf)
+* [Social Synergy Program by Social Security Organisation, Malaysia](/files/ASSA%20Board%20Meeting/Brunei%202019/Social%20Synergy%20Program%20by%20Social%20Security%20Organisation,%20Malaysia.pdf)
+* [Information System Implementation by Social Security Board, Myanmar](/files/ASSA%20Board%20Meeting/Brunei%202019/Information%20System%20Implementation%20by%20Social%20Security%20Board,%20Myanmar.pdf)
+* [Viet Nam Social Security Implements A Multimedia Interactive System With People and Businesses by Viet Nam Social Security, Viet Nam](/files/ASSA%20Board%20Meeting/Brunei%202019/Viet%20Nam%20Social%20Security%20Implements%20%20-%20Viet%20Nam%20Social%20Security.pdf)
+
+
+##### SOCIAL SECURITY
 Retirement Planning Services by Employees Trust Fund, Brunei
 i–Suri (Special Government Incentive for Housewives who are Registered in the National Database on Poverty (eKasih) – EPF Voluntary Contribution by Employees Provident Fund, Malaysia
 Strengthening Social Insurance by Government Service Insurance System, Philippines
