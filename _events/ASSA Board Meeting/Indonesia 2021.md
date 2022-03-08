@@ -10,6 +10,8 @@ Date: Nov 25-26, 2021
 Delegates from the 19 ASSA member institutions attended the Virtual 38th ASSA Board Meeting hosted by BPJS Ketenagakerjaan, Indoneisa
 
 > ### HIGHLIGHT
+
+
 #### SEVEN SPEAKERS SHARED ON THE FOLLOWING TOPICS:
 
 ##### [The Impact of COVID-19 on South-East Asia](/files/ASSA%20Board%20Meeting/Indonesia%202021/The%20Impact%20of%20COVID-19%20on%20South-East%20Asia.pdf)
