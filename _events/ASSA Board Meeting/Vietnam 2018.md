@@ -21,16 +21,16 @@ by Robert Palacios, Global Lead Pensions and Social insurance, World Bank
 ##### [New Zealand’s experience: Education and Training approaches and solutions in the context of the fourth industrial revolution](/files/ASSA%20Board%20Meeting/Vietnam%202018/New%20Zealand’s%20experience_%20Education%20and%20Training.pdf)
 by Professor Neil Quigley, Vice-Chancellor and President, The University of Waikato
 
-##### Challenges in expanding the social security base in Vietnam
+##### [Challenges in expanding the social security base in Vietnam](/files/ASSA%20Board%20Meeting/Vietnam%202018/Challenges%20in%20expanding%20the%20social%20security%20base%20in%20Vietnam.pdf)
 by Ban Thu – Vietnam Social Security, Vietnam
 
-##### Social Protection & Migration in ASEAN
+##### [Social Protection & Migration in ASEAN](/files/ASSA%20Board%20Meeting/Vietnam%202018/Social%20Protection%20&%20Migration%20in%20ASEAN.pdf)
 by Nuno Meira Simoes da Cunha, Senior Specialist, Social Protection, ILO
 
-##### Social Security Agreement & Global Service of NPS
+##### [Social Security Agreement & Global Service of NPS](/files/ASSA%20Board%20Meeting/Vietnam%202018/Social%20Security%20Agreement%20&%20Global%20Service%20of%20NPS.pdf)
 by Kim, Young Eil, Director, Center for International Affairs, National Pension Services’ Representative, South Korea
 
-##### Industrial Revolution 4.0 The Issues Posed to Vietnam
+##### [Industrial Revolution 4.0 The Issues Posed to Vietnam](/files/ASSA%20Board%20Meeting/Vietnam%202018/Industrial%20Revolution%204%20The%20Issues%20Posed%20to%20Vietnam.pdf)
 by Assoc. Prof. Dr. Trần Đình Thiên, Vietnam Institute of Economics, Vietnam
 
 #### EIGHT “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
