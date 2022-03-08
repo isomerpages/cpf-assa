@@ -51,19 +51,19 @@ description: ""
 
 #### MAR 2011 ASSA News Vol 23
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2023.pdf)
 
 #### SEP 2010 ASSA News Vol 22
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2022.pdf)
 
 #### MAR 2010 ASSA News Vol 21
 
-Download
+[Download](/files/ASSA%20News/ASSA%20Newsletter%20Vol%2021.pdf)
 
 #### OCT 2009 ASSA News Vol 20
 
-Download
+[Download](https://file.go.gov.sg/pz01cy.pdf)
 
 #### MAR 2009 ASSA News Vol 19
 
