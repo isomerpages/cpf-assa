@@ -10,6 +10,7 @@ description: ""
 | **Phone** | 662 636 1000 | 
 | **Email** | [Jaruwan@gpf.or.th](mailto:Jaruwan@gpf.or.th) | 
 | **Website** | [http://www.gpf.or.th/](http://www.gpf.or.th/) | 
+| | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** | ✔ | 
 | **HOUSING** | ✔ | 
