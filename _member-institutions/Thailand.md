@@ -45,9 +45,9 @@ description: ""
 | **HEALTHCARE** |  | 
 | **HOUSING** |  | 
 | **WORKERS' COMPENSATION** |   | 
-| **DISABILITY** |  | 
+| **DISABILITY** | ✔ | 
 | **DEATH** | ✔ | 
-| **OTHERS*** | ✔ |
+| **OTHERS*** |  |
 
 
 |  |  | 
