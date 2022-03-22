@@ -27,6 +27,7 @@ description: ""
 | **Phone** | 66 2 141 4000 | 
 | **Email** | [internhso@nhso.go.th](mailto:internhso@nhso.go.th) | 
 | **Website** | [http://eng.nhso.go.th/](http://eng.nhso.go.th/) | 
+| | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** |  | 
 | **HEALTHCARE** | ✔ | 
 | **HOUSING** |  | 
@@ -42,6 +43,7 @@ description: ""
 | **Phone** | 66 2049 9000 | 
 | **Email** | [Info@NSF.or.th](mailto:Info@NSF.or.th) | 
 | **Website** | [http://www.nsf.or.th/](http://www.nsf.or.th/) | 
+| | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** |  | 
 | **HOUSING** |  | 
@@ -58,6 +60,7 @@ description: ""
 | **Phone** | 662 956 2183-5 | 
 | **Email** | [interaffairs2017@gmail.com](mailto:interaffairs2017@gmail.com) | 
 | **Website** | [http://www.sso.go.th/](http://www.sso.go.th/) | 
+| | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** | ✔ | 
 | **HOUSING** |  | 
