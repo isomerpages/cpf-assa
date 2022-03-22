@@ -13,7 +13,7 @@ description: ""
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** | ✔  | 
 | **HOUSING** |  | 
-| **WORKERS' COMPENSATION** |   | 
+| **WORKERS' COMPENSATION** | ✔ | 
 | **DISABILITY** | | 
 | **DEATH** | ✔ | 
 | **OTHERS*** | ✔ |
