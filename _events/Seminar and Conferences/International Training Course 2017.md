@@ -8,4 +8,4 @@ third_nav_title: Seminar and Conferences
 ###### SOCIAL SECURITY OFFICE, THAILAND
 ###### 27 AUGUST - 9 SEPTEMBER 2017
 
-#### VENUE: THE INDUSTRIAL REHABILITATION CENTRE REGION 1 (1RC) 97 MOO 3, BANGPOON, MUANG DISTRICT PATHUMTHANI 12000, THAILAND
+#### Venue: The Industrial Rehabilitation Centre Region 1 (1RC) 97 Moo 3, Bangpoon, Muang District, Pathumthani 12000, Thailand 
