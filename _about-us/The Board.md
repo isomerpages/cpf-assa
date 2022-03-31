@@ -294,5 +294,4 @@ Indonesia </p>
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
-
 </div>
