@@ -55,3 +55,4 @@ plugins:
 staging: https://cpfb-test-staging.netlify.app
 prod: https://cpfb-test-prod.netlify.app
 is_government: false
+shareicon: /images/assa-about-logo.png
