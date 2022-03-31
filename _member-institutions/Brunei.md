@@ -10,6 +10,7 @@ description: ""
 | **Phone** | 673 238 2929 | 
 | **Email** | [ask@tap.com.bn](mailto:ask@tap.com.bn) | 
 | **Website** | [http://www.tap.com.bn](http://www.tap.com.bn) | 
+| | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** |   | 
 | **HOUSING** | ✔ | 
