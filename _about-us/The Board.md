@@ -6,7 +6,7 @@ description: ""
 ## CURRENT BOARD MEMBERS OF ASSA
 
 <style>
-	.col img {
+	.col .is-4 img, .col .is-6 img {
 	 width:auto; height:200px; object-fit:cover;
 	}
 </style>
