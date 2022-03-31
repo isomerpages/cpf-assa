@@ -10,6 +10,7 @@ description: ""
 | **Phone** | 65 6202 2567 | 
 | **Email** | [cpfboard@cpf.gov.sg](mailto:cpfboard@cpf.gov.sg) | 
 | **Website** | [http://www.cpf.gov.sg/](http://www.cpf.gov.sg/) | 
+| | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** | ✔  | 
 | **HOUSING** | ✔ | 
