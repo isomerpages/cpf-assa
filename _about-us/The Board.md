@@ -30,6 +30,9 @@ description: ""
 #### VICE-CHAIRMAN, ASSA
 
 <div class="row">
+	<div class="col is-4">
+		<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
+	</div>
 	<div class="col is-8 has-text-centered">
 		<p class="title is-4"><strong>MRS KEO CHANTHAVIXAY</strong> </p>
 						Director General <br/>
@@ -39,9 +42,7 @@ Lao <br />
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
-	<div class="col is-4">
-		<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
-	</div>
+
 </div>
 
 #### Members 
