@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 	.print-content img {
-		 width:auto; height:200px; object-fit:cover;
+		 width:auto; height:100px; object-fit:cover;
 	}
 </style>
 
