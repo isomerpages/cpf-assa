@@ -3,7 +3,6 @@ title: Lao PDR
 permalink: /member-institutions/lao
 description: ""
 ---
-
 |  |  | 
 | -------- | -------- | 
 | **ORGANISATION** | **LAO SOCIAL SECURITY ORGANISATION** | 
@@ -11,6 +10,7 @@ description: ""
 | **Phone** | 856 21 241 280-81 | 
 | **Email** | [nssflao@nssf.gov.la](mailto:nssflao@nssf.gov.la) | 
 | **Website** | [http://www.nssf.gov.la/](http://www.nssf.gov.la/) | 
+| | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** | ✔  | 
 | **HOUSING** |  | 
