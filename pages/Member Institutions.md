@@ -3,6 +3,11 @@ title: Member Institutions
 permalink: /Member-Institutions-ASSA
 description: ""
 ---
+<style>
+	.print-content img {
+	}
+</style>
+
 | | | | | |
 |---|---|---|---|---|
 | [![Brunei](/images/Flags/brunei.jpg) **Brunei**](/member-institutions/brunei) | [![Cambodia](/images/Flags/cambodia.jpg) **Cambodia**](/member-institutions/cambodia) | [![Indonesia](/images/Flags/indonesia.jpg) **Indonesia**](/member-institutions/indonesia) | [![Lao PDR](/images/Flags/lao.jpg) **Lao PDR**](/member-institutions/lao) | [![Malaysia](/images/Flags/malaysia.jpg) **Malaysia**](/member-institutions/malaysia) |
