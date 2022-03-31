@@ -10,6 +10,7 @@ description: ""
 | **Phone** | 62 21 5091133 | 
 | **Email** | [depdir.hml@bpjsketenagakerjaan.go.id](mailto:depdir.hml@bpjsketenagakerjaan.go.id) | 
 | **Website** | [http://www.bpjsketenagakerjaan.go.id/](http://www.bpjsketenagakerjaan.go.id/) | 
+| | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** |   | 
 | **HOUSING** | | 
@@ -26,6 +27,7 @@ description: ""
 | **Phone** | 62 21 4212938 | 
 | **Email** | [deputi.hal@bpjs-kesehatan.go.id](mailto:deputi.hal@bpjs-kesehatan.go.id) | 
 | **Website** | [http://www.bpjsketenagakerjaan.go.id/](http://www.bpjsketenagakerjaan.go.id/) | 
+| | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** |  | 
 | **HEALTHCARE** | ✔  | 
 | **HOUSING** |  | 
