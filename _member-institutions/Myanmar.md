@@ -10,6 +10,7 @@ description: ""
 | **Phone** | 95 67 3417934 | 
 | **Email** | [ssbmyanmar51@gmail.com;mgmgaye.18686@gmail.com](mailto:ssbmyanmar51@gmail.com;mgmgaye.18686@gmail.com) | 
 | **Website** | [http://www.mol.gov.mm/](http://www.mol.gov.mm/) | 
+| | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** |  | 
 | **HEALTHCARE** |  ✔ | 
 | **HOUSING** |  | 
