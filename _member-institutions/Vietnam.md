@@ -10,6 +10,7 @@ description: ""
 | **Phone** | 84 243 936 1776 | 
 | **Email** | [vuhtqt@vss.gov.vn](mailto:vuhtqt@vss.gov.vn) | 
 | **Website** | [https://vss.gov.vn/english/Pages/default.aspx](https://vss.gov.vn/english/Pages/default.aspx) | 
+| | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** | ✔  | 
 | **HOUSING** |  | 
