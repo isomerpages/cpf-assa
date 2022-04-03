@@ -245,7 +245,7 @@ Lao <br />
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/AUGUSTIN LEE.jpg" />
+				<img src="/images/Board/Augustin Lee.png" />
 				<strong>MR AUGUSTIN LEE</strong> <br/>
 				Chief Executive Officer <br/>
 				Central Provident Fund Board <br/>
