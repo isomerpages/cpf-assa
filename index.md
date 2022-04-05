@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/slider2020_laos4.jpg
+      background: /images/ASSAHomePageBanner_LoaPDR.png
   - infobar:
       title: ASEAN Social Security Association (ASSA)
       subtitle: Welcome to
