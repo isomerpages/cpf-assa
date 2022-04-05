@@ -3,6 +3,11 @@ title: About Us
 permalink: /About-Us-ASSA
 description: ""
 ---
+### WELCOME TO THE ASEAN SOCIAL SECURITY ASSOCIATION (ASSA) WEBSITE
+Social security has far-reaching implications in our lives. These implications are augmented by the socio-economic forces which are constantly reshaping our environment. Faced with a situation of increasing life expectancy and rising population growth, the need for social security planning has become more
+crucial than before.
+In light of these developments, the ASEAN Social Security Association (ASSA) was formed to provide a forum for member institutions to exchange views and experiences on social security issues. Its members comprise the Social Security Institutions of ASEAN countries namely, Brunei, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand and Vietnam. As a non-government organization, ASSA seeks to promote the development
+of social security in the region in consonance with the aspirations, laws and regulations of the member countries.
 # OUR OBJECTIVES
 ## The objectives of ASSA are:
 * To promote the development of social security in the region in consonance with the aspirations, laws and regulations of the member countries;
