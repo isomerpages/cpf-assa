@@ -9,7 +9,7 @@ description: ""
 | **Address** | 238B Thomson Road, #08-00 Tower B, Novena Square, Singapore 307685 | 
 | **Phone** | 65 6202 2567 | 
 | **Email** | [cpfboard@cpf.gov.sg](mailto:cpfboard@cpf.gov.sg) | 
-| **Website** | [http://www.cpf.gov.sg/](http://www.cpf.gov.sg/) | 
+| **Website** | [cpf.gov.sg](https://cpf.gov.sg/) | 
 | | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** | ✔  | 
