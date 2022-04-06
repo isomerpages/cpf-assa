@@ -1,17 +1,54 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo2.png
 links:
+  - title: Home
+    url: /
+  - title: About Us
+    url: /About-Us-ASSA
+    sublinks:
+      - title: History & Achievements
+        url: /History-Achievements-ASSA
+      - title: The Board
+        url: /The-Board-ASSA
+  - title: Member Institutions
+    url: /Member-Institutions-ASSA
+    sublinks:
+      - title: Brunei
+        url: /member-institutions/brunei
+      - title: Cambodia
+        url: /member-institutions/cambodia
+      - title: Indonesia
+        url: /member-institutions/Indonesia
+      - title: Lao DPR
+        url: /member-institutions/lao
+      - title: Malaysia
+        url: /member-institutions/malaysia
+      - title: Myanmar
+        url: /member-institutions/myanmar
+      - title: Philippines
+        url: /member-institutions/philippines
+      - title: Singapore
+        url: /member-institutions/singapore
+      - title: Thailand
+        url: /member-institutions/thailand
+      - title: Vietnam
+        url: /member-institutions/vietnam
+  - title: Events
+    url: /events/assa-board-meeting/indonesia-2021
+    sublinks:
+      - title: ASSA Board Meeting
+        url: /events/assa-board-meeting/indonesia-2021
+      - title: Seminar & Conferences
+        url: /events/Seminar-and-Conferences/international-social-well-being-conference-2019
+  - title: Publications
+    url: /News-ASSA
+    sublinks:
+      - title: ASSA News
+        url: /News-ASSA
+      - title: Organisations’ Profiles
+        url: /Organization-Profiles-ASSA
+      - title: ASSA Recognition Award
+        url: /publications/ASSA-Recognition-Award/2021
+  - title: FAQ
+    url: /FAQ-ASSA
   - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /Page/
-  - title: Collection
-    collection: Collection
-  - title: Resource
-    resource_room: true
+    url: /Contact-Us-ASSA
