@@ -38,7 +38,7 @@ description: ""
 
 |  |  | 
 | -------- | -------- | 
-| **ORGANISATION** | **KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (KWAP)** | 
+| **ORGANISATION** | **KUMPULAN WANG PERSARAAN (DIPERBADANKAN)** | 
 | **Address** | Level 36, Integra Tower, The Intermark, 348, Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia | 
 | **Phone** | 603 2174 8000 | 
 | **Email** | [corpaffairs@kwap.gov.my](mailto:corpaffairs@kwap.gov.my) | 
