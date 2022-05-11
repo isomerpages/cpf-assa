@@ -38,7 +38,7 @@ description: ""
 
 |  |  | 
 | -------- | -------- | 
-| **ORGANISATION** | **KUMPULAN WANG PERSARAAN (DIPERBADANKAN)** | 
+| **ORGANISATION** | **KUMPULAN WANG PERSARAAN (KWAP)** | 
 | **Address** | Kumpulan Wang Persaraan (Diperbadankan), Malaysia | 
 | **Phone** | 603 2174 8000 | 
 | **Email** | [corpaffairs@kwap.gov.my](mailto:corpaffairs@kwap.gov.my) | 
