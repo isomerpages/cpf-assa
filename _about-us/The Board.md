@@ -74,6 +74,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -102,6 +104,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -130,6 +134,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -160,6 +166,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -188,6 +196,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -216,6 +226,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -246,6 +258,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -274,6 +288,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -304,6 +320,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -334,6 +352,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
