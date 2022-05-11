@@ -35,4 +35,22 @@ description: ""
 | **DEATH** | ✔ | 
 | **OTHERS*** | ✔ |
 
+
+|  |  | 
+| -------- | -------- | 
+| **ORGANISATION** | **KUMPULAN WANG PERSARAAN (DIPERBADANKAN)** | 
+| **Address** | Kumpulan Wang Persaraan (Diperbadankan), Malaysia | 
+| **Phone** | 603 2174 8000 | 
+| **Email** | [corpaffairs@kwap.gov.my](mailto:corpaffairs@kwap.gov.my) | 
+| **Website** | [https://www.kwap.gov.my/en/](https://www.kwap.gov.my/en/) | 
+| | **Category of Benefits**|
+| **RETIREMENT/OLD AGE** | ✔ | 
+| **HEALTHCARE** | ✔ | 
+| **HOUSING** | | 
+| **WORKERS' COMPENSATION** | | 
+| **DISABILITY** | ✔ | 
+| **DEATH** | ✔ | 
+| **OTHERS*** | ✔ |
+
+
 > ###### \* Other Social Security Benefits include life insurance, social assistance, unemployment, maternity, occupational disease, sickness, invalidity, rehabilitation & funeral benefits.
