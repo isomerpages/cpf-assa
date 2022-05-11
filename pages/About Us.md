@@ -14,7 +14,7 @@ of social security in the region in consonance with the aspirations, laws and re
 * To promote regional co-operation in all areas of social security activities;
 * To exchange experiences and information on social security;
 * To work in co-operation with other social security institutions in the region and in East Asia, and with similar or related organisations of social security in any part of the world; and
-* To co-operate in the defence, promotion and development of social security schemes through training, seminars, consultations and dialogues, among others.
+* To co-operate in the defence, promotion and development of social security schemes through training, seminars, consultations, and dialogues, among others.
 
 # THE LOGO CONCEPT
 <div class="row">
