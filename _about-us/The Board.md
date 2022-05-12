@@ -139,6 +139,22 @@ Lao <br />
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
+				<img src="/images/Board/NIK AMLIZAN MOHAMED.jpg" />
+				<strong>MS NIK AMLIZAN MOHAMED
+				</strong> <br/>
+				Chief Executive Officer<br/>
+				Kumpulan Wang Persaraan (Diperbadankan) <br/>
+				Malaysia
+				<br/>
+				<a href="/files/Biography/NIK AMLIZAN MOHAMED.pdf" target="_blank">
+					<strong>BIOGRAPHY</strong>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="col is-6">
+		<div class="row">
+			<div class="col">
 				<img src="/images/Board/AZMAN AZIZ.jpg" />
 				<strong>DR MOHAMMED AZMAN AZIZ MOHAMMED</strong> <br/>
 				Chief Executive Officer <br/>
@@ -150,6 +166,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -164,8 +182,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -180,6 +196,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -194,8 +212,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -210,6 +226,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -224,8 +242,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -242,6 +258,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -256,8 +274,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -272,6 +288,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -288,8 +306,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -304,6 +320,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -318,8 +336,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -336,6 +352,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
