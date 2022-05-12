@@ -32,6 +32,8 @@ description: ""
 
 [Employees Provident Fund, Malaysia](/member-institutions/malaysia)
 
+[Kumpulan Wang Persaraan (Diperbadankan), Malaysia](/member-institutions/malaysia)
+
 [Social Security Organisation, Malaysia](/member-institutions/malaysia)
 
 [Social Security Board, Myanmar](/member-institutions/myanmar)
