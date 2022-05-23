@@ -21,7 +21,7 @@ description: ""
 
 [MALAYSIA - EMPLOYEES PROVIDENT FUND](/files/Organisation%20Profiles/EPF%20Profile.pdf)
 
-[Malaysia - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)](/files/Organisation%20Profiles/KWAP%20Company%20Profile%20for%20ASSA%20website-v3-19may.pdf)
+[MALAYSIA - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)](/files/Organisation%20Profiles/KWAP%20Company%20Profile%20for%20ASSA%20website-v3-19may.pdf)
 
 [MALAYSIA - SOCIAL SECURITY ORGANISATION](/files/Organisation%20Profiles/SOCSO%20Malaysia.pdf)
 
