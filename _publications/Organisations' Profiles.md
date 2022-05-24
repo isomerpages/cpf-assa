@@ -15,23 +15,20 @@ description: ""
 
 [INDONESIA - BPJS KESEHATAN](/files/Organisation%20Profiles/INSSA%20Profile%202014.pdf)
 
-
 [INDONESIA - BPJS KETENAGAKERJAAN](/files/Organisation%20Profiles/INSSA%20Profile%202014.pdf)
 
 [LAO PDR - LAO SOCIAL SECURITY ORGANISATION](/files/Organisation%20Profiles/Lao%20LSSO%20Revised%202020.pdf)
 
-
 [MALAYSIA - EMPLOYEES PROVIDENT FUND](/files/Organisation%20Profiles/EPF%20Profile.pdf)
 
+[MALAYSIA - KUMPULAN WANG PERSARAAN (DIPERBADANKAN)](/files/Organisation%20Profiles/KWAP%20Company%20Profile%20for%20ASSA%20website-v3-19may.pdf)
 
 [MALAYSIA - SOCIAL SECURITY ORGANISATION](/files/Organisation%20Profiles/SOCSO%20Malaysia.pdf)
 
 
 [MYANMAR - SOCIAL SECURITY BOARD](/files/Organisation%20Profiles/Social%20Security%20Board-Myanmar.pdf)
 
-
 [PHILIPPINES - EMPLOYEES' COMPENSATION COMMISSION](/files/Organisation%20Profiles/ASSA%20ECC%20Updates%20as%20of%20September%202017.pdf)
-
 
 [PHILIPPINES - GOVERNMENT SERVICE INSURANCE SYSTEM](/files/Organisation%20Profiles/Profile%20of%20GSIS%20Philippines.pdf)
 
