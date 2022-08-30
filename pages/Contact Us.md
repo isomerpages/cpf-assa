@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /Contact-Us-ASSA
+permalink: /Contact-Us-ASSA/
 description: ""
 ---
 ##### For queries relating to ASSA matters, you may direct them to the ASSA Secretariat:
@@ -49,8 +49,6 @@ description: ""
 [Social Security System, Philippines](/member-institutions/philippines)
 
 [Central Provident Fund Board, Singapore](/member-institutions/singapore)
-
-[Government Pension Fund, Thailand](/member-institutions/thailand)
 
 [National Health Security Office, Thailand](/member-institutions/thailand)
 
