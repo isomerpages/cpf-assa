@@ -1,6 +1,6 @@
 ---
 title: The Board
-permalink: /The-Board-ASSA
+permalink: /The-Board-ASSA/
 description: ""
 ---
 ## CURRENT BOARD MEMBERS OF ASSA
@@ -277,22 +277,6 @@ Lao <br />
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/SOMBAT NARAWUTTHICHAI.jpg" />
-				<strong>MR SOMBAT NARAWUTTHICHAI</strong> <br/>
-				Secretary General <br/>
-				Government Pension Fund <br/>
-				Thailand<br/>
-				<a href="/files/Biography/SOMBAT NARAWUTTHICHAI.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
-				</a>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="row has-text-centered">
-	<div class="col is-6">
-		<div class="row">
-			<div class="col">
 				<img src="/images/Board/JADEJ THAMMATACH-AREE.jpg" />
 				<strong>DR JADEJ THAMMATACH-AREE
 				</strong> <br/>
@@ -306,6 +290,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -320,8 +306,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -336,6 +320,8 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -352,8 +338,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
