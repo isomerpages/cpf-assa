@@ -5,7 +5,7 @@ description: ""
 ---
 ## PROFILES OF ASSA MEMBER ORGANISATIONS
 
-[BRUNEI - EMPLOYEES TRUST FUND](/files/Organisation%20Profiles/Brunei_ETF_Profile.pdf)
+[BRUNEI - EMPLOYEES TRUST FUND](/files/Organisation%20Profiles/Brunei%ETF%Profile.pdf)
 
 [CAMBODIA - NATIONAL FUND FOR VETERANS](/files/Organisation%20Profiles/Profile%20of%20NFV.pdf)
 
