@@ -201,12 +201,12 @@ Lao <br />
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/ROLANDO LEDESMA MACASAET.jpg" />
-				<strong>MR ROLANDO LEDESMA MACASAET</strong> <br/>
+				<img src="/images/Board/Jose Arnulfo A Veloso.jpg" />
+				<strong>MR JOSE ARNULFO A. VELOSO</strong> <br/>
 				President and General Manager <br/>
 				Government Service Insurance System <br/>
 				Philippines <br/>
-				<a href="/files/Biography/ROLANDO LEDESMA MACASAET.pdf" target="_blank">
+				<a href="/files/Biography/Jose Arnulfo A Veloso.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
