@@ -1,11 +1,11 @@
 ---
 title: Organisations' Profiles
-permalink: /Organization-Profiles-ASSA
+permalink: /Organization-Profiles-ASSA/
 description: ""
 ---
 ## PROFILES OF ASSA MEMBER ORGANISATIONS
 
-[BRUNEI - EMPLOYEES TRUST FUND](/files/Organisation%20Profiles/Brunei_Profile.pdf)
+[BRUNEI - EMPLOYEES TRUST FUND](/files/Organisation%20Profiles/Brunei_ETF_Profile.pdf)
 
 [CAMBODIA - NATIONAL FUND FOR VETERANS](/files/Organisation%20Profiles/Profile%20of%20NFV.pdf)
 
