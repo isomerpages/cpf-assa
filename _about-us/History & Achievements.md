@@ -163,7 +163,7 @@ In 1995, the heads of several social security institutions in ASEAN took the fir
 
 <div class="row">
 	<div class="col has-text-centered content is-medium">
-	Some of the major achievements of ASSA
+	Some of the major achievements of ASSA:
 	</div>
 </div>
 
