@@ -11,7 +11,7 @@ description: ""
 	}
 </style>
 
-#### Chairman, ASSA
+### Chairman, ASSA
 <div class="row">
 	<div class="col is-4">
 		<img src="/images/Board/ANGGORO%20EKO%20CAHYO.jpg" />
@@ -27,8 +27,7 @@ description: ""
 	</div>
 </div>
 
-#### VICE-CHAIRMAN, ASSA
-
+### VICE-CHAIRMAN, ASSA
 <div class="row">
 	<div class="col is-4">
 		<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
@@ -44,7 +43,8 @@ Lao <br />
 	</div>
 </div>
 
-#### Members 
+#### Members
+<br>
 <div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
@@ -60,15 +60,15 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/MR HONG HEAN.jpg" />
-				<strong>MR HONG HEAN</strong> <br/>
-				Executive Director <br/>
-				National Fund for Veterans<br/>
+				<img src="/images/Board/CHOUR SOPANNHA.jpg" />
+				<strong>H.E. MR CHOUR SOPANNHA</strong> <br/>
+				Director General <br/>
+				National Social Assistance Fund<br/>
 				Cambodia<br/>
-				<a href="/files/Biography/MR HONG HEAN.pdf" target="_blank">
+				<a href="/files/Biography/CHOUR SOPHANNHA.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -90,23 +90,7 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-	<div class="col is-6">
-		<div class="row">
-			<div class="col">
-				<img src="/images/Board/KIM SOVANDY.jpg" />
-				<strong>MR KIM SOVANDY</strong> <br/>
-				Executive Director <br/>
-				National Social Security Fund for Civil Servants<br/>
-				Cambodia<br/>
-				<a href="/files/Biography/KIM SOVANDY.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
-				</a>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/FACHMI IDRIS.jpg" />
@@ -120,10 +104,11 @@ Lao <br />
 			</div>
 		</div>
 	</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/AMIR HAMZAH.jpg" />
+			 	<img src="/images/Board/AMIR HAMZAH.jpg" />
 				<strong>DATUK SERI AMIR HAMZAH</strong> <br/>
 				Chief Executive Officer <br/>
 				Employees Provident Fund <br/>
@@ -133,10 +118,8 @@ Lao <br />
 				</a>
 			</div>
 		</div>
-	</div>
 </div>
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/NIK AMLIZAN MOHAMED.jpg" />
@@ -166,9 +149,7 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/MAUNG MAUNG AYE.jpg" />
@@ -196,8 +177,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -226,8 +205,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -258,8 +235,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -290,8 +265,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -320,8 +293,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
