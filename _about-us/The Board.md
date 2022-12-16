@@ -94,7 +94,7 @@ Lao <br />
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/FACHMI IDRIS.jpg" />
-				<strong>PROF. DR. DR. FACHMI IDRIS, M. KES.</strong> <br/>
+				<strong>PROF. DR. FACHMI IDRIS, M. KES.</strong> <br/>
 				Chief Executive Officer <br/>
 				BPJS Kesehatan<br/>
 				Indonesia<br/>
@@ -131,11 +131,13 @@ Lao <br />
 				Malaysia
 				<br/>
 				<a href="/files/Biography/NIK AMLIZAN MOHAMED.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
