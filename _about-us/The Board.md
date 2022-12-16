@@ -161,11 +161,13 @@ Lao <br />
 				Social Security Board <br/>
 				Myanmar <br/>
 				<a href="/files/Biography/MAUNG MAUNG AYE.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+										<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -217,11 +219,13 @@ Lao <br />
 				Philippine Health Insurance Corporation <br/>
 				Philippines<br/>
 				<a href="/files/Biography/RICARDO C MORALES.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -247,11 +251,13 @@ Lao <br />
 				Central Provident Fund Board <br/>
 				Singapore <br/>
 				<a href="/files/Biography/AUGUSTIN LEE.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
