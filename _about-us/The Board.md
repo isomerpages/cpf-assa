@@ -283,15 +283,16 @@ Lao <br />
 				National Savings Fund <br/>
 				Thailand <br/>
 				<a href="/files/Biography/CHARULUCK RUANGSUWAN.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
-			<div class="col">
-				<img src="/images/Board/BOONSONG THAPCHAIYUTH.jpg" />
+			<div class="col">				<img src="/images/Board/BOONSONG THAPCHAIYUTH.jpg" />
 				<strong>MR BOONSONG THAPCHAIYUTH</strong> <br/>
 				Secretary-General<br/>
 				Social Security Office<br/>
@@ -313,11 +314,13 @@ Lao <br />
 				Vietnam
 				<br/>
 				<a href="/files/Biography/NGUYEN THE MANH.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
