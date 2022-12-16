@@ -63,12 +63,12 @@ Lao <br />
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/CHOUR SOPANNHA.jpg" />
-				<strong>H.E. MR CHOUR SOPANNHA</strong> <br/>
+				<img src="/images/Board/CHHOUR SOPANNHA.jpg" />
+				<strong>H.E. MR CHHOUR SOPANNHA</strong> <br/>
 				Director General <br/>
 				National Social Assistance Fund<br/>
 				Cambodia<br/>
-				<a href="/files/Biography/CHOUR SOPHANNHA.pdf" target="_blank">
+				<a href="/files/Biography/CHHOUR SOPHANNHA.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
