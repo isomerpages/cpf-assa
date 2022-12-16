@@ -191,11 +191,13 @@ Lao <br />
 				Government Service Insurance System <br/>
 				Philippines <br/>
 				<a href="/files/Biography/Jose Arnulfo A Veloso.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+											<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
