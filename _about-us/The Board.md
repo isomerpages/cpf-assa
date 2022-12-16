@@ -99,11 +99,12 @@ Lao <br />
 				BPJS Kesehatan<br/>
 				Indonesia<br/>
 				<a href="/files/Biography/FACHMI IDRIS.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
 <div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
