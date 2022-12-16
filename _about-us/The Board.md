@@ -11,7 +11,7 @@ description: ""
 	}
 </style>
 
-#### Chairman, ASSA
+### Chairman, ASSA
 <div class="row">
 	<div class="col is-4">
 		<img src="/images/Board/ANGGORO%20EKO%20CAHYO.jpg" />
@@ -27,8 +27,7 @@ description: ""
 	</div>
 </div>
 
-#### VICE-CHAIRMAN, ASSA
-
+### VICE-CHAIRMAN, ASSA
 <div class="row">
 	<div class="col is-4">
 		<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
@@ -44,7 +43,8 @@ Lao <br />
 	</div>
 </div>
 
-#### Members 
+#### Members
+<br>
 <div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
@@ -60,15 +60,15 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/MR HONG HEAN.jpg" />
-				<strong>MR HONG HEAN</strong> <br/>
-				Executive Director <br/>
-				National Fund for Veterans<br/>
+				<img src="/images/Board/CHHOUR SOPANNHA.jpg" />
+				<strong>H.E. MR CHHOUR SOPANNHA</strong> <br/>
+				Director General <br/>
+				National Social Assistance Fund<br/>
 				Cambodia<br/>
-				<a href="/files/Biography/MR HONG HEAN.pdf" target="_blank">
+				<a href="/files/Biography/CHHOUR SOPANNHA.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -90,16 +90,16 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/KIM SOVANDY.jpg" />
-				<strong>MR KIM SOVANDY</strong> <br/>
-				Executive Director <br/>
-				National Social Security Fund for Civil Servants<br/>
-				Cambodia<br/>
-				<a href="/files/Biography/KIM SOVANDY.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+				<img src="/images/Board/FACHMI IDRIS.jpg" />
+				<strong>PROF. DR. FACHMI IDRIS, M. KES.</strong> <br/>
+				Chief Executive Officer <br/>
+				BPJS Kesehatan<br/>
+				Indonesia<br/>
+				<a href="/files/Biography/FACHMI IDRIS.pdf" target="_blank">
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
@@ -109,21 +109,7 @@ Lao <br />
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/FACHMI IDRIS.jpg" />
-				<strong>PROF. DR. DR. FACHMI IDRIS, M. KES.</strong> <br/>
-				Chief Executive Officer <br/>
-				BPJS Kesehatan<br/>
-				Indonesia<br/>
-				<a href="/files/Biography/FACHMI IDRIS.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="col is-6">
-		<div class="row">
-			<div class="col">
-				<img src="/images/Board/AMIR HAMZAH.jpg" />
+			 	<img src="/images/Board/AMIR HAMZAH.jpg" />
 				<strong>DATUK SERI AMIR HAMZAH</strong> <br/>
 				Chief Executive Officer <br/>
 				Employees Provident Fund <br/>
@@ -133,10 +119,8 @@ Lao <br />
 				</a>
 			</div>
 		</div>
-	</div>
 </div>
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/NIK AMLIZAN MOHAMED.jpg" />
@@ -147,11 +131,13 @@ Lao <br />
 				Malaysia
 				<br/>
 				<a href="/files/Biography/NIK AMLIZAN MOHAMED.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -166,9 +152,7 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/MAUNG MAUNG AYE.jpg" />
@@ -177,11 +161,13 @@ Lao <br />
 				Social Security Board <br/>
 				Myanmar <br/>
 				<a href="/files/Biography/MAUNG MAUNG AYE.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+										<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -196,8 +182,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -207,11 +191,13 @@ Lao <br />
 				Government Service Insurance System <br/>
 				Philippines <br/>
 				<a href="/files/Biography/Jose Arnulfo A Veloso.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+											<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -226,8 +212,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -237,11 +221,13 @@ Lao <br />
 				Philippine Health Insurance Corporation <br/>
 				Philippines<br/>
 				<a href="/files/Biography/RICARDO C MORALES.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -258,8 +244,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -269,11 +253,13 @@ Lao <br />
 				Central Provident Fund Board <br/>
 				Singapore <br/>
 				<a href="/files/Biography/AUGUSTIN LEE.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -290,8 +276,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -301,15 +285,16 @@ Lao <br />
 				National Savings Fund <br/>
 				Thailand <br/>
 				<a href="/files/Biography/CHARULUCK RUANGSUWAN.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
-			<div class="col">
-				<img src="/images/Board/BOONSONG THAPCHAIYUTH.jpg" />
+			<div class="col">				<img src="/images/Board/BOONSONG THAPCHAIYUTH.jpg" />
 				<strong>MR BOONSONG THAPCHAIYUTH</strong> <br/>
 				Secretary-General<br/>
 				Social Security Office<br/>
@@ -320,8 +305,6 @@ Lao <br />
 			</div>
 		</div>
 	</div>
-</div>
-<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
@@ -333,11 +316,13 @@ Lao <br />
 				Vietnam
 				<br/>
 				<a href="/files/Biography/NGUYEN THE MANH.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
+								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">

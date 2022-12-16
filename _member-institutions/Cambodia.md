@@ -1,18 +1,18 @@
 ---
 title: Cambodia
-permalink: /member-institutions/cambodia
+permalink: /member-institutions/cambodia/
 description: ""
 ---
 |  |  | 
 | -------- | -------- | 
-| **ORGANISATION** | **NATIONAL FUND FOR VETERANS** | 
-| **Address** | Building No. 788, (Room A2-01), Monivong Blvd., Phnom Penh, Cambodia | 
-| **Phone** | 855 23 215 296 | 
-| **Email** | [nfv.info@gmail.com](mailto:nfv.info@gmail.com) | 
-| **Website** | [http://www.nfv.gov.kh/](http://www.nfv.gov.kh/) | 
+| **ORGANISATION** | **NATIONAL SOCIAL ASSISTANCE FUND** | 
+| **Address** | #788 Monivong Blvd, Phnom Penh, Cambodia | 
+| **Phone** | 031 521 9888 | 
+| **Email** |  | 
+| **Website** |  | 
 | | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
-| **HEALTHCARE** |   | 
+| **HEALTHCARE** | ✔  | 
 | **HOUSING** |  | 
 | **WORKERS' COMPENSATION** |   | 
 | **DISABILITY** | ✔ | 
@@ -32,23 +32,6 @@ description: ""
 | **HEALTHCARE** |  ✔ | 
 | **HOUSING** |  | 
 | **WORKERS' COMPENSATION** | ✔ | 
-| **DISABILITY** | ✔ | 
-| **DEATH** | ✔ | 
-| **OTHERS*** | ✔ |
-
-
-|  |  | 
-| -------- | -------- | 
-| **ORGANISATION** | **NATIONAL SOCIAL SECURITY FUND FOR CIVIL SERVANTS** | 
-| **Address** | Room A3-01, #788 Monivong Boulevard, Sangkat Boeng Trabek, Khan Chamkar Morn, Phnom Penh, Cambodia | 
-| **Phone** | 855 23 987 523 | 
-| **Email** | [info@nssfc.gov.kh](mailto:info@nssfc.gov.kh) | 
-| **Website** | [http://nssfc.gov.kh/](http://nssfc.gov.kh/) | 
-| | **Category of Benefits**|
-| **RETIREMENT/OLD AGE** | ✔ | 
-| **HEALTHCARE** | ✔  | 
-| **HOUSING** |  | 
-| **WORKERS' COMPENSATION** |   | 
 | **DISABILITY** | ✔ | 
 | **DEATH** | ✔ | 
 | **OTHERS*** | ✔ |
