@@ -68,7 +68,7 @@ Lao <br />
 				Director General <br/>
 				National Social Assistance Fund<br/>
 				Cambodia<br/>
-				<a href="/files/Biography/CHHOUR SOPHANNHA.pdf" target="_blank">
+				<a href="/files/Biography/CHHOUR SOPANNHA.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
