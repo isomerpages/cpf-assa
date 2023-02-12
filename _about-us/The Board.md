@@ -11,23 +11,7 @@ description: ""
 	}
 </style>
 
-### Chairman, ASSA
-<div class="row">
-	<div class="col is-4">
-		<img src="/images/Board/ANGGORO%20EKO%20CAHYO.jpg" />
-	</div>
-	<div class="col is-8 has-text-centered">
-		<p >MR ANGGORO EKO CAHYO</p>
-						President Director <br/>
-						BPJS Ketenagakerjaan<br/>
-						Indonesia <br/>
-		<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">
-			<strong>BIOGRAPHY</strong>
-		</a>
-	</div>
-</div>
-
-### VICE-CHAIRMAN, ASSA
+### Chairwoman, ASSA
 <div class="row">
 	<div class="col is-4">
 		<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
@@ -36,8 +20,25 @@ description: ""
 		<p ><strong>MRS KEO CHANTHAVIXAY</strong> </p>
 						Director General <br/>
 Lao Social Security Organization <br/>
-Lao <br />
+Lao <br>
 		<a href="/files/Biography/Keo Chanthavixay.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+</div>
+
+### VICE-CHAIRMAN, ASSA
+<div class="row">
+	<div class="col is-4">
+		<img src="/images/Board/AMIR HAMZAH.jpg" />
+	</div>
+		<div class="col is-8 has-text-centered">
+			<br>
+			<strong>DATUK SERI AMIR HAMZAH</strong> <br/>
+				Chief Executive Officer <br/>
+				Employees Provident Fund <br/>
+				Malaysia<br/>
+				<a href="/files/Biography/AMIR HAMZAH.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
