@@ -253,3 +253,34 @@ description: ""
 		</div>
 	</div>
 </div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
+		<div class="row">
+			<div class="col">
+				<img src="/images/Board/RICARDO C MORALES.jpg" />
+				<strong>BGEN. RICARDO C. MORALES, AFP (RET) FICD</strong> <br/>
+				President and Chief Executive Officer <br/>
+				Philippine Health Insurance Corporation <br/>
+				Philippines<br/>
+				<a href="/files/Biography/RICARDO C MORALES.pdf" target="_blank">
+					<strong>BIOGRAPHY</strong>
+				</a>
+			</div>
+		</div>
+	</div>
+<div class="col is-6">
+		<div class="row">
+			<div class="col">
+				<img src="/images/Board/STELLA ZIPAGAN-BANAWIS.jpg" />
+				<strong>MS STELLA ZIPAGAN-BANAWIS</strong> <br/>
+				Executive Director <br/>
+				Employees' Compensation Commission <br/>
+				Philippines<br/>
+				<a href="/files/Biography/STELLA ZIPAGAN-BANAWIS.pdf" target="_blank">
+											<strong>BIOGRAPHY</strong>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
