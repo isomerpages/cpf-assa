@@ -18,9 +18,9 @@ description: ""
 	</div>
 	<div class="col is-8 has-text-centered">
 		<p ><strong>MRS KEO CHANTHAVIXAY</strong> </p>
-						Director General <br/>
-Lao Social Security Organization <br/>
-Lao <br>
+						Director General <br>
+						Lao Social Security Organization <br>
+						Lao <br>
 		<a href="/files/Biography/Keo Chanthavixay.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
@@ -33,12 +33,27 @@ Lao <br>
 		<img src="/images/Board/AMIR HAMZAH.jpg" />
 	</div>
 		<div class="col is-8 has-text-centered">
-			<br>
 			<strong>DATUK SERI AMIR HAMZAH</strong> <br/>
-				Chief Executive Officer <br/>
-				Employees Provident Fund <br/>
-				Malaysia<br/>
+				Chief Executive Officer <br>
+				Employees Provident Fund <br>
+				Malaysia<br>
 				<a href="/files/Biography/AMIR HAMZAH.pdf" target="_blank">
+			<strong>BIOGRAPHY</strong>
+		</a>
+	</div>
+</div>
+
+### SECRETARY GENERAL, ASSA
+<div class="row">
+	<div class="col is-4">
+		<img src="/images/Board/A.jpg" />
+	</div>
+		<div class="col is-8 has-text-centered">
+			<strong>MRS BOUAHOME PHOMMACHAN</strong> <br>
+				DEPUTY DIRECTOR GENERAL <br>
+				Lao Social Security Organization <br>
+				Lao <br>
+				<a href="/files/Biography/A.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
