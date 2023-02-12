@@ -14,7 +14,7 @@ description: ""
 ### Chairwoman, ASSA
 <div class="row">
 	<div class="col is-4">
-		<img src="/images/Board/KEO CHANTHAVIXAY.jpg" />
+		<img src="/images/Board/KEO CHANTHAVIXAY.jpg" /><br>
 	</div>
 	<div class="col is-8 has-text-centered">
 		<br><strong>MRS KEO CHANTHAVIXAY</strong>
