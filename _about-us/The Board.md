@@ -220,3 +220,36 @@ description: ""
 		</div>
 	</div>
 </div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
+		<div class="row">
+			<div class="col">
+				<img src="/images/Board/AURORA CRUZ IGNACIO.jpg" />
+				<strong>MRS AURORA CRUZ IGNACIO
+				</strong> <br/>
+				President and Chief Executive Officer<br/>
+				Social Security System<br/>
+				Philippines
+				<br/>
+				<a href="/files/Biography/AURORA CRUZ IGNACIO.pdf" target="_blank">
+					<strong>BIOGRAPHY</strong>
+				</a>
+			</div>
+		</div>
+	</div>
+<div class="col is-6">
+		<div class="row">
+			<div class="col">
+				<img src="/images/Board/Jose Arnulfo A Veloso.jpg" />
+				<strong>MR JOSE ARNULFO A. VELOSO</strong> <br/>
+				President and General Manager <br/>
+				Government Service Insurance System <br/>
+				Philippines <br/>
+				<a href="/files/Biography/Jose Arnulfo A Veloso.pdf" target="_blank">
+											<strong>BIOGRAPHY</strong>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
