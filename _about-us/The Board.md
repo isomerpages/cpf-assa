@@ -189,3 +189,34 @@ description: ""
 		</div>
 	</div>
 </div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
+		<div class="row">
+			<div class="col">
+				<img src="/images/Board/MAUNG MAUNG AYE.jpg" />
+				<strong>MR MAUNG MAUNG AYE</strong> <br/>
+				Director General <br/>
+				Social Security Board <br/>
+				Myanmar <br/>
+				<a href="/files/Biography/MAUNG MAUNG AYE.pdf" target="_blank">
+					<strong>BIOGRAPHY</strong>
+				</a>
+			</div>
+		</div>
+	</div>
+<div class="col is-6">
+		<div class="row">
+			<div class="col">
+				<img src="/images/Board/ACMAD RIZALDY.jpg" />
+				<strong>MR ACMAD RIZALDY P. MOTI</strong> <br/>
+				Chief Executive Officer <br/>
+				Home Development Mutual Fund <br/>
+				Philippines <br/>
+				<a href="/files/Biography/ACMAD RIZALDY.pdf" target="_blank">
+					<strong>BIOGRAPHY</strong>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
