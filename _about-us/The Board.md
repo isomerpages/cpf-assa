@@ -17,7 +17,7 @@ description: ""
 		<img src="/images/Board/KEO CHANTHAVIXAY.jpg" /><br>
 	</div>
 	<div class="col is-8 has-text-centered">
-		<br><strong>MRS KEO CHANTHAVIXAY</strong>
+		<br><strong>MRS KEO CHANTHAVIXAY</strong><br>
 						Director General <br>
 						Lao Social Security Organization <br>
 						Lao <br>
