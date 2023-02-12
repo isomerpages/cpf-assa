@@ -92,8 +92,6 @@ description: ""
 	</div>
 </div>
 
-!!
-
 <div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
@@ -278,9 +276,87 @@ description: ""
 				Employees' Compensation Commission <br/>
 				Philippines<br/>
 				<a href="/files/Biography/STELLA ZIPAGAN-BANAWIS.pdf" target="_blank">
-											<strong>BIOGRAPHY</strong>
+					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
 </div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
+		<div class="row">
+			<div class="col">
+				<img src="/images/Board/Augustin Lee.png" />
+				<strong>MR AUGUSTIN LEE</strong> <br/>
+				Chief Executive Officer <br/>
+				Central Provident Fund Board <br/>
+				Singapore <br/>
+				<a href="/files/Biography/AUGUSTIN LEE.pdf" target="_blank">
+				</a>
+			</div>
+		</div>
+	</div>
+<div class="col is-6">
+		<div class="row">
+			<div class="col">
+				<img src="/images/Board/BOONSONG THAPCHAIYUTH.jpg" />
+				<strong>MR BOONSONG THAPCHAIYUTH</strong> <br/>
+				Secretary-General<br/>
+				Social Security Office<br/>
+				Thailand<br/>
+				<a href="/files/Biography/BOONSONG THAPCHAIYUTH.pdf" target="_blank">
+					<strong>BIOGRAPHY</strong>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
+		<div class="row">
+			<div class="col">
+				<img src="/images/Board/CHARULUCK RUANGSUWAN.jpg" />
+				<strong>MS CHARULUCK RUANGSUWAN</strong> <br/>
+				Secretary General <br/>
+				National Savings Fund <br/>
+				Thailand <br/>
+				<a href="/files/Biography/CHARULUCK RUANGSUWAN.pdf" target="_blank">
+				</a>
+			</div>
+		</div>
+	</div>
+<div class="col is-6">
+		<div class="row">
+			<div class="col">
+				<img src="/images/Board/JADEJ THAMMATACH-AREE.jpg" />
+				<strong>DR JADEJ THAMMATACH-AREE
+				</strong> <br/>			
+				Secretary General<br/>
+				National Health Security Office<br/>
+				Thailand<br/>
+				<a href="/files/Biography/JADEJ THAMMATACH-AREE.pdf" target="_blank">
+					<strong>BIOGRAPHY</strong>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
+		<div class="row">
+			<div class="col">
+				<img src="/images/Board/NGUYEN THE MANH.jpg" />
+				<strong>MR NGUYEN THE MANH
+				</strong> <br/>
+				Director General<br/>
+				Vietnam Social Security<br/>
+				Vietnam
+				<br/>
+				<a href="/files/Biography/NGUYEN THE MANH.pdf" target="_blank">
+				</a>
+			</div>
+		</div>
+	</div>
