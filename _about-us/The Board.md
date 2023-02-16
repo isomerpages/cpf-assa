@@ -46,14 +46,14 @@ description: ""
 ### SECRETARY GENERAL, ASSA
 <div class="row">
 	<div class="col is-4">
-		<img src="/images/Board/A.jpg" />
+		<img src="/images/Board/BOUAHOME PHOMMCHANE.jpg" />
 	</div>
 		<div class="col is-8 has-text-centered">
-			<br><strong>MRS BOUAHOME PHOMMACHAN</strong> <br>
+			<br><strong>MRS BOUAHOME PHOMMACHANE</strong> <br>
 				Deputy Director General <br>
 				Lao Social Security Organization <br>
 				Lao <br>
-				<a href="/files/Biography/A.pdf" target="_blank">
+				<a href="/files/Biography/MRS BOUAHOME PHOMMCHANE.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
