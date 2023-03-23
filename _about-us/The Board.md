@@ -141,25 +141,7 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-	<img src="/images/Board/INDRAJID NURMUKTI.jpg" />
-				<strong>MR INDRAJID NURMUKTI</strong> <br/>
-				Secretary General, ASSA<br/>
-				Head of Inter-Institutional Relations <br/>
-				BPJS Ketenagakerjaan <br/>
-				Indonesia <br/>
-				<a href="/files/Biography/INDRAJID NURMUKTI.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
-				</a>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="row has-text-centered">
-	<div class="col is-6">
-		<div class="row">
-			<div class="col">
-				<img src="/images/Board/AZMAN AZIZ.jpg" />
+	<img src="/images/Board/AZMAN AZIZ.jpg" />
 				<strong>DR MOHAMMED AZMAN AZIZ MOHAMMED</strong> <br/>
 				Chief Executive Officer <br/>
 				Social Security Organisation<br/>
@@ -170,7 +152,10 @@ description: ""
 			</div>
 		</div>
 	</div>
-<div class="col is-6">
+</div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/NIK AMLIZAN MOHAMED.jpg" />
@@ -181,15 +166,12 @@ description: ""
 				Malaysia
 				<br/>
 				<a href="/files/Biography/NIK AMLIZAN MOHAMED.pdf" target="_blank">
-								<strong>BIOGRAPHY</strong>
+					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
-</div>
-
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/MAUNG MAUNG AYE.jpg" />
@@ -203,10 +185,13 @@ description: ""
 			</div>
 		</div>
 	</div>
-<div class="col is-6">
+</div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/ACMAD RIZALDY.jpg" />
+					<img src="/images/Board/ACMAD RIZALDY.jpg" />
 				<strong>MR ACMAD RIZALDY P. MOTI</strong> <br/>
 				Chief Executive Officer <br/>
 				Home Development Mutual Fund <br/>
@@ -217,10 +202,7 @@ description: ""
 			</div>
 		</div>
 	</div>
-</div>
-
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/AURORA CRUZ IGNACIO.jpg" />
@@ -236,7 +218,10 @@ description: ""
 			</div>
 		</div>
 	</div>
-<div class="col is-6">
+</div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/Jose Arnulfo A Veloso.jpg" />
@@ -245,15 +230,12 @@ description: ""
 				Government Service Insurance System <br/>
 				Philippines <br/>
 				<a href="/files/Biography/Jose Arnulfo A Veloso.pdf" target="_blank">
-											<strong>BIOGRAPHY</strong>
+					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
-</div>
-
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/RICARDO C MORALES.jpg" />
@@ -267,7 +249,10 @@ description: ""
 			</div>
 		</div>
 	</div>
-<div class="col is-6">
+</div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/STELLA ZIPAGAN-BANAWIS.jpg" />
@@ -281,10 +266,7 @@ description: ""
 			</div>
 		</div>
 	</div>
-</div>
-
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/Augustin Lee.png" />
@@ -293,11 +275,15 @@ description: ""
 				Central Provident Fund Board <br/>
 				Singapore <br/>
 				<a href="/files/Biography/AUGUSTIN LEE.pdf" target="_blank">
+					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
-<div class="col is-6">
+</div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/BOONSONG THAPCHAIYUTH.jpg" />
@@ -311,10 +297,7 @@ description: ""
 			</div>
 		</div>
 	</div>
-</div>
-
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/CHARULUCK RUANGSUWAN.jpg" />
@@ -323,11 +306,15 @@ description: ""
 				National Savings Fund <br/>
 				Thailand <br/>
 				<a href="/files/Biography/CHARULUCK RUANGSUWAN.pdf" target="_blank">
+					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
-<div class="col is-6">
+</div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/JADEJ THAMMATACH-AREE.jpg" />
@@ -342,13 +329,10 @@ description: ""
 			</div>
 		</div>
 	</div>
-</div>
-
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/NGUYEN THE MANH.jpg" />
+					<img src="/images/Board/NGUYEN THE MANH.jpg" />
 				<strong>MR NGUYEN THE MANH
 				</strong> <br/>
 				Director General<br/>
@@ -356,7 +340,9 @@ description: ""
 				Vietnam
 				<br/>
 				<a href="/files/Biography/NGUYEN THE MANH.pdf" target="_blank">
+					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
+</div>
