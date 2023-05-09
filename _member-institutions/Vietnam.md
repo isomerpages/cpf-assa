@@ -1,6 +1,6 @@
 ---
 title: Vietnam
-permalink: /member-institutions/vietnam
+permalink: /member-institutions/vietnam/
 description: ""
 ---
 |  |  | 

@@ -1,6 +1,6 @@
 ---
 title: Lao PDR
-permalink: /member-institutions/lao
+permalink: /member-institutions/lao/
 description: ""
 ---
 |  |  | 

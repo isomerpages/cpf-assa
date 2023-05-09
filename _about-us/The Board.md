@@ -1,6 +1,6 @@
 ---
 title: The Board
-permalink: /The-Board-ASSA/
+permalink: /the-board-assa/
 description: ""
 ---
 ## CURRENT BOARD MEMBERS OF ASSA

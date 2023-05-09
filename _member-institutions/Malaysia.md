@@ -1,6 +1,6 @@
 ---
 title: Malaysia
-permalink: /member-institutions/malaysia
+permalink: /member-institutions/malaysia/
 description: ""
 ---
 |  |  | 

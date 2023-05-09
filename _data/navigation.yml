@@ -3,14 +3,14 @@ links:
   - title: Home
     url: /
   - title: About Us
-    url: /About-Us-ASSA
+    url: /about-us-assa
     sublinks:
       - title: History & Achievements
-        url: /History-Achievements-ASSA
+        url: /history-achievements-assa
       - title: The Board
-        url: /The-Board-ASSA
+        url: /the-board-assa
   - title: Member Institutions
-    url: /Member-Institutions-ASSA
+    url: /member-institutions-assa
     sublinks:
       - title: Brunei
         url: /member-institutions/brunei
@@ -38,17 +38,17 @@ links:
       - title: ASSA Board Meeting
         url: /events/assa-board-meeting/Lao-2022
       - title: Seminar & Conferences
-        url: /events/Seminar-and-Conferences/international-social-well-being-conference-2019
+        url: /events/seminar-and-conferences/international-social-well-being-conference-2019
   - title: Publications
-    url: /News-ASSA
+    url: /news-assa
     sublinks:
       - title: ASSA News
-        url: /News-ASSA
+        url: /news-assa
       - title: Organisations’ Profiles
-        url: /Organization-Profiles-ASSA
+        url: /organization-profiles-assa
       - title: ASSA Recognition Award
-        url: /publications/ASSA-Recognition-Award/2021
+        url: /publications/assa-recognition-award/2021
   - title: FAQ
     url: /FAQ-ASSA
   - title: Contact Us
-    url: /Contact-Us-ASSA
+    url: /contact-us-assa

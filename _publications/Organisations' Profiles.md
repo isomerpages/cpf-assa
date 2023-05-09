@@ -1,6 +1,6 @@
 ---
 title: Organisations' Profiles
-permalink: /Organization-Profiles-ASSA/
+permalink: /organization-profiles-assa/
 description: ""
 ---
 ## PROFILES OF ASSA MEMBER ORGANISATIONS

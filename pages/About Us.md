@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /About-Us-ASSA
+permalink: /about-us-assa/
 description: ""
 ---
 ### WELCOME TO THE ASEAN SOCIAL SECURITY ASSOCIATION (ASSA) WEBSITE

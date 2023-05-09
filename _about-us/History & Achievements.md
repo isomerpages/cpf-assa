@@ -1,6 +1,6 @@
 ---
 title: History & Achievements
-permalink: /History-Achievements-ASSA/
+permalink: /history-achievements-assa/
 description: ""
 ---
 ## History - A Peek at Our Past

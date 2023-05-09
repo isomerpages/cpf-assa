@@ -1,4 +1,4 @@
 ---
 title: Page
-permalink: /Page
+permalink: /page/
 ---

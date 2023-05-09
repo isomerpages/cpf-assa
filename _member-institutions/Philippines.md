@@ -1,6 +1,6 @@
 ---
 title: Philippines
-permalink: /member-institutions/philippines
+permalink: /member-institutions/philippines/
 description: ""
 ---
 |  |  | 

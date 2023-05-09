@@ -1,6 +1,6 @@
 ---
 title: International Training Course 2019
-permalink: /events/Seminar-and-Conferences/5th-international-training-course
+permalink: /events/seminar-and-conferences/5th-international-training-course/
 description: ""
 third_nav_title: Seminar and Conferences
 ---

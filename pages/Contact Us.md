@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /Contact-Us-ASSA/
+permalink: /contact-us-assa/
 description: ""
 ---
 ##### For queries relating to ASSA matters, you may direct them to the ASSA Secretariat:

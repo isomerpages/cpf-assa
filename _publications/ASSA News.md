@@ -1,6 +1,6 @@
 ---
 title: ASSA News
-permalink: /News-ASSA
+permalink: /news-assa/
 description: ""
 ---
 #### NOV 2021 ASSA News Vol 34
