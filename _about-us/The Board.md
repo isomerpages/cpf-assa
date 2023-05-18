@@ -141,7 +141,7 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-	<img src="/images/Board/AZMAN AZIZ.jpg">
+	<img src="/images/Board/azman aziz.png">
 				<strong>Dato' Sri Dr. Mohammed Azman Bin Aziz Mohammed</strong> <br>
 				Chief Executive Officer <br>
 				Social Security Organization (PERKESO)<br>
