@@ -96,7 +96,7 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/HENG SOPHANNARITH.jpg">
+				<img src="/images/Board/heng sophannarith.png">
 				<strong>H.E. MR HENG SOPHANNARITH, PH.D</strong> <br>
 				Acting Director General <br>
 				National Social Security Fund <br>
