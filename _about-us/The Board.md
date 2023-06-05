@@ -65,7 +65,7 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/Haji Md Adfarul.jpg">
+				<img src="/images/Board/haji md adfarul.jpg">
 				<strong>MR HAJI MD ADFARUL HAJI MAZ ADANAN</strong> <br>
 				Managing Director <br>
 				Employees Trust Fund<br>
