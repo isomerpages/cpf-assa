@@ -52,7 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://cpfb-test-staging.netlify.app
-prod: https://cpfb-test-prod.netlify.app
+staging: https://staging.d2xijzimwh2l1f.amplifyapp.com/
+prod: https://master.d2xijzimwh2l1f.amplifyapp.com/
 is_government: false
 shareicon: /images/assa-about-logo.png

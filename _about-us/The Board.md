@@ -1,6 +1,6 @@
 ---
 title: The Board
-permalink: /The-Board-ASSA/
+permalink: /the-board-assa/
 description: ""
 ---
 ## CURRENT BOARD MEMBERS OF ASSA
@@ -14,7 +14,7 @@ description: ""
 ### Chairwoman, ASSA
 <div class="row">
 	<div class="col is-4">
-		<img src="/images/Board/KEO CHANTHAVIXAY.jpg" /><br>
+		<img src="/images/Board/KEO CHANTHAVIXAY.jpg"><br>
 	</div>
 	<div class="col is-8 has-text-centered">
 		<br><strong>MRS KEO CHANTHAVIXAY</strong><br>
@@ -30,10 +30,10 @@ description: ""
 ### VICE-CHAIRMAN, ASSA
 <div class="row">
 	<div class="col is-4">
-		<img src="/images/Board/AMIR HAMZAH.jpg" />
+		<img src="/images/Board/AMIR HAMZAH.jpg">
 	</div>
 		<div class="col is-8 has-text-centered">
-			<br><strong>DATUK SERI AMIR HAMZAH</strong> <br/>
+			<br><strong>DATUK SERI AMIR HAMZAH</strong> <br>
 				Chief Executive Officer <br>
 				Employees Provident Fund <br>
 				Malaysia<br>
@@ -46,7 +46,7 @@ description: ""
 ### SECRETARY GENERAL, ASSA
 <div class="row">
 	<div class="col is-4">
-		<img src="/images/Board/BOUAHOME PHOMMCHANE.jpg" />
+		<img src="/images/Board/BOUAHOME PHOMMCHANE.jpg">
 	</div>
 		<div class="col is-8 has-text-centered">
 			<br><strong>MRS BOUAHOME PHOMMACHANE</strong> <br>
@@ -65,12 +65,12 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/MR OMAR BIN MOHD DALI.jpg" />
-				<strong>MR OMAR BIN MOHD DALI</strong> <br/>
-				Managing Director <br/>
-				Employees Trust Fund<br/>
-				Brunei<br/>
-				<a href="/files/Biography/MR OMAR BIN MOHD DALI.pdf" target="_blank">
+				<img src="/images/Board/Haji Md Adfarul.PNG">
+				<strong>MR HAJI MD ADFARUL HAJI MAZ ADANAN</strong> <br>
+				Managing Director <br>
+				Employees Trust Fund<br>
+				Brunei<br>
+				<a href="/files/Biography/Haji Md Adfarul.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -79,11 +79,11 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/CHHOUR SOPANNHA.jpg" />
-				<strong>H.E. MR CHHOUR SOPANNHA</strong> <br/>
-				Director General <br/>
-				National Social Assistance Fund<br/>
-				Cambodia<br/>
+				<img src="/images/Board/CHHOUR SOPANNHA.jpg">
+				<strong>H.E. MR CHHOUR SOPANNHA</strong> <br>
+				Director General <br>
+				National Social Assistance Fund<br>
+				Cambodia<br>
 				<a href="/files/Biography/CHHOUR SOPANNHA.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -96,11 +96,11 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/HENG SOPHANNARITH.jpg" />
-				<strong>H.E. MR HENG SOPHANNARITH, PH.D</strong> <br/>
-				Acting Director General <br/>
-				National Social Security Fund <br/>
-				Cambodia<br/>
+				<img src="/images/Board/heng sophannarith.png">
+				<strong>H.E. MR HENG SOPHANNARITH, PH.D</strong> <br>
+				Acting Director General <br>
+				National Social Security Fund <br>
+				Cambodia<br>
 				<a href="/files/Biography/HENG SOPHANNARITH.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -110,11 +110,11 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/ANGGORO%20EKO%20CAHYO.jpg" />
-				<strong>MR ANGGORO EKO CAHYO</strong> <br/>
-				President Director <br/>
-				BPJS Ketenagakerjaan<br/>
-				Indonesia <br/>
+				<img src="/images/Board/ANGGORO%20EKO%20CAHYO.jpg">
+				<strong>MR ANGGORO EKO CAHYO</strong> <br>
+				President Director <br>
+				BPJS Ketenagakerjaan<br>
+				Indonesia <br>
 				<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">
 								<strong>BIOGRAPHY</strong>
 				</a>
@@ -127,11 +127,11 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-			 	<img src="/images/Board/FACHMI IDRIS.jpg" />
-				<strong>PROF. DR. FACHMI IDRIS, M. KES</strong> <br/>
-				Chief Executive Officer <br/>
-				BPJS Kesehatan <br/>
-				Indonesia<br/>
+			 	<img src="/images/Board/FACHMI IDRIS.jpg">
+				<strong>PROF. DR. FACHMI IDRIS, M. KES</strong> <br>
+				Chief Executive Officer <br>
+				BPJS Kesehatan <br>
+				Indonesia<br>
 				<a href="/files/Biography/FACHMI IDRIS.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -141,12 +141,12 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-	<img src="/images/Board/AZMAN AZIZ.jpg" />
-				<strong>DR MOHAMMED AZMAN AZIZ MOHAMMED</strong> <br/>
-				Chief Executive Officer <br/>
-				Social Security Organisation<br/>
-				Malaysia <br/>
-				<a href="/files/Biography/AZMAN AZIZ.pdf" target="_blank">
+	<img src="/images/Board/azman aziz.png">
+				<strong>Dato' Sri Dr. Mohammed Azman Bin Aziz Mohammed</strong> <br>
+				Chief Executive Officer <br>
+				Social Security Organization (PERKESO)<br>
+				Malaysia <br>
+				<a href="/files/Biography/azman aziz.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -158,13 +158,13 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/NIK AMLIZAN MOHAMED.jpg" />
+				<img src="/images/Board/NIK AMLIZAN MOHAMED.jpg">
 				<strong>MS NIK AMLIZAN MOHAMED
-				</strong> <br/>
-				Chief Executive Officer<br/>
-				Kumpulan Wang Persaraan (Diperbadankan) <br/>
+				</strong> <br>
+				Chief Executive Officer<br>
+				Kumpulan Wang Persaraan (Diperbadankan) <br>
 				Malaysia
-				<br/>
+				<br>
 				<a href="/files/Biography/NIK AMLIZAN MOHAMED.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -174,11 +174,11 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/MAUNG MAUNG AYE.jpg" />
-				<strong>MR MAUNG MAUNG AYE</strong> <br/>
-				Director General <br/>
-				Social Security Board <br/>
-				Myanmar <br/>
+				<img src="/images/Board/MAUNG MAUNG AYE.jpg">
+				<strong>MR MAUNG MAUNG AYE</strong> <br>
+				Director General <br>
+				Social Security Board <br>
+				Myanmar <br>
 				<a href="/files/Biography/MAUNG MAUNG AYE.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -191,11 +191,11 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-					<img src="/images/Board/ACMAD RIZALDY.jpg" />
-				<strong>MR ACMAD RIZALDY P. MOTI</strong> <br/>
-				Chief Executive Officer <br/>
-				Home Development Mutual Fund <br/>
-				Philippines <br/>
+					<img src="/images/Board/ACMAD RIZALDY.jpg">
+				<strong>MR ACMAD RIZALDY P. MOTI</strong> <br>
+				Chief Executive Officer <br>
+				Home Development Mutual Fund <br>
+				Philippines <br>
 				<a href="/files/Biography/ACMAD RIZALDY.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -205,13 +205,13 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/AURORA CRUZ IGNACIO.jpg" />
+				<img src="/images/Board/AURORA CRUZ IGNACIO.jpg">
 				<strong>MRS AURORA CRUZ IGNACIO
-				</strong> <br/>
-				President and Chief Executive Officer<br/>
-				Social Security System<br/>
+				</strong> <br>
+				President and Chief Executive Officer<br>
+				Social Security System<br>
 				Philippines
-				<br/>
+				<br>
 				<a href="/files/Biography/AURORA CRUZ IGNACIO.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -224,11 +224,11 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/Jose Arnulfo A Veloso.jpg" />
-				<strong>MR JOSE ARNULFO A. VELOSO</strong> <br/>
-				President and General Manager <br/>
-				Government Service Insurance System <br/>
-				Philippines <br/>
+				<img src="/images/Board/Jose Arnulfo A Veloso.jpg">
+				<strong>MR JOSE ARNULFO A. VELOSO</strong> <br>
+				President and General Manager <br>
+				Government Service Insurance System <br>
+				Philippines <br>
 				<a href="/files/Biography/Jose Arnulfo A Veloso.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -238,11 +238,11 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/RICARDO C MORALES.jpg" />
-				<strong>BGEN. RICARDO C. MORALES, AFP (RET) FICD</strong> <br/>
-				President and Chief Executive Officer <br/>
-				Philippine Health Insurance Corporation <br/>
-				Philippines<br/>
+				<img src="/images/Board/RICARDO C MORALES.jpg">
+				<strong>BGEN. RICARDO C. MORALES, AFP (RET) FICD</strong> <br>
+				President and Chief Executive Officer <br>
+				Philippine Health Insurance Corporation <br>
+				Philippines<br>
 				<a href="/files/Biography/RICARDO C MORALES.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -255,11 +255,11 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/STELLA ZIPAGAN-BANAWIS.jpg" />
-				<strong>MS STELLA ZIPAGAN-BANAWIS</strong> <br/>
-				Executive Director <br/>
-				Employees' Compensation Commission <br/>
-				Philippines<br/>
+				<img src="/images/Board/STELLA ZIPAGAN-BANAWIS.jpg">
+				<strong>MS STELLA ZIPAGAN-BANAWIS</strong> <br>
+				Executive Director <br>
+				Employees' Compensation Commission <br>
+				Philippines<br>
 				<a href="/files/Biography/STELLA ZIPAGAN-BANAWIS.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -269,11 +269,11 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/Augustin Lee.png" />
-				<strong>MR AUGUSTIN LEE</strong> <br/>
-				Chief Executive Officer <br/>
-				Central Provident Fund Board <br/>
-				Singapore <br/>
+				<img src="/images/Board/Augustin Lee.png">
+				<strong>MR AUGUSTIN LEE</strong> <br>
+				Chief Executive Officer <br>
+				Central Provident Fund Board <br>
+				Singapore <br>
 				<a href="/files/Biography/AUGUSTIN LEE.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -286,11 +286,11 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/BOONSONG THAPCHAIYUTH.jpg" />
-				<strong>MR BOONSONG THAPCHAIYUTH</strong> <br/>
-				Secretary-General<br/>
-				Social Security Office<br/>
-				Thailand<br/>
+				<img src="/images/Board/BOONSONG THAPCHAIYUTH.jpg">
+				<strong>MR BOONSONG THAPCHAIYUTH</strong> <br>
+				Secretary-General<br>
+				Social Security Office<br>
+				Thailand<br>
 				<a href="/files/Biography/BOONSONG THAPCHAIYUTH.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -300,11 +300,11 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/CHARULUCK RUANGSUWAN.jpg" />
-				<strong>MS CHARULUCK RUANGSUWAN</strong> <br/>
-				Secretary General <br/>
-				National Savings Fund <br/>
-				Thailand <br/>
+				<img src="/images/Board/CHARULUCK RUANGSUWAN.jpg">
+				<strong>MS CHARULUCK RUANGSUWAN</strong> <br>
+				Secretary General <br>
+				National Savings Fund <br>
+				Thailand <br>
 				<a href="/files/Biography/CHARULUCK RUANGSUWAN.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -317,12 +317,12 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/JADEJ THAMMATACH-AREE.jpg" />
+				<img src="/images/Board/JADEJ THAMMATACH-AREE.jpg">
 				<strong>DR JADEJ THAMMATACH-AREE
-				</strong> <br/>			
-				Secretary General<br/>
-				National Health Security Office<br/>
-				Thailand<br/>
+				</strong> <br>			
+				Secretary General<br>
+				National Health Security Office<br>
+				Thailand<br>
 				<a href="/files/Biography/JADEJ THAMMATACH-AREE.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
@@ -332,13 +332,13 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-					<img src="/images/Board/NGUYEN THE MANH.jpg" />
+					<img src="/images/Board/NGUYEN THE MANH.jpg">
 				<strong>MR NGUYEN THE MANH
-				</strong> <br/>
-				Director General<br/>
-				Vietnam Social Security<br/>
+				</strong> <br>
+				Director General<br>
+				Vietnam Social Security<br>
 				Vietnam
-				<br/>
+				<br>
 				<a href="/files/Biography/NGUYEN THE MANH.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>

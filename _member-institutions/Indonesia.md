@@ -1,6 +1,6 @@
 ---
 title: Indonesia
-permalink: /member-institutions/indonesia
+permalink: /member-institutions/indonesia/
 description: ""
 ---
 |  |  | 

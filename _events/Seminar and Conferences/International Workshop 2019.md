@@ -1,6 +1,6 @@
 ---
 title: International Workshop 2019
-permalink: /events/Seminar-and-Conferences/good-governance-for-better-social-security-services
+permalink: /events/seminar-and-conferences/good-governance-for-better-social-security-services/
 description: ""
 third_nav_title: Seminar and Conferences
 ---

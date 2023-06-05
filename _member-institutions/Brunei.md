@@ -1,6 +1,6 @@
 ---
 title: Brunei
-permalink: /member-institutions/brunei
+permalink: /member-institutions/brunei/
 description: ""
 ---
 |  |  | 

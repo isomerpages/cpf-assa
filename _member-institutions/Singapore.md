@@ -1,6 +1,6 @@
 ---
 title: Singapore
-permalink: /member-institutions/singapore
+permalink: /member-institutions/singapore/
 description: ""
 ---
 |  |  | 

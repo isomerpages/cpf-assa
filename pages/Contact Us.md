@@ -1,17 +1,17 @@
 ---
 title: Contact Us
-permalink: /Contact-Us-ASSA/
+permalink: /contact-us-assa/
 description: ""
 ---
 ##### For queries relating to ASSA matters, you may direct them to the ASSA Secretariat:
 
 
-##### Mr Indrajid Nurmukti
-+6221-50911333
+##### Ms Thianthong Sati
++856 2056911882
 
-[indrajid.nurmukti@bpjsketenagakerjaan.go.id](mailto:indrajid.nurmukti@bpjsketenagakerjaan.go.id)
+[thsati@yahoo.com](mailto:thsati@yahoo.com)
 
-<br/>
+<br>
 
 ##### For queries pertaining specifically to the respective member institutions, please contact them directly.
 

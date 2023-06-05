@@ -1,6 +1,6 @@
 ---
 title: Myanmar
-permalink: /member-institutions/myanmar
+permalink: /member-institutions/myanmar/
 description: ""
 ---
 |  |  | 

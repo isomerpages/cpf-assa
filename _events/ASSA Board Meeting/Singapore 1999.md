@@ -1,6 +1,6 @@
 ---
 title: Singapore 1999
-permalink: /events/ASSA-Board-Meeting/singapore-1999
+permalink: /events/assa-board-meeting/singapore-1999/
 description: ""
 third_nav_title: ASSA Board Meeting
 ---

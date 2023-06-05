@@ -1,6 +1,6 @@
 ---
 title: Member Institutions
-permalink: /Member-Institutions-ASSA
+permalink: /member-institutions-assa/
 description: ""
 ---
 <style>
