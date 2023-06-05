@@ -65,12 +65,12 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/MR OMAR BIN MOHD DALI.jpg">
-				<strong>MR OMAR BIN MOHD DALI</strong> <br>
+				<img src="/images/Board/Haji Md Adfarul.PNG">
+				<strong>MR HAJI MD ADFARUL HAJI MAZ ADANAN</strong> <br>
 				Managing Director <br>
 				Employees Trust Fund<br>
 				Brunei<br>
-				<a href="/files/Biography/MR OMAR BIN MOHD DALI.pdf" target="_blank">
+				<a href="/files/Biography/Haji Md Adfarul.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
