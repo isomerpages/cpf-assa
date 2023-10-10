@@ -269,12 +269,12 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/MELISSA KHOO.png">
+				<img src="/images/Board/melissa khoo.png">
 				<strong>MS MELISSA KHOO</strong> <br>
 				Chief Executive Officer <br>
 				Central Provident Fund Board <br>
 				Singapore <br>
-				<a href="/files/Biography/MELISSA KHOO.pdf" target="_blank">
+				<a href="/files/Biography/melissa khoo.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
