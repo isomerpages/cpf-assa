@@ -65,7 +65,7 @@ description: ""
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/Haji Md Adfarul.PNG">
+				<img src="/images/Board/haji md adfarul.jpg">
 				<strong>MR HAJI MD ADFARUL HAJI MAZ ADANAN</strong> <br>
 				Managing Director <br>
 				Employees Trust Fund<br>
@@ -269,12 +269,12 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/Augustin Lee.png">
-				<strong>MR AUGUSTIN LEE</strong> <br>
+				<img src="/images/Board/melissa khoo.png">
+				<strong>MS MELISSA KHOO</strong> <br>
 				Chief Executive Officer <br>
 				Central Provident Fund Board <br>
 				Singapore <br>
-				<a href="/files/Biography/AUGUSTIN LEE.pdf" target="_blank">
+				<a href="/files/Biography/melissa khoo.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
