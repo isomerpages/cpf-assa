@@ -3,6 +3,9 @@ title: ASSA News
 permalink: /news-assa/
 description: ""
 ---
+#### NOV 2022 ASSA News Vol 35
+
+[Download](/files/ASSA%20News/ASSA%20News%20Vol%2035%20Nov%202022.pdf)
 #### NOV 2021 ASSA News Vol 34
 
 [Download](/files/ASSA%20News/ASSA%20News%20Vol%2034%20Nov%202021.pdf)
