@@ -1,0 +1,54 @@
+logo: /images/logo2.png
+links:
+  - title: Home
+    url: /
+  - title: About Us
+    url: /about-us-assa
+    sublinks:
+      - title: History & Achievements
+        url: /history-achievements-assa
+      - title: The Board
+        url: /the-board-assa
+  - title: Member Institutions
+    url: /member-institutions-assa
+    sublinks:
+      - title: Brunei
+        url: /member-institutions/brunei
+      - title: Cambodia
+        url: /member-institutions/cambodia
+      - title: Indonesia
+        url: /member-institutions/Indonesia
+      - title: Lao DPR
+        url: /member-institutions/lao
+      - title: Malaysia
+        url: /member-institutions/malaysia
+      - title: Myanmar
+        url: /member-institutions/myanmar
+      - title: Philippines
+        url: /member-institutions/philippines
+      - title: Singapore
+        url: /member-institutions/singapore
+      - title: Thailand
+        url: /member-institutions/thailand
+      - title: Vietnam
+        url: /member-institutions/vietnam
+  - title: Events
+    url: https://www.asean-ssa.org/events/assa-board-meeting/lao-2022
+    sublinks:
+      - title: ASSA Board Meeting
+        url: /events/assa-board-meeting/Lao-2022
+      - title: Seminar & Conferences
+        url: /events/seminar-and-conferences/international-social-well-being-conference-2019
+  - title: Publications
+    url: /news-assa
+    sublinks:
+      - title: ASSA News
+        url: /news-assa
+      - title: Organisations’ Profiles
+        url: /organization-profiles-assa
+      - title: ASSA Recognition Award
+        url: /publications/assa-recognition-award/2021
+  - title: FAQ
+    url: /FAQ-ASSA
+  - title: Contact Us
+    url: /contact-us-assa
