@@ -2,6 +2,7 @@
 title: The Board
 permalink: /the-board-assa/
 description: ""
+variant: markdown
 ---
 ## CURRENT BOARD MEMBERS OF ASSA
 
@@ -17,7 +18,7 @@ description: ""
 		<img src="/images/Board/KEO CHANTHAVIXAY.jpg"><br>
 	</div>
 	<div class="col is-8 has-text-centered">
-		<br><strong>MRS KEO CHANTHAVIXAY</strong><br>
+		<br><strong>MRS KEO CHANTHAVIXAY 2</strong><br>
 						Director General <br>
 						Lao Social Security Organization <br>
 						Lao <br>
@@ -33,7 +34,7 @@ description: ""
 		<img src="/images/Board/AMIR HAMZAH.jpg">
 	</div>
 		<div class="col is-8 has-text-centered">
-			<br><strong>DATUK SERI AMIR HAMZAH</strong> <br>
+			<br><strong>DATUK SERI AMIR HAMZAH </strong> <br>
 				Chief Executive Officer <br>
 				Employees Provident Fund <br>
 				Malaysia<br>
