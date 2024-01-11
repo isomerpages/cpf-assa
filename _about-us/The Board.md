@@ -80,7 +80,7 @@ variant: markdown
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/SIM SOTHUN.jpg">
+				<img src="/images/Board/SIM SOTHUN.jpeg">
 				<strong>H.E. SIM SOTHUN</strong> <br>
 				General Director<br>
 				National Social Assistance Fund<br>
