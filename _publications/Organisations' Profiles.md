@@ -2,16 +2,15 @@
 title: Organisations' Profiles
 permalink: /organization-profiles-assa/
 description: ""
+variant: markdown
 ---
 ## PROFILES OF ASSA MEMBER ORGANISATIONS
 
 [BRUNEI - EMPLOYEES TRUST FUND](/files/Organisation%20Profiles/BruneiETFProfile.pdf)
 
-[CAMBODIA - NATIONAL FUND FOR VETERANS](/files/Organisation%20Profiles/Profile%20of%20NFV.pdf)
+[CAMBODIA - NATIONAL FUND FOR VETERANS](/files/Organisation%20Profiles/CamodiaNSAFProfile.pdf)
 
 [CAMBODIA - NATIONAL SOCIAL SECURITY FUND](/files/Organisation%20Profiles/NSSF%20Profile%20Update%202015.pdf)
-
-[CAMBODIA - NATIONAL SOCIAL SECURITY FUND FOR CIVIL SERVANTS](/files/Organisation%20Profiles/NSSFC.pdf)
 
 [INDONESIA - BPJS KESEHATAN](/files/Organisation%20Profiles/INSSA%20Profile%202014.pdf)
 
