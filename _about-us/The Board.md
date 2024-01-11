@@ -2,6 +2,7 @@
 title: The Board
 permalink: /the-board-assa/
 description: ""
+variant: markdown
 ---
 ## CURRENT BOARD MEMBERS OF ASSA
 
@@ -79,12 +80,12 @@ description: ""
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/CHHOUR SOPANNHA.jpg">
-				<strong>H.E. MR CHHOUR SOPANNHA</strong> <br>
-				Director General <br>
+				<img src="/images/Board/sim sothun.jpg">
+				<strong>H.E. SIM SOTHUN</strong> <br>
+				General Director<br>
 				National Social Assistance Fund<br>
 				Cambodia<br>
-				<a href="/files/Biography/CHHOUR SOPANNHA.pdf" target="_blank">
+				<a href="/files/Biography/sim sothun.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
