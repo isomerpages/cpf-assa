@@ -30,12 +30,8 @@ by Ms. Nik Amlizan Mohamed, Chief Executive Officer, KWAP Malaysia
 
  ### GOOD PRACTICES
 
-##### SEVEN “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
-* [Top 10 actuarial and investment issues for social security institutions](/files/ASSA%20Board%20Meeting/Lao%202022/2022GoodpracticeILO.pdf)
-* [Social Security Policies for Members affected by the Covid-19 Pandemic](/files/ASSA%20Board%20Meeting/Lao%202022/2022GoodpracticeLSSO.pdf)
-* [A partnership project for moving towards UHC to promote health protection
-in the post pandemic recovery](/files/ASSA%20Board%20Meeting/Lao%202022/2022GoodpracticeNHSO.pdf)
-* [Covid-19 Cash Transfer Programme for the Poor and Vulnerable](/files/ASSA%20Board%20Meeting/Lao%202022/2022GoodpracticeNSAF.pdf)
-* [Social security scheme on pension for persons defined by the provisions of the labour law](/files/ASSA%20Board%20Meeting/Lao%202022/2022GoodpracticeNSSF.pdf)
-* [Digitalizing Employment Services](/files/ASSA%20Board%20Meeting/Lao%202022/2022GoodpracticeSOCSO.pdf)
-* [Policy solutions to support Covid-19 affected employees and employers by the unemployment insurance fund (UIF)](/files/ASSA%20Board%20Meeting/Lao%202022/2022GoodpracticeVSS.pdf)
+##### FOUR “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
+* [Portability of Social Security Benefits for Migrant Workers in ASEAN](/files/ASSA%20Board%20Meeting/Malaysia%202023/2023GPPortability_of_Social_Security_Benefits_for_Migrant_Workers_in_ASEAN.pdf)
+* [Extending Social Security Coverage to the Vulnerable Groups](/files/ASSA%20Board%20Meeting/Malaysia%202023/2023GPExtending_Social_Security_Coverage_to_the_Vulnerable_Groups.pdf)
+* [Building Confidence in Services for Vulnerable and Service Inaccessible Groups](/files/ASSA%20Board%20Meeting/Malaysia%202023/2023GPBuilding_Confidence_in_Services_for_Vulnerable_and_Service_Inaccessible_Groups.pdf)
+* [Adapting to the Digital Frontier - Restructuring Business Procedures in Social and Health Insurance to Achieve Greater Coverage](/files/ASSA%20Board%20Meeting/Malaysia%202023/2023GPAdapting_To_The_Digital_Frontier.pdf)
