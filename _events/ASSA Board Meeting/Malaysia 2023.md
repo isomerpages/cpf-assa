@@ -7,7 +7,7 @@ third_nav_title: ASSA Board Meeting
 ---
 ## Malaysia
 Date: Nov 20-21, 2023
-#### [MESSAGE FROM ASSA CHAIRMAN](/files/ASSA%20Board%20Meeting/Lao%202022/2022ASSAChairmanstatement.pdf)
+#### [MESSAGE FROM ASSA CHAIRMAN](/files/ASSA%20Board%20Meeting/Malaysia%202023/2023ASSAChairmanstatement.pdf)
 Delegates from the 20 ASSA member institutions attended the 40th ASSA Board Meeting hosted by Malaysia.
 
 
