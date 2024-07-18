@@ -12,7 +12,7 @@ Delegates from the 20 ASSA member institutions attended the 40th ASSA Board Meet
 
 
 #### FOUR SPEAKERS SHARED ON THE FOLLOWING TOPICS:
-[SUSTAINABLE SOCIAL PROTECTION FOR A HUMAN CENTRED POST-PANDEMIC WORLD](/files/ASSA%20Board%20Meeting/Lao%202022/2022SeminarCeline.pdf)
+[What Has Been Achieved and What Remains to Be Done](/files/ASSA%20Board%20Meeting/Malaysia%202023/2023SeminarReilly.pdf)
 by Ms. Celine Peyron Bista, Chief Technical Advisor, Manager of the EU funded Programme on social protection and PFM, ILO Headquarters, Geneva
 
 ##### [Towards Realising the Universal Right to Social Security and Decent Work for all](/files/ASSA%20Board%20Meeting/Lao%202022/2022Seminarkamphy.pdf)
