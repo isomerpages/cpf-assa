@@ -12,21 +12,23 @@ Delegates from the 20 ASSA member institutions attended the 40th ASSA Board Meet
 
 
 #### FOUR SPEAKERS SHARED ON THE FOLLOWING TOPICS:
-[What Has Been Achieved and What Remains to Be Done](/files/ASSA%20Board%20Meeting/Malaysia%202023/2023SeminarReilly.pdf)
-by Ms. Celine Peyron Bista, Chief Technical Advisor, Manager of the EU funded Programme on social protection and PFM, ILO Headquarters, Geneva
+[What Has Been Achieved and What Remains to Be Done](/files/ASSA%20Board%20Meeting/Malaysia%202023/2023seminarreilly.pdf)
 
-##### [Towards Realising the Universal Right to Social Security and Decent Work for all](/files/ASSA%20Board%20Meeting/Lao%202022/2022Seminarkamphy.pdf)
-by Mr. Khamphy KHAMMAVONG, Program manager, OXFAM in Laos
+by Mr Andrew Reilly, Pension Analyst, Directorate for Employment, Labour and Social Affairs(ELS), OECD
 
-##### [Decentralized funding and partnerships for rural development – Case study from LAO PDR](/files/ASSA%20Board%20Meeting/Lao%202022/2022SeminarPeter.pdf)
-by Mr. Peter Kurt Hansen, Chief Technical Advisor Lux-Development Programme LAO
+##### [Portability of Social Security Benefits Across Borders](/files/ASSA%20Board%20Meeting/Malaysia%202023/2023SeminarSchremmer.pdf)
+by Mr. Jens Schremmer, ISSA
 
-##### [Sustainable financing and improved public financing management for universal and adequate social protection](/files/ASSA%20Board%20Meeting/Lao%202022/2022SeminarSimon.pdf)
-by Mr. Simon Brimblecombe, Chief Technical Adviser, ILO
+##### [Social Protection for Workers Under Informal Employment](/files/ASSA%20Board%20Meeting/Malaysia%202023/2023seminarwhiteford.pdf)
+by Mr. Peter Whiteford, Crawford School of Public Policy, the
+Australian National University
+
+##### [Sustainability in the Social Security Context](/files/ASSA%20Board%20Meeting/Malaysia%202023/2023seminarmohamed.pdf)
+by Ms. Nik Amlizan Mohamed, Chief Executive Officer, KWAP Malaysia
 
 <br>
 
-&gt; ### GOOD PRACTICES
+ ### GOOD PRACTICES
 
 ##### SEVEN “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
 * [Top 10 actuarial and investment issues for social security institutions](/files/ASSA%20Board%20Meeting/Lao%202022/2022GoodpracticeILO.pdf)
