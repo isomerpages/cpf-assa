@@ -2,14 +2,12 @@
 title: Contact Us
 permalink: /contact-us-assa/
 description: ""
+variant: markdown
 ---
 ##### For queries relating to ASSA matters, you may direct them to the ASSA Secretariat:
 
 
-##### Ms Thianthong Sati
-+856 2056911882
-
-[thsati@yahoo.com](mailto:thsati@yahoo.com)
+[assa@epf.gov.my](mailto:assa@epf.gov.my)
 
 <br>
 
