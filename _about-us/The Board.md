@@ -71,7 +71,7 @@ variant: markdown
 				Managing Director <br>
 				Employees Trust Fund<br>
 				Brunei<br>
-				<a href="/files/Biography/Haji Md Adfarul.pdf" target="_blank">
+				<a href="/files/Biography/haji md adfarul.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -102,7 +102,7 @@ variant: markdown
 				Acting Director General <br>
 				National Social Security Fund <br>
 				Cambodia<br>
-				<a href="/files/Biography/HENG SOPHANNARITH.pdf" target="_blank">
+				<a href="/files/Biography/heng sophannarith.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -116,7 +116,7 @@ variant: markdown
 				President Director <br>
 				BPJS Ketenagakerjaan<br>
 				Indonesia <br>
-				<a href="/files/Biography/Anggoro%20Eko%20Cahyo.pdf" target="_blank">
+				<a href="/files/Biography/Anggoro Eko Cahyo.pdf" target="_blank">
 								<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
