@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ASSA_web_banner_Manila_resized.png
+      background: /images/ASSA_web_banner_1200x630_PhilippinesMNL.png
   - infobar:
       title: ASEAN Social Security Association (ASSA)
       subtitle: Welcome to
