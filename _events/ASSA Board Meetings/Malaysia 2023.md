@@ -11,13 +11,12 @@ third_nav_title: ASSA Board Meetings
 <p>Delegates from the 20 ASSA member institutions attended the 40th ASSA
 Board Meeting hosted by Malaysia.</p>
 <h4>FOUR SPEAKERS SHARED ON THE FOLLOWING TOPICS:</h4>
-<p><a href="/files/ASSA%20Board%20Meeting/Malaysia%202023/2023seminarreilly.pdf" rel="noopener noreferrer nofollow" target="_blank">What Has Been Achieved and What Remains to Be Done</a>
-</p>
+<h4><a href="/files/ASSA Board Meeting/Malaysia 2023/2023seminarreilly.pdf" rel="noopener noreferrer nofollow" target="_blank">What Has Been Achieved and What Remains to Be Done</a></h4>
 <p>by Mr Andrew Reilly, Pension Analyst, Directorate for Employment, Labour
 and Social Affairs(ELS), OECD</p>
-<h5><a href="/files/ASSA%20Board%20Meeting/Malaysia%202023/2023SeminarSchremmer.pdf" rel="noopener noreferrer nofollow" target="_blank">Portability of Social Security Benefits Across Borders</a></h5>
+<h5><a href="/files/ASSA Board Meeting/Malaysia 2023/Seminar_Portability_of_Social_Security_Benefits_Across_Borders_Jens_Schremmer__ISSA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Portability of Social Security Benefits Across Borders</a></h5>
 <p>by Mr. Jens Schremmer, ISSA</p>
-<h5><a href="/files/ASSA%20Board%20Meeting/Malaysia%202023/2023seminarwhiteford.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Protection for Workers Under Informal Employment</a></h5>
+<h5><a href="/files/ASSA Board Meeting/Malaysia 2023/2023seminarwhiteford.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Protection for Workers Under Informal Employment</a></h5>
 <p>by Mr. Peter Whiteford, Crawford School of Public Policy, the Australian
 National University</p>
 <h5><a href="/files/ASSA%20Board%20Meeting/Malaysia%202023/2023seminarmohamed.pdf" rel="noopener noreferrer nofollow" target="_blank">Sustainability in the Social Security Context</a></h5>

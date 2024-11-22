@@ -12,17 +12,17 @@ variant: markdown
 	}
 </style>
 
-### Chairwoman, ASSA
+### CHAIRMAN, ASSA
 <div class="row">
 	<div class="col is-4">
-		<img src="/images/Board/KEO CHANTHAVIXAY.jpg"><br>
+		<img src="/images/Board/Ahmad_Zulqarnain_Onn.jpg"><br>
 	</div>
 	<div class="col is-8 has-text-centered">
-		<br><strong>MRS KEO CHANTHAVIXAY</strong><br>
-						Director General <br>
-						Lao Social Security Organization <br>
-						Lao <br>
-		<a href="/files/Biography/Keo Chanthavixay.pdf" target="_blank">
+		<br><strong>MR AHMAD ZULQARNAIN ONN</strong><br>
+						Chief Executive Officer <br>
+						Employees Provident Fund <br>
+						Malaysia <br>
+		<a href="/files/Biography/Ahmad_Zulqarnain_Onn.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
@@ -31,14 +31,14 @@ variant: markdown
 ### VICE-CHAIRMAN, ASSA
 <div class="row">
 	<div class="col is-4">
-		<img src="/images/Board/AMIR HAMZAH.jpg">
+		<img src="/images/Board/jose arnulfo a veloso.jpg">
 	</div>
 		<div class="col is-8 has-text-centered">
-			<br><strong>DATUK SERI AMIR HAMZAH</strong> <br>
-				Chief Executive Officer <br>
-				Employees Provident Fund <br>
-				Malaysia<br>
-				<a href="/files/Biography/AMIR HAMZAH.pdf" target="_blank">
+			<br><strong>MR JOSE ARNULFO A VELOSO</strong> <br>
+				President and General Manager <br>
+				Government Service Insurance System <br>
+				Philippines<br>
+				<a href="/files/Biography/Jose Arnulfo A Veloso.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
@@ -47,14 +47,14 @@ variant: markdown
 ### SECRETARY GENERAL, ASSA
 <div class="row">
 	<div class="col is-4">
-		<img src="/images/Board/BOUAHOME PHOMMCHANE.jpg">
+		<img src="/images/Board/Balqais_Yusoff.jpg">
 	</div>
 		<div class="col is-8 has-text-centered">
-			<br><strong>MRS BOUAHOME PHOMMACHANE</strong> <br>
-				Deputy Director General <br>
-				Lao Social Security Organization <br>
-				Lao <br>
-				<a href="/files/Biography/MRS BOUAHOME PHOMMCHANE.pdf" target="_blank">
+			<br><strong>MS BALQAIS YUSOFF</strong> <br>
+				Head, Policy and Strategy Department <br>
+				Employees Provident Fund <br>
+				Malaysia <br>
+				<a href="/files/Biography/Balqais_Yusoff.pdf" target="_blank">
 			<strong>BIOGRAPHY</strong>
 		</a>
 	</div>
@@ -142,12 +142,12 @@ variant: markdown
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-	<img src="/images/Board/azman aziz.png">
-				<strong>Dato' Sri Dr. Mohammed Azman Bin Aziz Mohammed</strong> <br>
-				Chief Executive Officer <br>
-				Social Security Organization (PERKESO)<br>
-				Malaysia <br>
-				<a href="/files/Biography/azman aziz.pdf" target="_blank">
+	<img src="/images/Board/KEO CHANTHAVIXAY.jpg">
+				<strong>MRS KEO CHANTHAVIXAY</strong> <br>
+				Director General <br>
+				Lao Social Security Organization<br>
+				Lao <br>
+				<a href="/files/Biography/Keo Chanthavixay.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -159,14 +159,14 @@ variant: markdown
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/NIK AMLIZAN MOHAMED.jpg">
-				<strong>MS NIK AMLIZAN MOHAMED
+				<img src="/images/Board/azman aziz.png">
+				<strong>Dato' Sri Dr. Mohammed Azman Bin Aziz Mohammed
 				</strong> <br>
 				Chief Executive Officer<br>
-				Kumpulan Wang Persaraan (Diperbadankan) <br>
+					Social Security Organization (PERKESO) <br>
 				Malaysia
 				<br>
-				<a href="/files/Biography/NIK AMLIZAN MOHAMED.pdf" target="_blank">
+				<a href="/files/Biography/azman aziz.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -175,9 +175,26 @@ variant: markdown
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/MAUNG MAUNG AYE.jpg">
+				<img src="/images/Board/NIK AMLIZAN MOHAMED.jpg">
+				<strong>MS NIK AMLIZAN MOHAMED</strong> <br>
+				Chief Executive Officer <br>
+				Kumpulan Wang Persaraan (Diperbadankan) <br>
+				Malaysia <br>
+				<a href="/files/Biography/NIK AMLIZAN MOHAMED.pdf" target="_blank">
+					<strong>BIOGRAPHY</strong>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row has-text-centered">
+	<div class="col is-6">
+		<div class="row">
+			<div class="col">
+					<img src="/images/Board/MAUNG MAUNG AYE.jpg">
 				<strong>MR MAUNG MAUNG AYE</strong> <br>
-				Director General <br>
+			Director General <br>
 				Social Security Board <br>
 				Myanmar <br>
 				<a href="/files/Biography/MAUNG MAUNG AYE.pdf" target="_blank">
@@ -186,51 +203,34 @@ variant: markdown
 			</div>
 		</div>
 	</div>
-</div>
-
-<div class="row has-text-centered">
-	<div class="col is-6">
+<div class="col is-6">
 		<div class="row">
 			<div class="col">
-					<img src="/images/Board/ACMAD RIZALDY.jpg">
-				<strong>MR ACMAD RIZALDY P. MOTI</strong> <br>
-				Chief Executive Officer <br>
-				Home Development Mutual Fund <br>
-				Philippines <br>
+				<img src="/images/Board/ACMAD RIZALDY.jpg">
+				<strong>MR ACMAD RIZALDY P. MOTI
+				</strong> <br>
+				Chief Executive Officer<br>
+				Home Development Mutual Fund<br>
+				Philippines
+				<br>
 				<a href="/files/Biography/ACMAD RIZALDY.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
 		</div>
 	</div>
-<div class="col is-6">
-		<div class="row">
-			<div class="col">
-				<img src="/images/Board/AURORA CRUZ IGNACIO.jpg">
-				<strong>MRS AURORA CRUZ IGNACIO
-				</strong> <br>
-				President and Chief Executive Officer<br>
-				Social Security System<br>
-				Philippines
-				<br>
-				<a href="/files/Biography/AURORA CRUZ IGNACIO.pdf" target="_blank">
-					<strong>BIOGRAPHY</strong>
-				</a>
-			</div>
-		</div>
-	</div>
 </div>
 
 <div class="row has-text-centered">
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/Jose Arnulfo A Veloso.jpg">
-				<strong>MR JOSE ARNULFO A. VELOSO</strong> <br>
-				President and General Manager <br>
-				Government Service Insurance System <br>
+				<img src="/images/Board/AURORA CRUZ IGNACIO.jpg">
+				<strong>MRS AURORA CRUZ IGNACIO</strong> <br>
+					President and Chief Executive Officer<br>
+				Social Security System <br>
 				Philippines <br>
-				<a href="/files/Biography/Jose Arnulfo A Veloso.pdf" target="_blank">
+				<a href="/files/Biography/AURORA CRUZ IGNACIO.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
