@@ -12,7 +12,7 @@ variant: markdown
 	}
 </style>
 
-### Chairman, ASSA
+### CHAIRMAN, ASSA
 <div class="row">
 	<div class="col is-4">
 		<img src="/images/Board/Ahmad_Zulqarnain_Onn.jpg"><br>
