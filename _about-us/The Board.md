@@ -97,12 +97,12 @@ variant: markdown
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/heng sophannarith.png">
-				<strong>H.E. MR HENG SOPHANNARITH, PH.D</strong> <br>
-				Acting Director General <br>
+				<img src="/images/Board/placeholder_photo.png">
+				<strong>H.E. MENG HONG</strong> <br>
+				Director General <br>
 				National Social Security Fund <br>
 				Cambodia<br>
-				<a href="/files/Biography/heng sophannarith.pdf" target="_blank">
+				<a href="/files/Biography/to_be_updated.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -128,12 +128,12 @@ variant: markdown
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-			 	<img src="/images/Board/FACHMI IDRIS.jpg">
-				<strong>PROF. DR. FACHMI IDRIS, M. KES</strong> <br>
-				Chief Executive Officer <br>
+			 	<img src="/images/Board/placeholder_photo.png">
+				<strong>PROF. DR. ALI GHUFRON MUKTI</strong> <br>
+				President Director <br>
 				BPJS Kesehatan <br>
 				Indonesia<br>
-				<a href="/files/Biography/FACHMI IDRIS.pdf" target="_blank">
+				<a href="/files/Biography/to_be_updated.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -160,8 +160,7 @@ variant: markdown
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/azman aziz.png">
-				<strong>Dato' Sri Dr. Mohammed Azman Bin Aziz Mohammed
-				</strong> <br>
+				<strong>DATO' SRI DR MOHAMMED AZMAN BIN DATO' AZIZ MOHAMMED			</strong> <br>
 				Chief Executive Officer<br>
 					Social Security Organization (PERKESO) <br>
 				Malaysia
@@ -176,7 +175,7 @@ variant: markdown
 		<div class="row">
 			<div class="col">
 				<img src="/images/Board/NIK AMLIZAN MOHAMED.jpg">
-				<strong>MS NIK AMLIZAN MOHAMED</strong> <br>
+				<strong>DATUK HAJAH NIK AMLIZAN MOHAMED</strong> <br>
 				Chief Executive Officer <br>
 				Kumpulan Wang Persaraan (Diperbadankan) <br>
 				Malaysia <br>
@@ -192,12 +191,12 @@ variant: markdown
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-					<img src="/images/Board/MAUNG MAUNG AYE.jpg">
-				<strong>MR MAUNG MAUNG AYE</strong> <br>
+					<img src="/images/Board/placeholder_photo.png">
+				<strong>MR TIN KO KO NAING</strong> <br>
 			Director General <br>
 				Social Security Board <br>
 				Myanmar <br>
-				<a href="/files/Biography/MAUNG MAUNG AYE.pdf" target="_blank">
+				<a href="/files/Biography/to_be_updated.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -206,14 +205,14 @@ variant: markdown
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/ACMAD RIZALDY.jpg">
-				<strong>MR ACMAD RIZALDY P. MOTI
+				<img src="/images/Board/placeholder_photo.png">
+				<strong>HON. MARILENE C. ACOSTA
 				</strong> <br>
 				Chief Executive Officer<br>
 				Home Development Mutual Fund<br>
 				Philippines
 				<br>
-				<a href="/files/Biography/ACMAD RIZALDY.pdf" target="_blank">
+				<a href="/files/Biography/to_be_updated.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -225,12 +224,12 @@ variant: markdown
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/AURORA CRUZ IGNACIO.jpg">
-				<strong>MRS AURORA CRUZ IGNACIO</strong> <br>
+				<img src="/images/Board/placeholder_photo.png">
+				<strong>MR ROLANDO LEDESMA MACASAET</strong> <br>
 					President and Chief Executive Officer<br>
 				Social Security System <br>
 				Philippines <br>
-				<a href="/files/Biography/AURORA CRUZ IGNACIO.pdf" target="_blank">
+				<a href="/files/Biography/to_be_updated.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -239,12 +238,12 @@ variant: markdown
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/RICARDO C MORALES.jpg">
-				<strong>BGEN. RICARDO C. MORALES, AFP (RET) FICD</strong> <br>
+				<img src="/images/Board/placeholder_photo.png">
+				<strong>MR EMMANUEL R. LEDESMA, JR.</strong> <br>
 				President and Chief Executive Officer <br>
 				Philippine Health Insurance Corporation <br>
 				Philippines<br>
-				<a href="/files/Biography/RICARDO C MORALES.pdf" target="_blank">
+				<a href="/files/Biography/to_be_updated.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
@@ -256,12 +255,12 @@ variant: markdown
 	<div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/STELLA ZIPAGAN-BANAWIS.jpg">
-				<strong>MS STELLA ZIPAGAN-BANAWIS</strong> <br>
+				<img src="/images/Board/placeholder_photo.png">
+				<strong>ATTY. KAIMA VIA B. VELASQUEZ</strong> <br>
 				Executive Director <br>
 				Employees' Compensation Commission <br>
 				Philippines<br>
-				<a href="/files/Biography/STELLA ZIPAGAN-BANAWIS.pdf" target="_blank">
+				<a href="/files/Biography/to_be_updated.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
