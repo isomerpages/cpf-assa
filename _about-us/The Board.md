@@ -238,12 +238,12 @@ variant: markdown
 <div class="col is-6">
 		<div class="row">
 			<div class="col">
-				<img src="/images/Board/placeholder_photo.png">
+				<img src="/images/Board/emmanuel r ledesma jr.jpg">
 				<strong>MR EMMANUEL R. LEDESMA, JR.</strong> <br>
 				President and Chief Executive Officer <br>
 				Philippine Health Insurance Corporation <br>
 				Philippines<br>
-				<a href="/files/Biography/to_be_updated.pdf" target="_blank">
+				<a href="/files/Biography/EMMANUEL_R_LEDESMA_JR.pdf" target="_blank">
 					<strong>BIOGRAPHY</strong>
 				</a>
 			</div>
