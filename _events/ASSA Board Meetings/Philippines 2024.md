@@ -7,7 +7,7 @@ third_nav_title: ASSA Board Meetings
 ---
 <h2>Philippines</h2>
 <p>Date: Nov 25 - 27, 2024</p>
-<h4><a href="/files/ASSA Board Meeting/Philippines 2024/ASSA_PGM_WELCOME_STATEMENT_docx.pdf" rel="noopener noreferrer nofollow" target="_blank">MESSAGE FROM ASSA CHAIRMAN</a></h4>
+<h4><a href="/files/ASSA Board Meeting/Philippines 2024/2024ASSA_Welcome_Remarks_President_and_General_Manager_GSIS.pdf" rel="noopener noreferrer nofollow" target="_blank">MESSAGE FROM ASSA CHAIRMAN</a></h4>
 <p>Delegates from the 18 ASSA member institutions attended the 41st ASSA
 Board Meeting hosted by Philippines.</p>
 <p></p>
