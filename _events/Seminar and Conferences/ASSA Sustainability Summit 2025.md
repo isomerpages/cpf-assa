@@ -9,8 +9,10 @@ third_nav_title: Seminar and Conferences
 <p>GOVERNMENT SERVICE INSURANCE SYSTEM, PHILIPPINES
 <br><strong>VENUE: </strong>SEDA LIO RESORT, EL NIDO, PALAWAN, PHILIPPINES
 <br><strong>DATE:</strong> 20-22 MARCH 2025</p>
-<h4>Sustainability Summit of the ASEAN Social Security Association (ASSA)</h4>
-<p>The ASSA Way: People, Prosperity and Planet</p>
+<h3>Sustainability Summit of the ASEAN Social Security Association (ASSA)</h3>
+<blockquote>
+<h3>The ASSA Way: People, Prosperity and Planet</h3>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seminar and Conferences/ASSA_Sustainability_Summit.jpg">
