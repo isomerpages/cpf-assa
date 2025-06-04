@@ -7,7 +7,7 @@ variant: markdown
 <h2>CURRENT BOARD MEMBERS OF ASSA</h2>
 <h3>CHAIRMAN, ASSA</h3>
 
-<div style="display: flex; align-items: flex-start; gap: 150px;">
+<div style="display: flex; align-items: center; gap: 150px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
     <img style="width: 100%; height: auto;" alt="Jose Arnulfo A Veloso" src="/images/Board/jose arnulfo a veloso.jpg">
   </div>
@@ -22,7 +22,7 @@ variant: markdown
 </div>
 
 <h3>VICE-CHAIRMAN, ASSA</h3>
-<div style="display: flex; align-items: flex-start; gap: 110px;">
+<div style="display: flex; align-items: center; gap: 110px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/haji md adfarul.jpg">
 </div>
@@ -36,9 +36,9 @@ variant: markdown
 
 
 <h3>SECRETARY GENERAL, ASSA</h3>
-<div style="display: flex; align-items: flex-start; gap: 150px;">
+<div style="display: flex; align-items: center; gap: 150px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
-<img style="width: 180%" height="auto" width="100%" alt="" src="/images/Board/placeholder_photo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/placeholder_photo.png">
 </div>
 <p style="text-align: center;"> <br><strong>ATTY. JOSEPH PHILIP T. ANDRES</strong> 
 <br>Senior Vice President, Core Business Sector
