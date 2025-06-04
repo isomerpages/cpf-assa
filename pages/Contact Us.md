@@ -7,7 +7,7 @@ variant: markdown
 ##### For queries relating to ASSA matters, you may direct them to the ASSA Secretariat:
 
 
-[assaph@gsis.gov.ph](mailto:assaph@gsis.gov.ph)
+[ASSAPH@GSIS.GOV.PH](mailto:assaph@gsis.gov.ph)
 
 <br>
 
