@@ -4,7 +4,7 @@ permalink: /contact-us-assa/
 description: ""
 variant: markdown
 ---
-##### For queries relating to ASSA matters, you may direct them to the ASSA Secretariat:
+###### For queries relating to ASSA matters, you may direct them to the ASSA Secretariat:
 
 
 [assaph@gsis.gov.ph](mailto:assaph@gsis.gov.ph)
