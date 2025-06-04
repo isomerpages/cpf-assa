@@ -13,6 +13,7 @@ third_nav_title: Seminar and Conferences
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seminar and Conferences/ARTICLE_PAGE_ISWC2024_1.png">
 </div>
+<p></p>
 <blockquote>
 <p>AGEING AND LONGEVITY: TOWARDS A MEANINGFUL RETIREMENT</p>
 </blockquote>
