@@ -6,9 +6,9 @@ description: ""
 third_nav_title: Seminar and Conferences
 ---
 <h2>ASSA SUSTAINABILITY SUMMIT 2025</h2>
-<p>GOVERNMENT SERVICE INSURANCE SYSTEM, PHILIPPINES
-<br><strong>VENUE: </strong>SEDA LIO RESORT, EL NIDO, PALAWAN, PHILIPPINES
-<br><strong>DATE:</strong> 20-22 MARCH 2025</p>
+<p><strong>ORGANISER:</strong> GOVERNMENT SERVICE INSURANCE SYSTEM, PHILIPPINES</p>
+<p><strong>VENUE: </strong>SEDA LIO RESORT, EL NIDO, PALAWAN, PHILIPPINES</p>
+<p><strong>DATE:</strong> 20-22 MARCH 2025</p>
 <h3>Sustainability Summit of the ASEAN Social Security Association (ASSA)</h3>
 <blockquote>
 <h3>The ASSA Way: People, Prosperity and Planet</h3>
@@ -34,7 +34,7 @@ example of the delicate interplay between humanity and the environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seminar and Conferences/20250321_ASSA_Conference2_62_scaled.jpg">
 </div>
-<h4>CONFERENCE TOPICS</h4>
+<h3>CONFERENCE TOPICS</h3>
 <h4><a href="/files/Seminar and Conferences/The_Future_of_Workers_Rehab_in_the_Philippines.pdf" rel="noopener noreferrer nofollow" target="_blank">Employees Compensation Commission (ECC) and the Future of Workers Rehabilitation</a></h4>
 <p>By Atty. E. Patrice Jamaine T. Barron, Chief, Appeals Division, ECC Philippines</p>
 <h4><a href="/files/Seminar and Conferences/Philhealth_Mercado_PCEO_ASSA_Presentation_032025_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Health Insurance and Environmental Stewardship: A Vital Connection</a></h4>
@@ -42,6 +42,4 @@ example of the delicate interplay between humanity and the environment.</p>
 Philippines</p>
 <h4><a href="/files/Seminar and Conferences/03_SSS_ARCOS_ASSA_pres_ESG_framework_for_enhancing_SS_portability_Comm_Arcos_rev_1.pdf" rel="noopener noreferrer nofollow" target="_blank">ESG Framework for Enhancing Social Security</a></h4>
 <p>By Ms. Eva B. Arcos, SSC Commissioner, Representing Labour, SSS, Philippines</p>
-<p></p>
-<p></p>
 <p></p>
