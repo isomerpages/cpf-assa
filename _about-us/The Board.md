@@ -8,7 +8,7 @@ variant: markdown
 <h3>CHAIRMAN, ASSA</h3>
 
 <div style="display: flex; align-items: flex-start; gap: 150px;">
-  <div style="flex: 0 0 300px;" class="isomer-image-wrapper">
+  <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
     <img style="width: 100%; height: auto;" alt="Jose Arnulfo A Veloso" src="/images/Board/jose arnulfo a veloso.jpg">
   </div>
   <div>
@@ -23,7 +23,7 @@ variant: markdown
 
 <h3>VICE-CHAIRMAN, ASSA</h3>
 <div style="display: flex; align-items: flex-start; gap: 110px;">
-  <div style="flex: 0 0 300px;" class="isomer-image-wrapper">
+  <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/haji md adfarul.jpg">
 </div>
     <p style="text-align: center;"><strong>MR HAJI MD ADFARUL BIN HAJI MAZ ADANAN</strong> 
@@ -37,7 +37,7 @@ variant: markdown
 
 <h3>SECRETARY GENERAL, ASSA</h3>
 <div style="display: flex; align-items: flex-start; gap: 150px;">
-  <div style="flex: 0 0 300px;" class="isomer-image-wrapper">
+  <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
 <img style="width: 180%" height="auto" width="100%" alt="" src="/images/Board/placeholder_photo.png">
 </div>
 <p style="text-align: center;"> <br><strong>ATTY. JOSEPH PHILIP T. ANDRES</strong> 
@@ -55,7 +55,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Sim Sothun" src="/images/Board/sim sothun.jpg">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Sim Sothun" src="/images/Board/sim sothun.jpg">
     </div>
     <p>
       <strong>H.E. SIM SOTHUN</strong><br>
@@ -69,7 +69,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Meng Hong" src="/images/Board/MENG_Hong.jpg">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Meng Hong" src="/images/Board/MENG_Hong.jpg">
     </div>
     <p>
       <strong>H.E. MENG HONG</strong><br>
@@ -87,7 +87,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Anggoro Eko Cahyo" src="/images/Board/ANGGORO%20EKO%20CAHYO.jpg">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Anggoro Eko Cahyo" src="/images/Board/ANGGORO%20EKO%20CAHYO.jpg">
     </div>
     <p>
       <strong>MR ANGGORO EKO CAHYO</strong><br>
@@ -101,7 +101,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Prof. Dr. Ali Ghufron Mukti" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Prof. Dr. Ali Ghufron Mukti" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
       <strong>PROF. DR. ALI GHUFRON MUKTI</strong><br>
@@ -119,7 +119,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Chomyaeng Phengthongsawat" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Chomyaeng Phengthongsawat" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
       <strong>MR CHOMYAENG PHENGTHONGSAWAT</strong><br>
@@ -133,7 +133,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Ahmad Zulqarnain Onn" src="/images/Board/Ahmad_Zulqarnain_Onn.jpg">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Ahmad Zulqarnain Onn" src="/images/Board/Ahmad_Zulqarnain_Onn.jpg">
     </div>
     <p>
       <strong>MR AHMAD ZULQARNAIN ONN</strong><br>
@@ -151,7 +151,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Dato' Sri Dr Mohammed Azman Bin Aziz Mohammed" src="/images/Board/azman aziz.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Dato' Sri Dr Mohammed Azman Bin Aziz Mohammed" src="/images/Board/azman aziz.png">
     </div>
     <p>
       <strong>DATO' SRI DR MOHAMMED AZMAN BIN AZIZ MOHAMMED</strong><br>
@@ -165,7 +165,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Datuk Hajah Nik Amlizan Mohamed" src="/images/Board/NIK AMLIZAN MOHAMED.jpg">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Datuk Hajah Nik Amlizan Mohamed" src="/images/Board/NIK AMLIZAN MOHAMED.jpg">
     </div>
     <p>
       <strong>DATUK HAJAH NIK AMLIZAN MOHAMED</strong><br>
@@ -183,7 +183,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Tin Ko Ko Naing" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Tin Ko Ko Naing" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
       <strong>MR TIN KO KO NAING</strong><br>
@@ -197,7 +197,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Hon. Marilene C. Acosta" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Hon. Marilene C. Acosta" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
       <strong>HON. MARILENE C. ACOSTA</strong><br>
@@ -215,7 +215,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Robert Joseph M. De Claro" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Robert Joseph M. De Claro" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
       <strong>MR ROBERT JOSEPH M. DE CLARO</strong><br>
@@ -229,7 +229,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Edwin M. Mercado" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Edwin M. Mercado" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
       <strong>MR EDWIN M. MERCADO</strong><br>
@@ -247,7 +247,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Atty. Kaima Via B. Velasquez" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Atty. Kaima Via B. Velasquez" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
       <strong>ATTY. KAIMA VIA B. VELASQUEZ</strong><br>
@@ -261,7 +261,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Ms Melissa Khoo" src="/images/Board/melissa khoo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Ms Melissa Khoo" src="/images/Board/melissa khoo.png">
     </div>
     <p>
       <strong>MS MELISSA KHOO</strong><br>
@@ -279,7 +279,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Mrs Marasri Jairungsri" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mrs Marasri Jairungsri" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
       <strong>MRS MARASRI JAIRUNGSRI</strong><br>
@@ -293,7 +293,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Ms Jaruluck Ruangsuwan" src="/images/Board/CHARULUCK RUANGSUWAN.jpg">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Ms Jaruluck Ruangsuwan" src="/images/Board/CHARULUCK RUANGSUWAN.jpg">
     </div>
     <p>
       <strong>MS JARULUCK RUANGSUWAN</strong><br>
@@ -311,7 +311,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Dr Jadej Thammatach-Aree" src="/images/Board/JADEJ THAMMATACH-AREE.jpg">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Dr Jadej Thammatach-Aree" src="/images/Board/JADEJ THAMMATACH-AREE.jpg">
     </div>
     <p>
       <strong>DR JADEJ THAMMATACH-AREE</strong><br>
@@ -325,7 +325,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 250px; height: 300px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Nguyen The Manh" src="/images/Board/NGUYEN THE MANH.jpg">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Nguyen The Manh" src="/images/Board/NGUYEN THE MANH.jpg">
     </div>
     <p>
       <strong>MR NGUYEN THE MANH</strong><br>
