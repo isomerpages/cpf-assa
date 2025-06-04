@@ -30,7 +30,7 @@ variant: markdown
 <br>Managing Director
 <br>Employees Trust Fund
 <br>Brunei
-<br><a href="/files/Biography/Jose Arnulfo A Veloso.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="/files/Biography/haji md adfarul.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+<br><strong><a href="/files/Biography/haji md adfarul.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
 </p>
   </div>
 
@@ -44,7 +44,7 @@ variant: markdown
 <br>Senior Vice President, Core Business Sector
 <br>Government Service Insurance System
 <br>Philippines
-<br><a href="/files/Biography/Balqais_Yusoff.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+<br> <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 
