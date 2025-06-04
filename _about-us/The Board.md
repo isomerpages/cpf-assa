@@ -232,7 +232,7 @@ variant: markdown
       <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Edwin M. Mercado" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
-      <strong>MR EDWIN M. MERCADO</strong><br>
+      <strong>DR EDWIN M. MERCADO</strong><br>
       President and Chief Executive Officer<br>
       Philippine Health Insurance Corporation<br>
       Philippines<br>
