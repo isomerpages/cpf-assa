@@ -6,15 +6,21 @@ variant: markdown
 ---
 <h2>CURRENT BOARD MEMBERS OF ASSA</h2>
 <h3>CHAIRMAN, ASSA</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/jose arnulfo a veloso.jpg">
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 0 0 200px;" class="isomer-image-wrapper">
+    <img style="width: 100%; height: auto;" alt="Jose Arnulfo A Veloso" src="/images/Board/jose arnulfo a veloso.jpg">
+  </div>
+  <div>
+    <p style="text-align: center;"><strong>MR JOSE ARNULFO A VELOSO</strong><br>
+      President and General Manager<br>
+      Government Service Insurance System<br>
+      Philippines<br>
+      <strong><a href="/files/Biography/Jose Arnulfo A Veloso.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+    </p>
+  </div>
 </div>
-<p><strong>MR JOSE ARNULFO A VELOSO</strong>
-<br>President and General Manager
-<br>Government Service Insurance System
-<br>Philippines
-<br><a href="/files/Biography/Ahmad_Zulqarnain_Onn.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="/files/Biography/Jose Arnulfo A Veloso.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
-</p>
+
 <h3>VICE-CHAIRMAN, ASSA</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/haji md adfarul.jpg">
