@@ -15,7 +15,7 @@ third_nav_title: Seminar and Conferences
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seminar and Conferences/ASSA_Sustainability_Summit.jpg">
 </div>
-<p>Recognizing the growing impact of climate change across the ASEAN region,
+<p>Recognising the growing impact of climate change across the ASEAN region,
 ASSA, as a regional body composed of institutions whose primary mandate
 is social protection, acknowledges the urgent need for a unified and strengthened
 response. This summit provides a timely and crucial platform to formalise
@@ -24,8 +24,12 @@ our existing commitments to environmental stewardship and social inclusion.</p>
 and inspiring location for this Sustainability Pledge Summit. Its stunning
 landscapes, vibrant coral reefs, and unique ecosystem make it a living
 example of the delicate interplay between humanity and the environment.</p>
+<p>You can catch-up on the highlights of the summit here:</p>
+<h4><a href="https://www.instagram.com/reel/DHntsCLTz0V/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">Welcoming Remarks</a></h4>
+<h4><a href="https://www.instagram.com/reel/DIIRdB0hDnM/?utm_source=ig_web_copy_link" rel="noopener nofollow" target="_blank">Event Highlights</a></h4>
+<h4><a href="https://www.instagram.com/reel/DHpn2vihJIV/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener nofollow" target="_blank">Signing of the ASSA Sustainability Pledge</a></h4>
 <p></p>
-<p>You can also catch up with the highlights of last year’s conference here:</p>
-<h5><a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.youtube.com_watch-3Fv-3D6cO-5FkPP87-5FY&amp;d=DwMGaQ&amp;c=Ftw_YSVcGmqQBvrGwAZugGylNRkk-uER0-5bY94tjsc&amp;r=EdVwsXYJSc_ovJvtsCjLj3deNx1K6JxxjF8QrwsZbE4&amp;m=uoaZgzn19SCf30Cxf91h93yFCY-0q4iexnNLS5cc8ZE&amp;s=npNcbCPQ8HyQjCxwiz2BVJF7n38jzxUsvT3wvx88Ffc&amp;e=" rel="noopener noreferrer nofollow" target="_blank">ISSC 2018 Day 1</a></h5>
-<h5><a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.youtube.com_watch-3Fv-3DITmyfeR7IcA&amp;d=DwMGaQ&amp;c=Ftw_YSVcGmqQBvrGwAZugGylNRkk-uER0-5bY94tjsc&amp;r=EdVwsXYJSc_ovJvtsCjLj3deNx1K6JxxjF8QrwsZbE4&amp;m=uoaZgzn19SCf30Cxf91h93yFCY-0q4iexnNLS5cc8ZE&amp;s=x0_x7wRhGc9i6_nZ93v-ZVg2-ueiPQNxT9y2tO8ENcY&amp;e=" rel="noopener noreferrer nofollow" target="_blank">SSC 2018 Day 2</a></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seminar and Conferences/20250321_ASSA_Conference2_62_scaled.jpg">
+</div>
 <p></p>
