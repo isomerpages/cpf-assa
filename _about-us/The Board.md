@@ -38,7 +38,7 @@ variant: markdown
 <h3>SECRETARY GENERAL, ASSA</h3>
 <div style="display: flex; align-items: center; gap: 150px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/placeholder_photo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/GSIS_Sect_Gen.png">
 </div>
 <p style="text-align: center;"> <br><strong>ATTY. JOSEPH PHILIP T. ANDRES</strong> 
 <br>Senior Vice President, Core Business Sector
