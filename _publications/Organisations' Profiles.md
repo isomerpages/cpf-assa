@@ -45,7 +45,7 @@ variant: markdown
 
 [THAILAND - SOCIAL SECURITY OFFICE](/files/Organisation%20Profiles/Social%20Security%20Office-Thailand%20Profile.pdf)
 
-[VIETNAM - VIETNAM SOCIAL SECURITY](/files/Organisation%20Profiles/Vietnam%20Profile.pdf)
+[VIET NAM - VIET NAM SOCIAL SECURITY](/files/Organisation%20Profiles/Vietnam%20Profile.pdf)
 
 
 
