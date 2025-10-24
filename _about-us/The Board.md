@@ -29,7 +29,7 @@ variant: markdown
     <p style="text-align: center;"><strong>MR HAJI MD ADFARUL BIN HAJI MAZ ADANAN</strong> 
 <br>Managing Director
 <br>Employees Trust Fund
-<br>Brunei
+<br>Brunei Darussalam
 <br><strong><a href="/files/Biography/haji md adfarul.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
 </p>
   </div>
@@ -125,7 +125,7 @@ variant: markdown
       <strong>MR CHOMYAENG PHENGTHONGSAWAT</strong><br>
       Director General<br>
       Lao Social Security Organization<br>
-      Lao<br>
+      Lao PDR<br>
       <strong><a href="/files/Biography/Chomyaeng.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
@@ -330,8 +330,8 @@ variant: markdown
     <p>
       <strong>MR NGUYEN THE MANH</strong><br>
       Director General<br>
-      Vietnam Social Security<br>
-      Vietnam<br>
+      Viet Nam Social Security<br>
+      Viet Nam<br>
       <strong><a href="/files/Biography/NGUYEN THE MANH.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
