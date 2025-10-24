@@ -119,7 +119,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Chomyaeng Phengthongsawat" src="/images/Board/Chomyaeng.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Chomyaeng Phengthongsawat" src="/images/Board/Chomyaeng.jpg">
     </div>
     <p>
       <strong>MR CHOMYAENG PHENGTHONGSAWAT</strong><br>
@@ -279,14 +279,14 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mrs Marasri Jairungsri" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mrs Marasri Jairungsri" src="/images/Board/BUPPA_REUNGSUD.jpg">
     </div>
     <p>
-      <strong>MRS MARASRI JAIRUNGSRI</strong><br>
+      <strong>MISS BUPPA REUNGSUD</strong><br>
       Secretary-General<br>
       Social Security Office<br>
       Thailand<br>
-      <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+      <strong><a href="/files/Biography/Buppa_Reungsud.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 
