@@ -25,8 +25,6 @@ by Mr. Peter Kurt Hansen, Chief Technical Advisor Lux-Development Programme Lao
 ##### [Sustainable financing and improved public financing management for universal and adequate social protection](/files/ASSA%20Board%20Meeting/Lao%202022/2022SeminarSimon.pdf)
 by Mr. Simon Brimblecombe, Chief Technical Adviser, ILO
 
-<br>
-
 ### GOOD PRACTICES
 
 ##### SEVEN “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
