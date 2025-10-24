@@ -13,7 +13,7 @@ sections:
       variant: center
       title: 42nd ASSA Conference and Meeting 2025
       subtitle: Brunei Darussalam
-      button: VISIT ASSA 2024 MICROSITE HERE
+      button: REVISIT ASSA 2024 MICROSITE HERE
       url: https://assa.gsis.gov.ph/
   - infobar:
       title: ASEAN Social Security Association (ASSA)
