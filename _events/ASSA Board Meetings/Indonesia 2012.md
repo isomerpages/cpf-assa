@@ -3,6 +3,7 @@ title: Indonesia 2012
 permalink: /events/assa-board-meeting/indonesia-2012/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: markdown
 ---
 ## Indonesia
 Date: Sep 25 - 27, 2012
@@ -31,4 +32,4 @@ by Mrs Valerie Schmitt, Social Security Specialist - ILO Asia Pacific Office.
 * [Effective Members Services Thru Online Services, Home Development Mutual Fund, Philippines](/files/ASSA%20Board%20Meeting/Indonesia%202012/Effective-Members-Services-Thru-Online-Services.pdf)
 * [IT Support for Customer Relationship, PT Askes (Persero), Indonesia](/files/ASSA%20Board%20Meeting/Indonesia%202012/IT-Support-for-Customer-Relationship.pdf)
 * [Achieving Universal Health Coverage with Effective, NHSO, Thailand](/files/ASSA%20Board%20Meeting/Indonesia%202012/Achieving-Universal-Health-Coverage.pdf)
-* [Define Job Position and Staff Structure by Salary Grades, VSS, Vietnam](/files/ASSA%20Board%20Meeting/Indonesia%202012/Define-Job-Position-and-Staff-Structure.pdf)
+* [Define Job Position and Staff Structure by Salary Grades, VSS, Viet Nam](/files/ASSA%20Board%20Meeting/Indonesia%202012/Define-Job-Position-and-Staff-Structure.pdf)
