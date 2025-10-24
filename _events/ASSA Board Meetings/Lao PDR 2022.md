@@ -10,7 +10,7 @@ Date: Nov 23-24, 2022
 #### [MESSAGE FROM ASSA CHAIRMAN](/files/ASSA%20Board%20Meeting/Lao%202022/2022ASSAChairmanstatement.pdf)
 Delegates from the 19 ASSA member institutions attended the Virtual 39th ASSA Board Meeting hosted by LSSO, Lao PDR.
 
-## Highlights
+&gt;## Highlights
 
 #### FOUR SPEAKERS SHARED ON THE FOLLOWING TOPICS:
 [SUSTAINABLE SOCIAL PROTECTION FOR A HUMAN CENTRED POST-PANDEMIC WORLD](/files/ASSA%20Board%20Meeting/Lao%202022/2022SeminarCeline.pdf)
