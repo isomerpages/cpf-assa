@@ -3,6 +3,7 @@ title: Singapore 2015
 permalink: /events/assa-board-meeting/singapore-2015/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: markdown
 ---
 ## Singapore
 Date: Sep 10 - 11, 2015
@@ -23,7 +24,8 @@ by Associate Professor Chia Ngee Choon, Department of Economics, Faculty of Arts
 
 
 #### EIGHT "GOOD PRACTICES" ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
-* [Enhancing Financial Literacy in Brunei Darussalam, Employees Trust Fund, Brunei](/files/ASSA%20Board%20Meeting/Singapore%202015/Enhancing%20Financial%20Literacy%20in%20Brunei%20Darussalam,%20Employees%20Trust%20Fund,%20Brunei.pdf)
+* [Enhancing Financial Literacy in Brunei Darussalam, Employees Trust Fund, Brunei Darussalam
+](/files/ASSA%20Board%20Meeting/Singapore%202015/Enhancing%20Financial%20Literacy%20in%20Brunei%20Darussalam,%20Employees%20Trust%20Fund,%20Brunei.pdf)
 * [Informal Sector - Coverage Extension, BPJS Ketenagakerjaan, Indonesia](/files/ASSA%20Board%20Meeting/Singapore%202015/Informal%20Sector%20-%20Coverage%20Extension,%20BPJS%20Ketenagakerjaan,%20Indonesia.pdf)
 * [Social Security Re-engineering in the Lao PDR, National Social Security Office, Lao PDR](/files/ASSA%20Board%20Meeting/Singapore%202015/Social%20Security%20Re-engineering%20in%20the%20Lao%20PDR,%20National%20Social%20Security%20Office,%20Lao%20PDR.pdf)
 * [Financial Literacy Transformation, Employees Provident Fund, Malaysia](/files/ASSA%20Board%20Meeting/Singapore%202015/Financial%20Literacy%20Transformation,%20Employees%20Provident%20Fund,%20Malaysia.pdf)
