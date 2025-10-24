@@ -9,8 +9,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ASSA_web_banner_1200x630_PhilippinesMNL.png
-      variant: image
+      background: /images/ASSA_Conference_and_Board_Meeting_2025.png
+      variant: center
+      title: 42nd ASSA Conference and Meeting 2025
+      subtitle: Brunei Darussalam
+      button: REVISIT ASSA 2024 HERE
+      url: https://assa.gsis.gov.ph/
   - infobar:
       title: ASEAN Social Security Association (ASSA)
       subtitle: Welcome to
