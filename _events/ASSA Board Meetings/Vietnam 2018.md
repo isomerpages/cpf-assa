@@ -3,12 +3,13 @@ title: Vietnam 2018
 permalink: /events/assa-board-meeting/vietnam-2018/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: markdown
 ---
-## NHATRANG CAM RANH, VIETNAM
+## NHATRANG CAM RANH, VIET NAM
 Date: Sep 18 – 21, 2018
 
 ### [MESSAGE FROM ASSA CHAIRMAN](/files/ASSA%20Board%20Meeting/Vietnam%202018/Message%20from%20ASSA%20Chairman.pdf)
-Delegates from the 17 ASSA member institutions attended the 35th ASSA Board Meeting hosted by the Vietnam Social Security, Vietnam
+Delegates from the 17 ASSA member institutions attended the 35th ASSA Board Meeting hosted by the Vietnam Social Security, Viet Nam
 
 > ### HIGHLIGHT
 #### SEVEN SPEAKERS SHARED ON THE FOLLOWING TOPICS:
@@ -22,7 +23,7 @@ by Robert Palacios, Global Lead Pensions and Social insurance, World Bank
 by Professor Neil Quigley, Vice-Chancellor and President, The University of Waikato
 
 ##### [Challenges in expanding the social security base in Vietnam](/files/ASSA%20Board%20Meeting/Vietnam%202018/Challenges%20in%20expanding%20the%20social%20security%20base%20in%20Vietnam.pdf)
-by Ban Thu – Vietnam Social Security, Vietnam
+by Ban Thu – Vietnam Social Security, Viet Nam
 
 ##### [Social Protection & Migration in ASEAN](/files/ASSA%20Board%20Meeting/Vietnam%202018/Social%20Protection%20&%20Migration%20in%20ASEAN.pdf)
 by Nuno Meira Simoes da Cunha, Senior Specialist, Social Protection, ILO
@@ -31,19 +32,19 @@ by Nuno Meira Simoes da Cunha, Senior Specialist, Social Protection, ILO
 by Kim, Young Eil, Director, Center for International Affairs, National Pension Services’ Representative, South Korea
 
 ##### [Industrial Revolution 4.0 The Issues Posed to Vietnam](/files/ASSA%20Board%20Meeting/Vietnam%202018/Industrial%20Revolution%204%20The%20Issues%20Posed%20to%20Vietnam.pdf)
-by Assoc. Prof. Dr. Trần Đình Thiên, Vietnam Institute of Economics, Vietnam
+by Assoc. Prof. Dr. Trần Đình Thiên, Vietnam Institute of Economics, Viet Nam
 
 #### EIGHT “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
 ##### SOCIAL INSURANCE
 * [e-Services: Adapting Digital Transformation "Sharing Experience BPJS Ketenagakerjaan Indonesia" by BPJS Ketenagakerjaan, Indonesia](/files/ASSA%20Board%20Meeting/Vietnam%202018/e-Services-Adapting%20Digital%20Transformation%20by%20BPJS%20Ketenagakerjaan-Indonesia.pdf)
-* [Improving Contribution Payment Channel for Voluntary Insured Persons by National Social Security Fund, Laos](/files/ASSA%20Board%20Meeting/Vietnam%202018/Improving%20Contribution%20Payment%20Channel%20for%20Voluntary%20Insured%20Persons%20by%20National%20Social%20Security.pdf)
+* [Improving Contribution Payment Channel for Voluntary Insured Persons by National Social Security Fund, Lao PDR](/files/ASSA%20Board%20Meeting/Vietnam%202018/Improving%20Contribution%20Payment%20Channel%20for%20Voluntary%20Insured%20Persons%20by%20National%20Social%20Security.pdf)
 * [Social Security Reforms in Myanmar by Social Security Board, Myanmar](/files/ASSA%20Board%20Meeting/Vietnam%202018/Social%20Security%20Reforms%20in%20Myanmar%20by%20Social%20Security%20Board-Myanmar.pdf)
 * [SSO Connect Mobile by Social Security Office, Thailand](/files/ASSA%20Board%20Meeting/Vietnam%202018/SSO%20Connect%20Mobile%20by%20Social%20Security%20Office-Thailand.pdf)
 
 
 ##### HEALTH INSURANCE
 * [PhilHealth Data-Driven Transformation by Philippine Health Insurance Corporation, Philippines](/files/ASSA%20Board%20Meeting/Vietnam%202018/PhilHealth%20Data-Driven%20Transformation%20by%20Philippine%20Health%20Insurance%20Corporation-Philippines.pdf)
-* [Electric Medical Claim Review System by Vietnam Social Security, Vietnam](/files/ASSA%20Board%20Meeting/Vietnam%202018/Electric%20Medical%20Claim%20Review%20System%20by%20Vietnam%20Social%20Security-Vietnam.pdf)
+* [Electric Medical Claim Review System by Vietnam Social Security, Viet Nam](/files/ASSA%20Board%20Meeting/Vietnam%202018/Electric%20Medical%20Claim%20Review%20System%20by%20Vietnam%20Social%20Security-Vietnam.pdf)
 * [Thailand's Effort to Achieve a People-Centered Health Information System in Universal Health Coverage Scheme by National Health Security Office, Thailand](/files/ASSA%20Board%20Meeting/Vietnam%202018/Thailands%20Effort%20to%20Achieve%20a%20People-Centered%20Health%20Information%20System.pdf)
 * [Extension of Social Health Protection Coverage in Cambodia by National Social Security Fund, Cambodia](/files/ASSA%20Board%20Meeting/Vietnam%202018/Extension%20of%20Social%20Health%20Protection%20Coverage%20in%20Cambodia%20by%20National%20Social%20Security%20Fund.pdf)
 
