@@ -3,6 +3,7 @@ title: Thailand 2009
 permalink: /events/assa-board-meeting/thailand-2009/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: markdown
 ---
 ## Chiang Mai, Thailand
 Date: Oct 8 - 9, 2009
@@ -22,4 +23,5 @@ by Ms Chantana Boon-Arj, Chief of International Affairs, Social Security Office,
 #### THREE “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
 * [Social Security System, Philippines](/files/ASSA%20Board%20Meeting/Thailand%202009/Social%20Security%20System.pdf)
 * [Making Catastrophic Benefit Affordable: A Case Study of Renal Replacement Therapy, Thailand](/files/ASSA%20Board%20Meeting/Thailand%202009/Making%20Catastrophic%20Benefit%20Affordable.pdf)
-* [Service Quality, Brunei](/files/ASSA%20Board%20Meeting/Thailand%202009/Service%20Quality.pdf)
+* [Service Quality, Brunei Darussalam
+](/files/ASSA%20Board%20Meeting/Thailand%202009/Service%20Quality.pdf)
