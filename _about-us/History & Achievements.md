@@ -176,6 +176,6 @@ In 1995, the heads of several social security institutions in ASEAN took the fir
         <a class="has-text-link" href="https://www.asean-ssa.org/Member-Institutions-ASSA">Compilation of Social Security Schemes of ASSA Member Countries</a>
     </div>
     <div class="col is-4 has-text-centered content is-medium">
-        <a class="has-text-link" href="https://www.asean-ssa.org/publications/assa-recognition-award/2024">Compilation of the Good Practices of ASSA Member Institutions</a>
+        <a class="has-text-link" href="https://www.asean-ssa.org/2024/">Compilation of the Good Practices of ASSA Member Institutions</a>
     </div>
 </div>
