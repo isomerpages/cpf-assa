@@ -5,7 +5,7 @@ description: ""
 third_nav_title: ASSA Board Meetings
 variant: tiptap
 ---
-<h2>Hanoi, Vietnam</h2>
+<h2>Hanoi, Viet Nam</h2>
 <p>Date: Sep 16 - 17, 2010</p>
 <p>Delegates from the 17 ASSA member institutions attended the 26th ASSA
 Board Meeting and ASSA Seminar hosted by Vietnam Social Security, Viet
@@ -16,7 +16,7 @@ Nam.</p>
 <h4>THREE "GOOD PRACTICES" ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/ASSA%20Board%20Meeting/Vietnam%202010/CPF%20Board's%20Approach%20to%20Enforcement%20&amp;%20Recovery,%20CPFBoard.pdf" rel="noopener noreferrer nofollow" target="_blank">CPF Board's Approach to Enforcement &amp; Recovery, CPFBoard</a>
+<p><a href="/files/ASSA%20Board%20Meeting/Vietnam%202010/CPF%20Board's%20Approach%20to%20Enforcement%20&amp;%20Recovery,%20CPFBoard.pdf" rel="noopener noreferrer nofollow" target="_blank">CPF Board's Approach to Enforcement &amp; Recovery, CPF Board</a>
 </p>
 </li>
 <li>
