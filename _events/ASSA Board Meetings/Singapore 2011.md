@@ -3,6 +3,7 @@ title: Singapore 2011
 permalink: /events/assa-board-meeting/singapore-2011/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: markdown
 ---
 ## Singapore
 Date: Mar 23 - 25, 2011
@@ -23,7 +24,8 @@ by Mr Keith Walter, Director, Consulting & Software, South Asia, Towers Watson
 by Ms Margaret Lim, Senior Deputy Director (Healthcare Schemes), Central Provident Fund Board, Singapore
 
 #### SIX "GOOD PRACTICES" ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
-* [Customer Education, ETF, Brunei](/files/ASSA%20Board%20Meeting/Singapore%202011/Customer%20Education,%20ETF,%20Brunei.pdf)
+* [Customer Education, ETF, Brunei Darussalam
+](/files/ASSA%20Board%20Meeting/Singapore%202011/Customer%20Education,%20ETF,%20Brunei.pdf)
 * [Consumer Service in UC Program, NHSO, Thailand](/files/ASSA%20Board%20Meeting/Singapore%202011/Consumer%20Service%20in%20UC%20Program,%20NHSO,%20Thailand.pdf)
 * [Member and Employer Education, CPF Board, Singapore](/files/ASSA%20Board%20Meeting/Singapore%202011/Member%20and%20Employer%20Education,%20CPF%20Board,%20Singapore.pdf)
 * [The Return to Work Program, SOCSO, Malaysia](/files/ASSA%20Board%20Meeting/Singapore%202011/The%20Return%20to%20Work%20Program,%20SOCSO,%20Malaysia.pdf)

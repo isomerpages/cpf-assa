@@ -3,6 +3,7 @@ title: Malaysia 2014
 permalink: /events/assa-board-meeting/malaysia-2014/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: markdown
 ---
 ## Malaysia
 Date: Sep 8-10, 2014
@@ -32,7 +33,7 @@ by Mr Rakesh Mohan, Chairman and Managing Director, Unilever Malaysia and Singap
 #### SIX "GOOD PRACTICES" ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
 * [Work Injury Scheme Experience from Cambodia, National Social Security Fund, Cambodia](/files/ASSA%20Board%20Meeting/Malaysia%202014/WorkInjurySchemeExperiencefromCambodiaNationalSocialSecurityFundCambodia.pdf)
 * [Ensuring Social Health Insurance Coverage of Filipinos Abroad, Philippines Health Insurance Corporation, Philippines](/files/ASSA%20Board%20Meeting/Malaysia%202014/Ensuring-Social-Health-Insurance-Coverage-of-Filipinos-Abroad-Philippines-Health.pdf)
-* [Implementation of Social Health Insurance Policy, Vietnam Social Security, Vietnam](/files/ASSA%20Board%20Meeting/Malaysia%202014/Implementation-of-Social-Health-Insurance-Policy-Vietnam-Social-Security-Vietnam.pdf)
+* [Implementation of Social Health Insurance Policy, Vietnam Social Security, Viet Nam](/files/ASSA%20Board%20Meeting/Malaysia%202014/Implementation-of-Social-Health-Insurance-Policy-Vietnam-Social-Security-Vietnam.pdf)
 * [Social Security System: Challenges and Way Forward, Employees Provident Fund, Malaysia](/files/ASSA%20Board%20Meeting/Malaysia%202014/Social-Security-System-Challenges-and-Way-Forward-Employees-Provident-Fund-Malaysia.pdf)
 * [CPF LIFE - Singapore's Solution to Longevity Risk, Central Provident Fund Board, Singapore](/files/ASSA%20Board%20Meeting/Malaysia%202014/CPFLIFE-Singapore-Solution-to-Longevity-Risk-Central-Provident-Fund%20Board-Singapore.pdf)
 * [Demographic Change Old-Age Benefits Context, Social Security Office, Thailand](/files/ASSA%20Board%20Meeting/Malaysia%202014/Demographic-Change-Old-Age-Benefits-Context-Social-Security-Office-Thailand.pdf)

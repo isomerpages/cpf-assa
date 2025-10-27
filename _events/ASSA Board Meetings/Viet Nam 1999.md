@@ -1,8 +1,9 @@
 ---
-title: Vietnam 1999
+title: Viet Nam 1999
 permalink: /events/assa-board-meeting/vietnam-1999/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: tiptap
 ---
 ## Hanoi, Vietnam
 Date: May 14, 1999

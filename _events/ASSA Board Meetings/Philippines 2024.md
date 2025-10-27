@@ -40,7 +40,7 @@ Board Meeting hosted by Philippines.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/ASSA Board Meeting/Philippines 2024/No__5_VSS_Vietnam_Introduction_on_the_Organizational_Structure_and_its_Application_Solutions_in_Inspection_and_Audit_Activities_of_Vietnam_Social.pdf" rel="noopener nofollow" target="_blank">Introduction on the Organisational Structure and its Application Solutions in Inspection and Audit Activities of Vietnam Social Security</a>
+<p><a href="/files/ASSA Board Meeting/Philippines 2024/No__5_VSS_Vietnam_Introduction_on_the_Organizational_Structure_and_its_Application_Solutions_in_Inspection_and_Audit_Activities_of_Vietnam_Social.pdf" rel="noopener nofollow" target="_blank">Introduction on the Organisational Structure and its Application Solutions in Inspection and Audit Activities of Viet Nam Social Security</a>
 </p>
 </li>
 <li>

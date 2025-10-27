@@ -1,7 +1,8 @@
 ---
-title: Brunei
+title: Brunei Darussalam
 permalink: /member-institutions/brunei/
 description: ""
+variant: tiptap
 ---
 |  |  | 
 | -------- | -------- | 

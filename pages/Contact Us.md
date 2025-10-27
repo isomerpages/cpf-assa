@@ -14,7 +14,7 @@ variant: markdown
 ##### For queries pertaining specifically to the respective member institutions, please contact them directly.
 
 ##### Member Institutions
-[Employees Trust Fund, Brunei](/member-institutions/brunei)
+[Employees Trust Fund, Brunei Darussalam](/member-institutions/brunei)
 
 [National Fund for Veterans, Cambodia](/member-institutions/cambodia)
 
@@ -54,4 +54,4 @@ variant: markdown
 
 [Social Security Office, Thailand](/member-institutions/thailand)
 
-[Vietnam Social Security, Vietnam](/member-institutions/vietnam)
+[Vietnam Social Security, Viet Nam](/member-institutions/vietnam)

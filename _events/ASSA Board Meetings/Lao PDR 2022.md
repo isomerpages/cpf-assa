@@ -1,15 +1,16 @@
 ---
-title: Lao 2022
+title: Lao PDR 2022
 permalink: /events/assa-board-meeting/lao-2022/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: markdown
 ---
-## LAO
+## LAO PDR
 Date: Nov 23-24, 2022
 #### [MESSAGE FROM ASSA CHAIRMAN](/files/ASSA%20Board%20Meeting/Lao%202022/2022ASSAChairmanstatement.pdf)
-Delegates from the 19 ASSA member institutions attended the Virtual 39th ASSA Board Meeting hosted by LSSO, Lao.
+Delegates from the 19 ASSA member institutions attended the Virtual 39th ASSA Board Meeting hosted by LSSO, Lao PDR.
 
-&gt; ### HIGHLIGHT
+>### Highlights
 
 #### FOUR SPEAKERS SHARED ON THE FOLLOWING TOPICS:
 [SUSTAINABLE SOCIAL PROTECTION FOR A HUMAN CENTRED POST-PANDEMIC WORLD](/files/ASSA%20Board%20Meeting/Lao%202022/2022SeminarCeline.pdf)
@@ -19,14 +20,12 @@ by Ms. Celine Peyron Bista, Chief Technical Advisor, Manager of the EU funded Pr
 by Mr. Khamphy KHAMMAVONG, Program manager, OXFAM in Laos
 
 ##### [Decentralized funding and partnerships for rural development – Case study from LAO PDR](/files/ASSA%20Board%20Meeting/Lao%202022/2022SeminarPeter.pdf)
-by Mr. Peter Kurt Hansen, Chief Technical Advisor Lux-Development Programme LAO
+by Mr. Peter Kurt Hansen, Chief Technical Advisor Lux-Development Programme Lao
 
 ##### [Sustainable financing and improved public financing management for universal and adequate social protection](/files/ASSA%20Board%20Meeting/Lao%202022/2022SeminarSimon.pdf)
 by Mr. Simon Brimblecombe, Chief Technical Adviser, ILO
 
-<br>
-
-&gt; ### GOOD PRACTICES
+### GOOD PRACTICES
 
 ##### SEVEN “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:
 * [Top 10 actuarial and investment issues for social security institutions](/files/ASSA%20Board%20Meeting/Lao%202022/2022GoodpracticeILO.pdf)

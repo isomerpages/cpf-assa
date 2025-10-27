@@ -1,8 +1,9 @@
 ---
-title: Brunei 2006
+title: Brunei Darussalam 2006
 permalink: /events/assa-board-meeting/brunei-2006/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: tiptap
 ---
 ## Brunei 
 Date: Mar 9, 2006

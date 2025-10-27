@@ -3,6 +3,7 @@ title: Lao PDR 2013
 permalink: /events/assa-board-meeting/lao-2013/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: markdown
 ---
 ## LAO PDR
 Date: Oct 25 - Nov 2, 2013
@@ -31,5 +32,6 @@ by Mr Ngo Thien Ky, Deputy Chief Executive Officer, Lanezang Securities Public C
 
 * [Best Practices on Customer Service, Employees Provident Fund, Malaysia](/files/ASSA%20Board%20Meeting/Lao%202013/Best-Practices-on-Customer-Service-Employees-Provident-Fund-Malaysia.pdf)
 * [Closer Access and Friendlier Service to Our Customers, PT Jamsostek (Persero), Indonesia](/files/ASSA%20Board%20Meeting/Lao%202013/Closer-Access-and-Friendlier-Service-to-Our-Customers-PT-Jamsostek-Persero-Indonesia.pdf)
-* [Customer Service, Employees Trust Fund, Brunei](/files/ASSA%20Board%20Meeting/Lao%202013/Customer-Service-Employees-Trust-Fund-Brunei.pdf)
+* [Customer Service, Employees Trust Fund, Brunei Darussalam
+](/files/ASSA%20Board%20Meeting/Lao%202013/Customer-Service-Employees-Trust-Fund-Brunei.pdf)
 * [Social Health Insurance Towards UHC, Social Security Organisation, Lao PDR](/files/ASSA%20Board%20Meeting/Lao%202013/Social-Health-Insurance-Towards-UHC-Social-Security-Organisation-Lao-PDRi.pdf)

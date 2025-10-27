@@ -3,6 +3,7 @@ title: Cambodia 2020
 permalink: /events/assa-board-meeting/cambodia-2020/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: markdown
 ---
 ## CAMBODIA
 Date: Dec 09, 2020
@@ -30,4 +31,4 @@ by Mr Nuno Meira Simoes Da Cunha, Senior Technical Specialist on Social Protecti
 * [Implementation of Health Insurance for Workers in Informal Economy by Philippines Health Insurance Corporation, Philippines](/files/ASSA%20Board%20Meeting/Cambodia%202020/Implementation%20of%20Health%20Insurance%20for%20Workers%20in%20Informal%20Economy%20by%20Philippines%20Health.pdf)
 * [Portability of Social Security for Migrant Workers by Social Security System, Philippines](/files/ASSA%20Board%20Meeting/Cambodia%202020/Portability%20of%20Social%20Security%20for%20Migrant%20Workers%20by%20Social%20Security%20System,%20Philippines.pdf)
 * [Efficiency Communication by Social Security Organisation, Thailand](/files/ASSA%20Board%20Meeting/Cambodia%202020/Efficiency%20Communication%20by%20Social%20Security%20Organisation,%20Thailand.pdf)
-* [Experience Sharing Securing Social Security for Businesses and People During COVID-19 by Vietnam Social Security, Vietnam](/files/ASSA%20Board%20Meeting/Cambodia%202020/Experience%20Sharing%20Securing%20Social%20Security%20for%20Businesses%20and%20People%20During%20COVID-19%20by%20Vietnam.pdf)
+* [Experience Sharing Securing Social Security for Businesses and People During COVID-19 by Viet Nam Social Security, Viet Nam](/files/ASSA%20Board%20Meeting/Cambodia%202020/Experience%20Sharing%20Securing%20Social%20Security%20for%20Businesses%20and%20People%20During%20COVID-19%20by%20Vietnam.pdf)

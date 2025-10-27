@@ -2,7 +2,7 @@ collections:
   member-institutions:
     output: true
     order:
-      - Brunei.md
+      - Brunei Darussalam.md
       - Cambodia.md
       - Indonesia.md
       - Lao PDR.md
@@ -11,4 +11,4 @@ collections:
       - Philippines.md
       - Singapore.md
       - Thailand.md
-      - Vietnam.md
+      - Viet Nam.md

@@ -1,8 +1,9 @@
 ---
-title: Vietnam 2005
+title: Viet Nam 2005
 permalink: /events/assa-board-meeting/vietnam-2005/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: tiptap
 ---
 ## Danang, Vietnam
 Date: Apr 8, 2005

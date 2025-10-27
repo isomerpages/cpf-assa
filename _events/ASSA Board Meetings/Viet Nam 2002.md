@@ -1,8 +1,9 @@
 ---
-title: Vietnam 2002
+title: Viet Nam 2002
 permalink: /events/assa-board-meeting/vietnam-2002/
 description: ""
 third_nav_title: ASSA Board Meetings
+variant: tiptap
 ---
 ## Ho Chi Minh City, Vietnam
 Date: Aug 02, 2002
