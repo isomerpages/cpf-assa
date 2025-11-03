@@ -12,7 +12,7 @@ sections:
       background: /images/ASSA_Conference_and_Board_Meeting_2025.png
       variant: center
       title: 42nd ASSA Conference and Meeting 2025
-      subtitle: Brunei Darussalam
+      subtitle: 4 Nov - 6 Nov 2025, Brunei Darussalam
       button: VISIT ASSA 2024 MICROSITE HERE
       url: https://assa.gsis.gov.ph/
   - infobar:
