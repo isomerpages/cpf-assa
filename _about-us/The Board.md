@@ -250,7 +250,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Atty. Kaima Via B. Velasquez" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Atty. Kaima Via B. Velasquez" src="/images/Board/KAIMA_VIA_VALASQUEZ.png">
     </div>
     <p>
       <strong>ATTY. KAIMA VIA B. VELASQUEZ</strong><br>
