@@ -203,7 +203,7 @@ variant: markdown
       <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Hon. Marilene C. Acosta" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
-      <strong>HON. MARILENE C. ACOSTA</strong><br>
+      <strong>MR JOSE ARNULFO A VELOSO</strong><br>
       Chief Executive Officer<br>
       Home Development Mutual Fund<br>
       Philippines<br>
@@ -264,14 +264,14 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Ms Melissa Khoo" src="/images/Board/melissa khoo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Ms Melissa Khoo" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
-      <strong>MS MELISSA KHOO</strong><br>
+      <strong>HON MARILENE C. ACOSTA</strong><br>
       Chief Executive Officer<br>
-      Central Provident Fund Board<br>
-      Singapore<br>
-      <strong><a href="/files/Biography/melissa khoo.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+      Home Development Mutual Fund<br>
+      Philippines<br>
+      <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 </div>
