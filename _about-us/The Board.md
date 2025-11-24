@@ -24,13 +24,13 @@ variant: markdown
 <h3>VICE-CHAIRMAN, ASSA</h3>
 <div style="display: flex; align-items: center; gap: 110px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/melissa_khoo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/melissa khoo.png">
 </div>
-    <p style="text-align: center;"><strong>MR HAJI MD ADFARUL BIN HAJI MAZ ADANAN</strong> 
-<br>Managing Director
-<br>Employees Trust Fund
-<br>Brunei Darussalam
-<br><strong><a href="/files/Biography/haji md adfarul.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+    <p style="text-align: center;"><strong>MS MELISSA KHOO</strong> 
+<br>Chief Executive Officer
+<br>Central Provident Fund
+<br>Singapore
+<br><strong><a href="/files/Biography/melissa khoo.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
 </p>
   </div>
 
