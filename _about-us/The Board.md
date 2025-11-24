@@ -6,44 +6,47 @@ variant: markdown
 ---
 <h2>CURRENT BOARD MEMBERS OF ASSA</h2>
 <h3>CHAIRMAN, ASSA</h3>
-
-<div style="display: flex; align-items: center; gap: 150px;">
+<div style="display: flex; align-items: center; gap: 110px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
-    <img style="width: 100%; height: auto;" alt="AZMILEN HJ RAMLEE" src="/images/Board/Azmilen_Hj_Ramlee.jpg">
+    <img style="height: 300px; width: auto; object-fit: cover;" alt="AZMILEN HJ RAMLEE" src="/images/Board/TAP_Azmilen_Hj_Ramlee.jpg">
   </div>
-  <div>
-    <p style="text-align: center;"><strong>MR AZMILEN HJ RAMLEE</strong><br>
-      Interim Managing Director<br>
-      Employee Trust Fund<br>
-      Brunei Darussalam<br>
-      <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
-    </p>
-  </div>
+  <p style="text-align: center;">
+    <strong>MR AZMILEN HJ RAMLEE</strong><br>
+    Interim Managing Director<br>
+    Employee Trust Fund<br>
+    Brunei Darussalam<br>
+    <strong>
+      <a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a>
+    </strong>
+  </p>
 </div>
 
 <h3>VICE-CHAIRMAN, ASSA</h3>
 <div style="display: flex; align-items: center; gap: 110px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/melissa khoo.png">
-</div>
-    <p style="text-align: center;"><strong>MS MELISSA KHOO</strong> 
-<br>Chief Executive Officer
-<br>Central Provident Fund
-<br>Singapore
-<br><strong><a href="/files/Biography/melissa khoo.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
-</p>
+    <img style="height: 300px; width: auto; object-fit: cover;" alt="MELISSA KHOO" src="/images/Board/melissa khoo.png">
   </div>
+  <p style="text-align: center;">
+    <strong>MS MELISSA KHOO</strong><br>
+    Chief Executive Officer<br>
+    Central Provident Fund<br>
+    Singapore<br>
+    <strong>
+      <a href="/files/Biography/melissa khoo.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a>
+    </strong>
+  </p>
+</div>
 
 
 <h3>SECRETARY GENERAL, ASSA</h3>
 <div style="display: flex; align-items: center; gap: 150px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/GSIS_Sect_Gen.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/Hj_Ibnu_Shahrinuddin.jpg">
 </div>
-<p style="text-align: center;"> <br><strong>ATTY. JOSEPH PHILIP T. ANDRES</strong> 
-<br>Senior Vice President, Core Business Sector
-<br>Government Service Insurance System
-<br>Philippines
+<p style="text-align: center;"> <br><strong>MR HJ IBNU SHAHRINUDDIN HJ IBRAHIM</strong> 
+<br>Deputy Managing Director
+<br>Employee Trust Fund
+<br>Brunei Darussalam
 <br> <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
