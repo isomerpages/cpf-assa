@@ -9,14 +9,14 @@ variant: markdown
 
 <div style="display: flex; align-items: center; gap: 150px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
-    <img style="width: 100%; height: auto;" alt="Jose Arnulfo A Veloso" src="/images/Board/jose arnulfo a veloso.jpg">
+    <img style="width: 100%; height: auto;" alt="AZMILEN HJ RAMLEE" src="/images/Board/Azmilen_Hj_Ramlee.jpg">
   </div>
   <div>
-    <p style="text-align: center;"><strong>MR JOSE ARNULFO A VELOSO</strong><br>
-      President and General Manager<br>
-      Government Service Insurance System<br>
-      Philippines<br>
-      <strong><a href="/files/Biography/Jose Arnulfo A Veloso.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+    <p style="text-align: center;"><strong>MR AZMILEN HJ RAMLEE</strong><br>
+      Interim Managing Director<br>
+      Employee Trust Fund<br>
+      Brunei Darussalam<br>
+      <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 </div>
@@ -24,7 +24,7 @@ variant: markdown
 <h3>VICE-CHAIRMAN, ASSA</h3>
 <div style="display: flex; align-items: center; gap: 110px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/haji md adfarul.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/melissa_khoo.jpg">
 </div>
     <p style="text-align: center;"><strong>MR HAJI MD ADFARUL BIN HAJI MAZ ADANAN</strong> 
 <br>Managing Director
