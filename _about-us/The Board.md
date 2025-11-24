@@ -29,7 +29,7 @@ variant: markdown
   <p style="text-align: center;">
     <strong>MS MELISSA KHOO</strong><br>
     Chief Executive Officer<br>
-    Central Provident Fund<br>
+    Central Provident Fund Board<br>
     Singapore<br>
     <strong>
       <a href="/files/Biography/melissa khoo.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a>
