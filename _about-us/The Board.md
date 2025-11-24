@@ -200,14 +200,14 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Hon. Marilene C. Acosta" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="jose arnulfo a veloso" src="/images/Board/jose arnulfo a veloso.jpg">
     </div>
     <p>
       <strong>MR JOSE ARNULFO A VELOSO</strong><br>
-      Chief Executive Officer<br>
-      Home Development Mutual Fund<br>
+      President and General Manager<br>
+      Government Service Insurance System<br>
       Philippines<br>
-      <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+      <strong><a href="/files/Biography/Jose Arnulfo A Veloso.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 </div>
