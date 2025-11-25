@@ -6,44 +6,47 @@ variant: markdown
 ---
 <h2>CURRENT BOARD MEMBERS OF ASSA</h2>
 <h3>CHAIRMAN, ASSA</h3>
-
-<div style="display: flex; align-items: center; gap: 150px;">
+<div style="display: flex; align-items: center; gap: 110px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
-    <img style="width: 100%; height: auto;" alt="Jose Arnulfo A Veloso" src="/images/Board/jose arnulfo a veloso.jpg">
+    <img style="height: 300px; width: auto; object-fit: cover;" alt="AZMILEN HJ RAMLEE" src="/images/Board/TAP_Azmilen_Hj_Ramlee.jpg">
   </div>
-  <div>
-    <p style="text-align: center;"><strong>MR JOSE ARNULFO A VELOSO</strong><br>
-      President and General Manager<br>
-      Government Service Insurance System<br>
-      Philippines<br>
-      <strong><a href="/files/Biography/Jose Arnulfo A Veloso.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
-    </p>
-  </div>
+  <p style="text-align: center;">
+    <strong>MR AZMILEN HJ RAMLEE</strong><br>
+    Interim Managing Director<br>
+    Employee Trust Fund<br>
+    Brunei Darussalam<br>
+    <strong>
+      <a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a>
+    </strong>
+  </p>
 </div>
 
 <h3>VICE-CHAIRMAN, ASSA</h3>
 <div style="display: flex; align-items: center; gap: 110px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/haji md adfarul.jpg">
-</div>
-    <p style="text-align: center;"><strong>MR HAJI MD ADFARUL BIN HAJI MAZ ADANAN</strong> 
-<br>Managing Director
-<br>Employees Trust Fund
-<br>Brunei Darussalam
-<br><strong><a href="/files/Biography/haji md adfarul.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
-</p>
+    <img style="height: 300px; width: auto; object-fit: cover;" alt="MELISSA KHOO" src="/images/Board/melissa khoo.png">
   </div>
+  <p style="text-align: center;">
+    <strong>MS MELISSA KHOO</strong><br>
+    Chief Executive Officer<br>
+    Central Provident Fund Board<br>
+    Singapore<br>
+    <strong>
+      <a href="/files/Biography/melissa khoo.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a>
+    </strong>
+  </p>
+</div>
 
 
 <h3>SECRETARY GENERAL, ASSA</h3>
 <div style="display: flex; align-items: center; gap: 150px;">
   <div style="flex: 0 0 250px;" class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/GSIS_Sect_Gen.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/Hj_Ibnu_Shahrinuddin.jpg">
 </div>
-<p style="text-align: center;"> <br><strong>ATTY. JOSEPH PHILIP T. ANDRES</strong> 
-<br>Senior Vice President, Core Business Sector
-<br>Government Service Insurance System
-<br>Philippines
+<p style="text-align: center;"> <br><strong>MR HJ IBNU SHAHRINUDDIN HJ IBRAHIM</strong> 
+<br>Deputy Managing Director
+<br>Employee Trust Fund
+<br>Brunei Darussalam
 <br> <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
@@ -197,14 +200,14 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Hon. Marilene C. Acosta" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="jose arnulfo a veloso" src="/images/Board/jose arnulfo a veloso.jpg">
     </div>
     <p>
-      <strong>HON. MARILENE C. ACOSTA</strong><br>
-      Chief Executive Officer<br>
-      Home Development Mutual Fund<br>
+      <strong>MR JOSE ARNULFO A VELOSO</strong><br>
+      President and General Manager<br>
+      Government Service Insurance System<br>
       Philippines<br>
-      <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+      <strong><a href="/files/Biography/Jose Arnulfo A Veloso.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 </div>
@@ -247,7 +250,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Atty. Kaima Via B. Velasquez" src="/images/Board/placeholder_photo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Atty. Kaima Via B. Velasquez" src="/images/Board/KAIMA_VIA_VALASQUEZ.png">
     </div>
     <p>
       <strong>ATTY. KAIMA VIA B. VELASQUEZ</strong><br>
@@ -261,14 +264,14 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Ms Melissa Khoo" src="/images/Board/melissa khoo.png">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Ms Melissa Khoo" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
-      <strong>MS MELISSA KHOO</strong><br>
+      <strong>HON MARILENE C. ACOSTA</strong><br>
       Chief Executive Officer<br>
-      Central Provident Fund Board<br>
-      Singapore<br>
-      <strong><a href="/files/Biography/melissa khoo.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+      Home Development Mutual Fund<br>
+      Philippines<br>
+      <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 </div>
