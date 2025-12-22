@@ -282,10 +282,10 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mrs Marasri Jairungsri" src="/images/Board/BUPPA_REUNGSUD.jpg">
+				<img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Ms Kanjana Poolkaew" src="/images/Board/Kanjana_Poolkaew.jpg">
     </div>
     <p>
-      <strong>MISS BUPPA REUNGSUD</strong><br>
+      <strong>MS KANJANA POOLKAEW</strong><br>
       Secretary-General<br>
       Social Security Office<br>
       Thailand<br>
