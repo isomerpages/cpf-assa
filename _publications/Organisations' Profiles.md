@@ -10,7 +10,7 @@ variant: markdown
 
 [CAMBODIA - NATIONAL SOCIAL ASSISTANCE FUND](/files/Organisation%20Profiles/CamodiaNSAFProfile.pdf)
 
-[CAMBODIA - NATIONAL SOCIAL SECURITY FUND](/files/Organisation%20Profiles/NSSF%20Profile%20Update%202015.pdf)
+[CAMBODIA - NATIONAL SOCIAL SECURITY FUND](/files/Organisation%20Profiles/CambodiaNSSFProfile.pdf)
 
 [INDONESIA - BPJS KESEHATAN](/files/Organisation%20Profiles/INSSA%20Profile%202014.pdf)
 
