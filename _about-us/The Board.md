@@ -289,7 +289,7 @@ variant: markdown
       Secretary-General<br>
       Social Security Office<br>
       Thailand<br>
-      <strong><a href="/files/Biography/Buppa_Reungsud.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+      <strong><a href="/files/Biography/KANJANA_POOLKAEW.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 
