@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## PROFILES OF ASSA MEMBER ORGANISATIONS
 
-[BRUNEI DARUSSALAM - EMPLOYEES TRUST FUND](/files/Organisation%20Profiles/BruneiETFProfile.pdf)
+[BRUNEI DARUSSALAM - EMPLOYEES TRUST FUND](/files/Organisation%20Profiles/BruneiETFProfile2025.pdf)
 
 [CAMBODIA - NATIONAL SOCIAL ASSISTANCE FUND](/files/Organisation%20Profiles/CamodiaNSAFProfile.pdf)
 
