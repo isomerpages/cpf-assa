@@ -36,3 +36,6 @@ variant: markdown
 | **DISABILITY** |  | 
 | **DEATH** |  | 
 | **OTHERS*** |  |
+
+
+\> \###### \\\* Other Social Security Benefits include life insurance, social assistance, unemployment, maternity, occupational disease, sickness, invalidity, rehabilitation & funeral benefits.
