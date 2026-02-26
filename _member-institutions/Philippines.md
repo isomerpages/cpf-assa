@@ -27,7 +27,7 @@ variant: markdown
 | **Address** | GSIS Building, Financial Center Roxas Blvd, Pasay City, Manila, Philippines | 
 | **Phone** | 632 8847 4747 | 
 | **Email** | [gsiscares@gsis.gov.ph](mailto:gsiscares@gsis.gov.ph) | 
-| **Website** | [http://www.gsis.gov.ph/](http://www.gsis.gov.ph/) | 
+| **Website** | [https://www.gsis.gov.ph/](https://www.gsis.gov.ph/) | 
 | | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** | ✔ | 
