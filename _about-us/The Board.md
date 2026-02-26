@@ -207,7 +207,7 @@ variant: markdown
       President and General Manager<br>
       Government Service Insurance System<br>
       Philippines<br>
-      <strong><a href="/files/Biography/Jose Arnulfo A Veloso.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+      <strong><a href="/files/Biography/JOSE_ARNULFO.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 </div>
