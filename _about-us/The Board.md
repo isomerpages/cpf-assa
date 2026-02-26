@@ -200,7 +200,7 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="jose arnulfo a veloso" src="/images/Board/jose arnulfo a veloso.jpg">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="jose arnulfo a veloso" src="/images/Board/GSIS_JOSE_ARNULFO.png">
     </div>
     <p>
       <strong>MR JOSE ARNULFO A VELOSO</strong><br>
