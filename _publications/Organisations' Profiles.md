@@ -25,7 +25,7 @@ variant: markdown
 [MALAYSIA - SOCIAL SECURITY ORGANISATION](/files/Organisation%20Profiles/SOCSO%20Malaysia.pdf)
 
 
-[MYANMAR - SOCIAL SECURITY BOARD](/files/Organisation%20Profiles/Social%20Security%20Board-Myanmar.pdf)
+[MYANMAR - SOCIAL SECURITY BOARD](/files/Organisation%20Profiles/MyanmarSSBProfile2025.pdf)
 
 [PHILIPPINES - EMPLOYEES' COMPENSATION COMMISSION](/files/Organisation%20Profiles/ASSA%20ECC%20Updates%20as%20of%20September%202017.pdf)
 
