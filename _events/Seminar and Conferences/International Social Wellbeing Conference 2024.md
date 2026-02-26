@@ -37,5 +37,4 @@ insights, explore innovative approaches, and inspire proactive actions
 to enhance the wellbeing of the elderly, families, and society.</p>
 <p>Join us in paving the way to building a resilient and inclusive society
 where everyone can live well and step into the golden years with dignity.</p>
-<h4>View ISWC 2024 Event Highlights Here:<br><a href="https://iswc.kwsp.gov.my/wp-content/uploads/2025/04/2.-ISWC-2024-Event-Highlight-Video.mp4" rel="noopener nofollow" target="_blank">ISWC 2024</a></h4>
 <p></p>
