@@ -2,6 +2,7 @@
 title: Malaysia
 permalink: /member-institutions/malaysia/
 description: ""
+variant: markdown
 ---
 |  |  | 
 | -------- | -------- | 
@@ -43,7 +44,7 @@ description: ""
 | **Address** | 18th Floor, Menara PERKESO, 281 Jalan Ampang, 50538 Kuala Lumpur, Malaysia | 
 | **Phone** | 603 4264 5462 | 
 | **Email** | [perkeso@perkeso.gov.my](mailto:perkeso@perkeso.gov.my) | 
-| **Website** | [http://www.perkeso.gov.my/](http://www.perkeso.gov.my/) | 
+| **Website** | [https://www.perkeso.gov.my/](https://www.perkeso.gov.my/) | 
 | | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** |  | 
 | **HEALTHCARE** |   | 
