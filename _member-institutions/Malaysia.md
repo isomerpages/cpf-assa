@@ -10,7 +10,7 @@ variant: markdown
 | **Address** | Bangunan KWSP, Jalan Raja Laut, 50350 Kuala Lumpur, Malaysia | 
 | **Phone** | 603 2694 6566 | 
 | **Email** | [enquiry@epf.gov.my](mailto:enquiry@epf.gov.my) | 
-| **Website** | [http://www.kwsp.gov.my/](http://www.kwsp.gov.my/) | 
+| **Website** | [https://www.kwsp.gov.my/](https://www.kwsp.gov.my/) | 
 | | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** |  | 
 | **HEALTHCARE** |  ✔ | 
