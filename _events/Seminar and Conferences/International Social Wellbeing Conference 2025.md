@@ -48,7 +48,7 @@ workforce shift;</p>
 <p>Harnessing intergenerational collaboration to build a thriving, inclusive&nbsp;society</p>
 </li>
 </ul>
-<h4>To find out more about ISWC 2025, you may visit the website here:<br><a href="https://iswc.kwsp.gov.my/#" rel="noopener nofollow" target="_blank">ISWC 2025</a></h4>
-<h4>To register, click on the link below:<br><a href="https://registration.iswc.kwsp.gov.my/intro" rel="noopener nofollow" target="_blank">Register for ISWC 2025</a></h4>
+<h4></h4>
+<h4></h4>
 <h5></h5>
 <p></p>
