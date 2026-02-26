@@ -2,6 +2,7 @@
 title: Myanmar
 permalink: /member-institutions/myanmar/
 description: ""
+variant: markdown
 ---
 |  |  | 
 | -------- | -------- | 
@@ -9,7 +10,7 @@ description: ""
 | **Address** | No. 77, Shwe Taung Thiri Road, Zawanathaitdi Quarter, Ottarathiri Township, Naypyitaw, The Republic of the Union of Myanmar | 
 | **Phone** | 95 67 3417934 | 
 | **Email** | [ssbmyanmar51@gmail.com;mgmgaye.18686@gmail.com](mailto:ssbmyanmar51@gmail.com;mgmgaye.18686@gmail.com) | 
-| **Website** | [http://www.mol.gov.mm/](http://www.mol.gov.mm/) | 
+| **Website** | [https://www.ssb.gov.mm/](http://www.mol.gov.mm/) | 
 | | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** |  | 
 | **HEALTHCARE** |  ✔ | 
