@@ -189,11 +189,11 @@ variant: markdown
       <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Tin Ko Ko Naing" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
-      <strong>MR TIN KO KO NAING</strong><br>
+      <strong>MS AYE AYE MOE</strong><br>
       Director General<br>
       Social Security Board<br>
       Myanmar<br>
-      <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+      <strong><a href="/files/Biography/AyeAyeMoe_SSB.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 
