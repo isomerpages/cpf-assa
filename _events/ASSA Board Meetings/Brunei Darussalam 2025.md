@@ -31,8 +31,7 @@ the Pacific,&nbsp;International Social Security Association (ISSA)</p>
 <h5>NINE “GOOD PRACTICES” ARTICLES WERE PRESENTED BY ASSA MEMBER INSTITUTIONS:</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/1__Good_Practice_1_Behind_the_Scenes.pdf" rel="noopener noreferrer nofollow" target="_blank">Behin</a>
-<a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/1__Good_Practice_1_Behind_the_Scenes.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/1__Good_Practice_1_Behind_the_Scenes.pdf" rel="noopener noreferrer nofollow" target="_blank">d the Scenes: Skim Persaraan Kebangsaan (SPK)</a>
+<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/1__Good_Practice_1_Behind_the_Scenes.pdf" rel="noopener noreferrer nofollow" target="_blank">Behind the Scenes: Skim Persaraan Kebangsaan (SPK)</a>
 </p>
 </li>
 <li>
@@ -40,28 +39,23 @@ the Pacific,&nbsp;International Social Security Association (ISSA)</p>
 </p>
 </li>
 <li>
-<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/3__good_practice_3_for_assa_building_community_champions_through_gamified_volunteering.pdf" rel="noopener noreferrer nofollow" target="_blank">Building community ch</a>
-<a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/3__good_practice_3_for_assa_building_community_champions_through_gamified_volunteering.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/3__good_practice_3_for_assa_building_community_champions_through_gamified_volunteering.pdf" rel="noopener noreferrer nofollow" target="_blank">ampions through gamified volunteering&nbsp;</a>
+<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/3__good_practice_3_for_assa_building_community_champions_through_gamified_volunteering.pdf" rel="noopener noreferrer nofollow" target="_blank">Building Community Champions Through Gamified Volunteering&nbsp;</a>
 </p>
 </li>
 <li>
-<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/4__good_practice_4_pag_ibig_fund_s_story___collective_progress_through_transformative_reforms.pdf" rel="noopener noreferrer nofollow" target="_blank">Pa</a>
-<a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/4__good_practice_4_pag_ibig_fund_s_story___collective_progress_through_transformative_reforms.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/4__good_practice_4_pag_ibig_fund_s_story___collective_progress_through_transformative_reforms.pdf" rel="noopener noreferrer nofollow" target="_blank">g-IBIG Fund’s Story: Collective Progress Through Transformative Reforms</a>
+<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/4__good_practice_4_pag_ibig_fund_s_story___collective_progress_through_transformative_reforms.pdf" rel="noopener noreferrer nofollow" target="_blank">Pag-IBIG Fund’s Story: Collective Progress Through Transformative Reforms</a>
 </p>
 </li>
 <li>
-<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/5__Good_Practice_5__Building_Trust_Transforming_Public_Enagement_Through_RPCP__Latest_.pdf" rel="noopener noreferrer nofollow" target="_blank">Buildin</a>
-<a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/5__Good_Practice_5__Building_Trust_Transforming_Public_Enagement_Through_RPCP__Latest_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/5__Good_Practice_5__Building_Trust_Transforming_Public_Enagement_Through_RPCP__Latest_.pdf" rel="noopener noreferrer nofollow" target="_blank">g Trust: Transforming Public Engagement Through Retirement Planning Certification Programme&nbsp;(TAPᶜᴱᴿᵀ)</a>
+<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/5__Good_Practice_5__Building_Trust_Transforming_Public_Enagement_Through_RPCP__Latest_.pdf" rel="noopener noreferrer nofollow" target="_blank">Building Trust: Transforming Public Engagement Through Retirement Planning Certification Programme&nbsp;(TAPᶜᴱᴿᵀ)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/6__Good_Practice_6_Digital_Transformation_NSSF.pdf" rel="noopener noreferrer nofollow" target="_blank">Dig</a>
-<a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/6__Good_Practice_6_Digital_Transformation_NSSF.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/6__Good_Practice_6_Digital_Transformation_NSSF.pdf" rel="noopener noreferrer nofollow" target="_blank">ital Transformation of the NSSF Operational Systems</a>
+<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/6__Good_Practice_6_Digital_Transformation_NSSF.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Transformation of the NSSF Operational Systems</a>
 </p>
 </li>
 <li>
-<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/7__Good_Practice_7_Enhancing_Citizen_Experience.pdf" rel="noopener noreferrer nofollow" target="_blank">Enhan</a>
-<a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/7__Good_Practice_7_Enhancing_Citizen_Experience.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/7__Good_Practice_7_Enhancing_Citizen_Experience.pdf" rel="noopener noreferrer nofollow" target="_blank">cing Citizen Experience: Social Security Office Services under the Government Easy Contact Center (GECC)</a>
+<p><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/7__Good_Practice_7_Enhancing_Citizen_Experience.pdf" rel="noopener noreferrer nofollow" target="_blank">Enhancing Citizen Experience: Social Security Office Services under the Government Easy Contact Center (GECC)</a>
 </p>
 </li>
 <li>
