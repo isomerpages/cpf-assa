@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - ASSA Board Meetings/Brunei Darussalam 2025.md
       - ASSA Board Meetings/Philippines 2024.md
       - ASSA Board Meetings/Malaysia 2023.md
       - ASSA Board Meetings/Lao PDR 2022.md

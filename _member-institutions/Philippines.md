@@ -2,6 +2,7 @@
 title: Philippines
 permalink: /member-institutions/philippines/
 description: ""
+variant: markdown
 ---
 |  |  | 
 | -------- | -------- | 
@@ -26,7 +27,7 @@ description: ""
 | **Address** | GSIS Building, Financial Center Roxas Blvd, Pasay City, Manila, Philippines | 
 | **Phone** | 632 8847 4747 | 
 | **Email** | [gsiscares@gsis.gov.ph](mailto:gsiscares@gsis.gov.ph) | 
-| **Website** | [http://www.gsis.gov.ph/](http://www.gsis.gov.ph/) | 
+| **Website** | [https://www.gsis.gov.ph/](https://www.gsis.gov.ph/) | 
 | | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** | ✔ | 
@@ -43,7 +44,7 @@ description: ""
 | **Address** | 43rd Floor, Petron MegaPlaza Building, 358 Senator Gil Puyat Avenue, Makati City 1200 Metro Manila, Philippines | 
 | **Phone** | 632 724 4244 | 
 | **Email** | [contactus@pagibigfund.gov.ph](mailto:contactus@pagibigfund.gov.ph) | 
-| **Website** | [http://www.pagibigfund.gov.ph/](http://www.pagibigfund.gov.ph/) | 
+| **Website** | [https://www.pagibigfund.gov.ph/](https://www.pagibigfund.gov.ph/) | 
 | | **Category of Benefits**|
 | **RETIREMENT/OLD AGE** | ✔ | 
 | **HEALTHCARE** |  | 

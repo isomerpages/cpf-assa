@@ -31,5 +31,4 @@ to explore how the governments, organizations, and individuals of today
 can collectively build a better future amidst prevailing uncertainties.
 By bringing together diverse perspectives and experiences at ISWC, we hope
 to inspire action and create lasting change in the world.</p>
-<h4>View ISWC 2023 Event Highlights Here:<br><a href="https://iswc.kwsp.gov.my/wp-content/uploads/2025/04/1.-ISWC-2023-Event-Highlight-Video.mp4" rel="noopener nofollow" target="_blank">ISWC 2023</a></h4>
 <p></p>

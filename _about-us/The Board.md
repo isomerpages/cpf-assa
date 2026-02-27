@@ -189,25 +189,25 @@ variant: markdown
       <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mr Tin Ko Ko Naing" src="/images/Board/placeholder_photo.png">
     </div>
     <p>
-      <strong>MR TIN KO KO NAING</strong><br>
+      <strong>MS AYE AYE MOE</strong><br>
       Director General<br>
       Social Security Board<br>
       Myanmar<br>
-      <strong><a href="/files/Biography/to_be_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+      <strong><a href="/files/Biography/AyeAyeMoe_SSB.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="jose arnulfo a veloso" src="/images/Board/jose arnulfo a veloso.jpg">
+      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="jose arnulfo a veloso" src="/images/Board/GSIS_JOSE_ARNULFO.png">
     </div>
     <p>
       <strong>MR JOSE ARNULFO A VELOSO</strong><br>
       President and General Manager<br>
       Government Service Insurance System<br>
       Philippines<br>
-      <strong><a href="/files/Biography/Jose Arnulfo A Veloso.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+      <strong><a href="/files/Biography/JOSE_ARNULFO.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 </div>
@@ -282,14 +282,14 @@ variant: markdown
   
   <div style="flex: 1 1 300px; text-align: center;">
     <div class="isomer-image-wrapper">
-      <img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Mrs Marasri Jairungsri" src="/images/Board/BUPPA_REUNGSUD.jpg">
+				<img style="width: 220px; height: 270px; object-fit: cover; display: block; margin: 0 auto;" alt="Ms Kanjana Poolkaew" src="/images/Board/Kanjana_Poolkaew.jpg">
     </div>
     <p>
-      <strong>MISS BUPPA REUNGSUD</strong><br>
+      <strong>MS KANJANA POOLKAEW</strong><br>
       Secretary-General<br>
       Social Security Office<br>
       Thailand<br>
-      <strong><a href="/files/Biography/Buppa_Reungsud.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
+      <strong><a href="/files/Biography/KANJANA_POOLKAEW.pdf" rel="noopener noreferrer nofollow" target="_blank">BIOGRAPHY</a></strong>
     </p>
   </div>
 

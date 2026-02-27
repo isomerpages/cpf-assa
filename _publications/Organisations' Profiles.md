@@ -6,11 +6,11 @@ variant: markdown
 ---
 ## PROFILES OF ASSA MEMBER ORGANISATIONS
 
-[BRUNEI DARUSSALAM - EMPLOYEES TRUST FUND](/files/Organisation%20Profiles/BruneiETFProfile.pdf)
+[BRUNEI DARUSSALAM - EMPLOYEES TRUST FUND](/files/Organisation%20Profiles/BruneiETFProfile2025.pdf)
 
 [CAMBODIA - NATIONAL SOCIAL ASSISTANCE FUND](/files/Organisation%20Profiles/CamodiaNSAFProfile.pdf)
 
-[CAMBODIA - NATIONAL SOCIAL SECURITY FUND](/files/Organisation%20Profiles/NSSF%20Profile%20Update%202015.pdf)
+[CAMBODIA - NATIONAL SOCIAL SECURITY FUND](/files/Organisation%20Profiles/CambodiaNSSFProfile.pdf)
 
 [INDONESIA - BPJS KESEHATAN](/files/Organisation%20Profiles/INSSA%20Profile%202014.pdf)
 
@@ -25,7 +25,7 @@ variant: markdown
 [MALAYSIA - SOCIAL SECURITY ORGANISATION](/files/Organisation%20Profiles/SOCSO%20Malaysia.pdf)
 
 
-[MYANMAR - SOCIAL SECURITY BOARD](/files/Organisation%20Profiles/Social%20Security%20Board-Myanmar.pdf)
+[MYANMAR - SOCIAL SECURITY BOARD](/files/Organisation%20Profiles/MyanmarSSBProfile2025.pdf)
 
 [PHILIPPINES - EMPLOYEES' COMPENSATION COMMISSION](/files/Organisation%20Profiles/ASSA%20ECC%20Updates%20as%20of%20September%202017.pdf)
 

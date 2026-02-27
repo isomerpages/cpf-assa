@@ -2,6 +2,7 @@
 title: Indonesia
 permalink: /member-institutions/indonesia/
 description: ""
+variant: markdown
 ---
 |  |  | 
 | -------- | -------- | 
