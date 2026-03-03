@@ -16,8 +16,8 @@ Board Meeting hosted by Brunei Darussalam.</p>
 </blockquote>
 <h4>FOUR SPEAKERS SHARED ON THE FOLLOWING TOPICS:</h4>
 <h4><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/1__Plenary_1_Whole_of_Nation_Social_Development_.pdf" rel="noopener nofollow" target="_blank">Whole of Nation Social Development: Strengthening the Foundations Social Security Through Social Blueprint</a></h4>
-<p>by Yang Mulia Tuan Salminan Haji Burut, Permanent Secretary (Security
-and Welfare), Ministry Of Home Affairs, Member of TAP Board of Director</p>
+<p>by Yang Mulia Puan Hjh Nor Ashikin Haji Johari, Permanent Secretary (Community),
+Ministry of Culture, Youth and Sports</p>
 <h4><a href="/files/ASSA Board Meeting/Brunei Darussalam 2025/2__Plenary_2_Building_Sound_Retirement_Schemes_based_on_Equally_Sound_Principles_and_Financial_Functions.pdf" rel="noopener noreferrer nofollow" target="_blank">Building Sound Retirement Schemes based on Equally Sound Principles &amp; Financial Functions</a></h4>
 <p>by Professor Joseph Cherian, CEO President &amp; Dean,&nbsp;Asia School
 of Business</p>
